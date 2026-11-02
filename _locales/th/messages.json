@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "ติดตามลิมิตต่อเซสชันและรายสัปดาห์ของ Claude และ ChatGPT (Codex) ในป๊อปอัปและโอเวอร์เลย์บนหน้าเว็บ"
+   },
+   "appName": {
+      "message": "AI Usage Tracker: ลิมิตของ Claude และ Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "การรีเซ็ตที่ใช้ได้ · $1"
+   },
+   "emptyClaude": {
+      "message": "ยังไม่มีข้อมูล เปิด claude.ai ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyCodex": {
+      "message": "ยังไม่มีข้อมูล เปิด chatgpt.com ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyCursor": {
+      "message": "ยังไม่มีข้อมูล เปิด cursor.com ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyGlm": {
+      "message": "ยังไม่มีข้อมูล เปิด z.ai ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyKimi": {
+      "message": "ยังไม่มีข้อมูล เปิด kimi.com/code ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyMiMo": {
+      "message": "ยังไม่มีข้อมูล เปิด platform.xiaomimimo.com ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyMiniMax": {
+      "message": "ยังไม่มีข้อมูล เปิด platform.minimax.io ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "emptyOverlay": {
+      "message": "ยังไม่มีข้อมูล เปิดป๊อปอัปแล้วรีเฟรช"
+   },
+   "emptyQwen": {
+      "message": "ยังไม่มีข้อมูล เปิด qwencloud.com ขณะลงชื่อเข้าใช้แล้วรีเฟรช"
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "ซ่อนลิมิต"
+   },
+   "loadingSnapshot": {
+      "message": "กำลังโหลด"
+   },
+   "manualRefreshHint": {
+      "message": "ปิดการอัปเดตอัตโนมัติอยู่ กดรีเฟรชเพื่อโหลดการใช้งาน"
+   },
+   "nextResetLabel": {
+      "message": "รีเซ็ตอีก $1"
+   },
+   "notConnected": {
+      "message": "ยังไม่เชื่อมต่อ"
+   },
+   "optionsBadgeDescription": {
+      "message": "ไอคอนส่วนขยายเปลี่ยนทีละ 10% ตามแหล่งข้อมูลนี้"
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "ผู้ให้บริการนี้ถูกซ่อนในป๊อปอัป แต่ช่วงไอคอนยังทำงานอยู่"
+   },
+   "optionsBadgeHighest": {
+      "message": "สูงสุดจากผู้ให้บริการที่แสดงอยู่"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "ใช้เปอร์เซ็นต์ปัจจุบันที่สูงที่สุดจากการ์ดที่แสดง"
+   },
+   "optionsBadgeProvider": {
+      "message": "ผู้ให้บริการ"
+   },
+   "optionsBadgeSelected": {
+      "message": "ผู้ให้บริการที่เลือก"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "ใช้ผู้ให้บริการรายเดียวไม่ว่าการ์ดอื่นจะแสดงหรือไม่"
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "แหล่งของไอคอน"
+   },
+   "optionsBadgeSteps": {
+      "message": "ระดับของไอคอน"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "ปัดลงเป็น 10% ที่ใกล้ที่สุด"
+   },
+   "optionsBadgeTitle": {
+      "message": "ช่วงของไอคอน"
+   },
+   "optionsBadgeWindow": {
+      "message": "ช่วงการใช้งาน"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "เซสชัน"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "รายสัปดาห์"
+   },
+   "optionsGlmKeyHint": {
+      "message": "ไม่บังคับ ใช้เมื่อเบราว์เซอร์นี้ยังไม่ได้ลงชื่อเข้าใช้ z.ai หรือสำหรับบัญชี BigModel"
+   },
+   "optionsGlmKeyLabel": {
+      "message": "คีย์ API ของ GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "ภาษาของเบราว์เซอร์"
+   },
+   "optionsLanguageDescription": {
+      "message": "เลือกภาษาสำหรับป๊อปอัป หน้านี้ และโอเวอร์เลย์บนหน้าเว็บ"
+   },
+   "optionsLanguageHint": {
+      "message": "การเปลี่ยนภาษาจะโหลดหน้านี้ใหม่"
+   },
+   "optionsLanguageTitle": {
+      "message": "ภาษา"
+   },
+   "optionsLayoutDescription": {
+      "message": "เลือกวิธีจัดเรียงการ์ดผู้ให้บริการที่แสดงอยู่"
+   },
+   "optionsLayoutGrid": {
+      "message": "สองคอลัมน์"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "มุมมองกระชับ สองการ์ดต่อแถว"
+   },
+   "optionsLayoutSingle": {
+      "message": "หนึ่งคอลัมน์"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "การ์ดเต็มความกว้างสำหรับผู้ให้บริการแต่ละราย"
+   },
+   "optionsLayoutTitle": {
+      "message": "เลย์เอาต์ป๊อปอัป"
+   },
+   "optionsLoading": {
+      "message": "กำลังโหลดการตั้งค่า…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "การรีเซ็ตที่ใช้ได้"
+   },
+   "optionsMetricBalance": {
+      "message": "ยอดคงเหลือ"
+   },
+   "optionsMetricModels": {
+      "message": "แยกตามโมเดล"
+   },
+   "optionsMetricPlan": {
+      "message": "แพ็กเกจ"
+   },
+   "optionsMetricReset": {
+      "message": "เวลารีเซ็ต"
+   },
+   "optionsMetricSession": {
+      "message": "การใช้งานต่อเซสชัน"
+   },
+   "optionsMetricSummary": {
+      "message": "ยอดคงเหลือ / สรุป"
+   },
+   "optionsMetricWeekly": {
+      "message": "การใช้งานรายสัปดาห์"
+   },
+   "optionsNavBadge": {
+      "message": "ไอคอนบนแถบเครื่องมือ"
+   },
+   "optionsNavLabel": {
+      "message": "ส่วนการตั้งค่า"
+   },
+   "optionsNavLayout": {
+      "message": "เลย์เอาต์"
+   },
+   "optionsNavOverlays": {
+      "message": "โอเวอร์เลย์บนหน้าเว็บ"
+   },
+   "optionsNavProviders": {
+      "message": "ผู้ให้บริการ"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "เปิดโอเวอร์เลย์ $1 บนหน้าเว็บ"
+   },
+   "optionsOverlaysDescription": {
+      "message": "แสดงแคปซูลการใช้งานแบบพับได้ข้างช่องพิมพ์ข้อความ"
+   },
+   "optionsOverlaysTitle": {
+      "message": "โอเวอร์เลย์บนหน้าเว็บ"
+   },
+   "optionsPercentageDescription": {
+      "message": "แสดงว่าแต่ละขีดจำกัดใช้ไปหรือคงเหลือเท่าใด"
+   },
+   "optionsPercentageRemaining": {
+      "message": "คงเหลือ"
+   },
+   "optionsPercentageTitle": {
+      "message": "การแสดงขีดจำกัด"
+   },
+   "optionsPercentageUsed": {
+      "message": "ใช้แล้ว"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 จาก $2 รายการ"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "รายละเอียดการใช้งานของ $1"
+   },
+   "optionsProviderHidden": {
+      "message": "ซ่อนในป๊อปอัป"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "แสดง $1 ในป๊อปอัป"
+   },
+   "optionsProvidersDescription": {
+      "message": "ซ่อนการ์ดหรือเลือกรายละเอียดที่จะแสดง ข้อมูลที่ไม่มีจะถูกซ่อนอัตโนมัติ"
+   },
+   "optionsProvidersShown": {
+      "message": "แสดง $1 จาก $2"
+   },
+   "optionsProvidersTitle": {
+      "message": "ผู้ให้บริการ"
+   },
+   "optionsRefreshAuto": {
+      "message": "อัตโนมัติ"
+   },
+   "optionsRefreshDescription": {
+      "message": "เลือกอัปเดตอัตโนมัติหรือด้วยตนเอง"
+   },
+   "optionsRefreshInterval": {
+      "message": "ช่วงเวลา (นาที ขั้นต่ำ 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "เฉพาะเมื่อกดรีเฟรช"
+   },
+   "optionsRefreshTitle": {
+      "message": "การรีเฟรชการใช้งาน"
+   },
+   "optionsResetAction": {
+      "message": "รีเซ็ตค่าเริ่มต้น"
+   },
+   "optionsResetConfirm": {
+      "message": "คลิกอีกครั้งเพื่อยืนยัน"
+   },
+   "optionsResetDescription": {
+      "message": "คืนค่าการตั้งค่าทั้งหมดในหน้านี้ ย้อนกลับไม่ได้"
+   },
+   "optionsResetTitle": {
+      "message": "รีเซ็ตเป็นค่าเริ่มต้น"
+   },
+   "optionsSaveError": {
+      "message": "บันทึกไม่สำเร็จ"
+   },
+   "optionsSaved": {
+      "message": "บันทึกการเปลี่ยนแปลงทั้งหมดแล้ว"
+   },
+   "optionsSaving": {
+      "message": "กำลังบันทึก…"
+   },
+   "optionsSkip": {
+      "message": "ข้ามไปที่การตั้งค่า"
+   },
+   "optionsTitle": {
+      "message": "การตั้งค่า AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "เหลือ $1%"
+   },
+   "planLabel": {
+      "message": "แพ็กเกจ · $1"
+   },
+   "planUsage": {
+      "message": "การใช้งานตามแพ็กเกจ"
+   },
+   "popupTitle": {
+      "message": "การใช้งาน"
+   },
+   "refreshErrorPrefix": {
+      "message": "รีเฟรชไม่สำเร็จ"
+   },
+   "refreshFailed": {
+      "message": "การรีเฟรชล้มเหลว"
+   },
+   "refreshUsage": {
+      "message": "รีเฟรชการใช้งาน"
+   },
+   "refreshUsageLimits": {
+      "message": "รีเฟรชลิมิต"
+   },
+   "refreshing": {
+      "message": "กำลังรีเฟรช..."
+   },
+   "reportCancel": {
+      "message": "ยกเลิก"
+   },
+   "reportDescription": {
+      "message": "อธิบายว่าเกิดอะไรขึ้น รายงานจะส่งตรงถึงผู้พัฒนา"
+   },
+   "reportFailed": {
+      "message": "ส่งรายงานไม่สำเร็จ"
+   },
+   "reportOnGithub": {
+      "message": "เปิด issue บน GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "เกิดอะไรขึ้น ผู้ให้บริการรายใดได้รับผลกระทบ"
+   },
+   "reportPrivacy": {
+      "message": "ส่งข้อความของคุณพร้อมเวอร์ชันส่วนขยาย ภาษา และการ์ดผู้ให้บริการที่เปิดใช้งาน"
+   },
+   "reportProblem": {
+      "message": "รายงานปัญหา"
+   },
+   "reportSend": {
+      "message": "ส่ง"
+   },
+   "reportSending": {
+      "message": "กำลังส่ง…"
+   },
+   "reportSent": {
+      "message": "ขอบคุณ! ส่งรายงานแล้ว"
+   },
+   "reportTitle": {
+      "message": "รายงานปัญหา"
+   },
+   "resetsLabel": {
+      "message": "รีเซ็ตอีก $1"
+   },
+   "sessionExpired": {
+      "message": "เซสชันหมดอายุ"
+   },
+   "sessionLimit": {
+      "message": "เซสชัน · 5 ชม."
+   },
+   "showLimits": {
+      "message": "แสดงลิมิต"
+   },
+   "sourceCode": {
+      "message": "ซอร์สโค้ด"
+   },
+   "timeAgo": {
+      "message": "$1 ที่แล้ว"
+   },
+   "timeDayShort": {
+      "message": "ว"
+   },
+   "timeHourShort": {
+      "message": "ชม"
+   },
+   "timeJustNow": {
+      "message": "เมื่อสักครู่"
+   },
+   "timeMinuteShort": {
+      "message": "น"
+   },
+   "timeNow": {
+      "message": "ตอนนี้"
+   },
+   "timeUnknown": {
+      "message": "ไม่ทราบ"
+   },
+   "tokenPlan": {
+      "message": "แพ็กเกจโทเค็น"
+   },
+   "updated": {
+      "message": "อัปเดต $1"
+   },
+   "waitingForSnapshot": {
+      "message": "กำลังรอข้อมูล"
+   },
+   "weeklyLimit": {
+      "message": "รายสัปดาห์ · 7 วัน"
+   },
+   "welcomeCta": {
+      "message": "เริ่มใช้งาน"
+   },
+   "welcomeCtaHint": {
+      "message": "คุณสามารถถอนหมุดได้ภายหลังใน Chrome"
+   },
+   "welcomeStepOpen": {
+      "message": "คลิกไอคอนที่ปักหมุดไว้เพื่อดูการใช้งานของคุณ"
+   },
+   "welcomeStepPin": {
+      "message": "คลิกไอคอนส่วนขยาย {icon} บนแถบเครื่องมือ แล้วปักหมุด AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "ดูลิมิตได้ในคลิกเดียว — ป๊อปอัปเปิดจากแถบเครื่องมือโดยตรง"
+   },
+   "welcomeTitle": {
+      "message": "ปักหมุด AI Usage Tracker"
+   }
+}

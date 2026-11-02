@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Følg sessions- og ugegrænser for Claude og ChatGPT (Codex) i en popup og som overlay på siden. Uden opsætning."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: grænser for Claude og Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Tilgængelige nulstillinger · $1"
+   },
+   "emptyClaude": {
+      "message": "Ingen data endnu. Åbn claude.ai, mens du er logget ind, og opdater."
+   },
+   "emptyCodex": {
+      "message": "Ingen data endnu. Åbn chatgpt.com, mens du er logget ind, og opdater."
+   },
+   "emptyCursor": {
+      "message": "Ingen data endnu. Åbn cursor.com, mens du er logget ind, og opdater."
+   },
+   "emptyGlm": {
+      "message": "Ingen data endnu. Åbn z.ai, mens du er logget ind, og opdater."
+   },
+   "emptyKimi": {
+      "message": "Ingen data endnu. Åbn kimi.com/code, mens du er logget ind, og opdater."
+   },
+   "emptyMiMo": {
+      "message": "Ingen data endnu. Åbn platform.xiaomimimo.com, mens du er logget ind, og opdater."
+   },
+   "emptyMiniMax": {
+      "message": "Ingen data endnu. Åbn platform.minimax.io, mens du er logget ind, og opdater."
+   },
+   "emptyOverlay": {
+      "message": "Ingen data endnu. Åbn popuppen, og opdater."
+   },
+   "emptyQwen": {
+      "message": "Ingen data endnu. Åbn qwencloud.com, mens du er logget ind, og opdater."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Skjul grænser"
+   },
+   "loadingSnapshot": {
+      "message": "indlæser"
+   },
+   "manualRefreshHint": {
+      "message": "Automatisk opdatering er slået fra. Tryk på Opdater for at hente forbruget."
+   },
+   "nextResetLabel": {
+      "message": "nulstilles om $1"
+   },
+   "notConnected": {
+      "message": "ikke forbundet"
+   },
+   "optionsBadgeDescription": {
+      "message": "Udvidelsens ikon skifter i trin på 10 % ud fra denne kilde."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Udbyderen er skjult i popuppen, men ikonets interval er stadig aktivt."
+   },
+   "optionsBadgeHighest": {
+      "message": "Højeste blandt synlige udbydere"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Brug den højeste aktuelle procent blandt viste kort."
+   },
+   "optionsBadgeProvider": {
+      "message": "Udbyder"
+   },
+   "optionsBadgeSelected": {
+      "message": "Valgt udbyder"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Brug én udbyder uanset om andre kort vises."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Ikonkilde"
+   },
+   "optionsBadgeSteps": {
+      "message": "Ikonets trin"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "rundet ned til 10 %"
+   },
+   "optionsBadgeTitle": {
+      "message": "Ikonets interval"
+   },
+   "optionsBadgeWindow": {
+      "message": "Forbrugsvindue"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Session"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Uge"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Valgfrit. Brug den, hvis denne browser ikke er logget ind på z.ai, eller til BigModel-konti."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API-nøgle"
+   },
+   "optionsLanguageAuto": {
+      "message": "Browserens sprog"
+   },
+   "optionsLanguageDescription": {
+      "message": "Vælg sprog til popuppen, denne side og overlays."
+   },
+   "optionsLanguageHint": {
+      "message": "Skift af sprog genindlæser siden."
+   },
+   "optionsLanguageTitle": {
+      "message": "Sprog"
+   },
+   "optionsLayoutDescription": {
+      "message": "Vælg, hvordan synlige udbyderkort placeres i popuppen."
+   },
+   "optionsLayoutGrid": {
+      "message": "To kolonner"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompakt overblik med to kort pr. række."
+   },
+   "optionsLayoutSingle": {
+      "message": "Én kolonne"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Et kort i fuld bredde til hver udbyder."
+   },
+   "optionsLayoutTitle": {
+      "message": "Popup-layout"
+   },
+   "optionsLoading": {
+      "message": "Indlæser indstillinger…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Tilgængelige nulstillinger"
+   },
+   "optionsMetricBalance": {
+      "message": "Saldo"
+   },
+   "optionsMetricModels": {
+      "message": "Fordeling pr. model"
+   },
+   "optionsMetricPlan": {
+      "message": "Plan"
+   },
+   "optionsMetricReset": {
+      "message": "Nulstillingstid"
+   },
+   "optionsMetricSession": {
+      "message": "Sessionsforbrug"
+   },
+   "optionsMetricSummary": {
+      "message": "Saldo / oversigt"
+   },
+   "optionsMetricWeekly": {
+      "message": "Ugeforbrug"
+   },
+   "optionsNavBadge": {
+      "message": "Værktøjslinjeikon"
+   },
+   "optionsNavLabel": {
+      "message": "Indstillingsafsnit"
+   },
+   "optionsNavLayout": {
+      "message": "Layout"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlays på siden"
+   },
+   "optionsNavProviders": {
+      "message": "Udbydere"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Aktivér $1-overlay på siden"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Vis den sammenklappelige forbrugskapsel ved siden af beskedfeltet."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlays på siden"
+   },
+   "optionsPercentageDescription": {
+      "message": "Vis, hvor meget af hver grænse der er brugt eller tilbage."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Tilbage"
+   },
+   "optionsPercentageTitle": {
+      "message": "Visning af grænser"
+   },
+   "optionsPercentageUsed": {
+      "message": "Brugt"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 af $2 detaljer"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Forbrugsdetaljer for $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Skjult i popuppen"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Vis $1 i popuppen"
+   },
+   "optionsProvidersDescription": {
+      "message": "Skjul et kort, eller vælg hvilke oplysninger det viser. Utilgængelige data forbliver skjult."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 af $2 vises"
+   },
+   "optionsProvidersTitle": {
+      "message": "Udbydere"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatisk"
+   },
+   "optionsRefreshDescription": {
+      "message": "Vælg automatisk eller manuel opdatering."
+   },
+   "optionsRefreshInterval": {
+      "message": "Interval (minutter, mindst 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Kun via Opdater"
+   },
+   "optionsRefreshTitle": {
+      "message": "Opdatering af forbrug"
+   },
+   "optionsResetAction": {
+      "message": "Nulstil"
+   },
+   "optionsResetConfirm": {
+      "message": "Klik igen for at bekræfte"
+   },
+   "optionsResetDescription": {
+      "message": "Gendanner alle indstillinger på denne side. Det kan ikke fortrydes."
+   },
+   "optionsResetTitle": {
+      "message": "Nulstil til standard"
+   },
+   "optionsSaveError": {
+      "message": "Kunne ikke gemme"
+   },
+   "optionsSaved": {
+      "message": "Alle ændringer er gemt"
+   },
+   "optionsSaving": {
+      "message": "Gemmer…"
+   },
+   "optionsSkip": {
+      "message": "Gå til indstillinger"
+   },
+   "optionsTitle": {
+      "message": "Indstillinger for AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% tilbage"
+   },
+   "planLabel": {
+      "message": "Plan · $1"
+   },
+   "planUsage": {
+      "message": "Planforbrug"
+   },
+   "popupTitle": {
+      "message": "Forbrug"
+   },
+   "refreshErrorPrefix": {
+      "message": "Kunne ikke opdatere"
+   },
+   "refreshFailed": {
+      "message": "Opdatering mislykkedes"
+   },
+   "refreshUsage": {
+      "message": "Opdater forbrug"
+   },
+   "refreshUsageLimits": {
+      "message": "Opdater grænser"
+   },
+   "refreshing": {
+      "message": "opdaterer..."
+   },
+   "reportCancel": {
+      "message": "Annullér"
+   },
+   "reportDescription": {
+      "message": "Beskriv hvad der gik galt. Rapporten går direkte til udviklerne."
+   },
+   "reportFailed": {
+      "message": "Rapporten kunne ikke sendes."
+   },
+   "reportOnGithub": {
+      "message": "Åbn et GitHub-issue"
+   },
+   "reportPlaceholder": {
+      "message": "Hvad skete der? Hvilken udbyder er berørt?"
+   },
+   "reportPrivacy": {
+      "message": "Sender din besked med udvidelsens version, sprog og hvilke udbyderkort der er slået til."
+   },
+   "reportProblem": {
+      "message": "Rapportér et problem"
+   },
+   "reportSend": {
+      "message": "Send"
+   },
+   "reportSending": {
+      "message": "Sender…"
+   },
+   "reportSent": {
+      "message": "Tak! Din rapport blev sendt."
+   },
+   "reportTitle": {
+      "message": "Rapportér et problem"
+   },
+   "resetsLabel": {
+      "message": "nulstilles om $1"
+   },
+   "sessionExpired": {
+      "message": "sessionen udløbet"
+   },
+   "sessionLimit": {
+      "message": "Session · 5 t"
+   },
+   "showLimits": {
+      "message": "Vis grænser"
+   },
+   "sourceCode": {
+      "message": "Kildekode"
+   },
+   "timeAgo": {
+      "message": "for $1 siden"
+   },
+   "timeDayShort": {
+      "message": "d"
+   },
+   "timeHourShort": {
+      "message": "t"
+   },
+   "timeJustNow": {
+      "message": "lige nu"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "nu"
+   },
+   "timeUnknown": {
+      "message": "ukendt"
+   },
+   "tokenPlan": {
+      "message": "Tokenplan"
+   },
+   "updated": {
+      "message": "opdateret $1"
+   },
+   "waitingForSnapshot": {
+      "message": "venter på data"
+   },
+   "weeklyLimit": {
+      "message": "Uge · 7 d"
+   },
+   "welcomeCta": {
+      "message": "Kom i gang"
+   },
+   "welcomeCtaHint": {
+      "message": "Du kan frigøre det senere i Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Klik på det fastgjorte ikon for at se dit forbrug"
+   },
+   "welcomeStepPin": {
+      "message": "Klik på udvidelsesikonet {icon} i værktøjslinjen, og fastgør AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Hold dine grænser ét klik væk — pop op-vinduet åbner direkte fra værktøjslinjen."
+   },
+   "welcomeTitle": {
+      "message": "Fastgør AI Usage Tracker"
+   }
+}

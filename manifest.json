@@ -1,0 +1,108 @@
+{
+  "action": {
+    "default_icon": {
+      "128": "icons/badges/range-10.png",
+      "16": "icons/badges/range-10.png",
+      "32": "icons/badges/range-10.png",
+      "48": "icons/badges/range-10.png"
+    },
+    "default_popup": "src/sidepanel.html",
+    "default_title": "__MSG_appShortName__"
+  },
+  "background": {
+    "service_worker": "src/background/index.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "css": [
+        "src/content/styles/overlay.css"
+      ],
+      "js": [
+        "src/content/index.js"
+      ],
+      "matches": [
+        "https://claude.ai/*",
+        "https://chatgpt.com/*",
+        "https://chat.openai.com/*"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "js": [
+        "src/content/glm.js"
+      ],
+      "matches": [
+        "https://z.ai/*"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "js": [
+        "src/content/kimi.js"
+      ],
+      "matches": [
+        "https://www.kimi.com/*"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "https://chatgpt.com/*",
+        "https://chat.openai.com/*"
+      ],
+      "js": [
+        "src/content/chatgpt.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://chatgpt.com/*",
+        "https://chat.openai.com/*"
+      ],
+      "js": [
+        "src/content/chatgpt-page.js"
+      ],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ],
+  "default_locale": "en",
+  "description": "__MSG_appDescription__",
+  "host_permissions": [
+    "https://claude.ai/*",
+    "https://chatgpt.com/*",
+    "https://chat.openai.com/*",
+    "https://platform.minimax.io/*",
+    "https://platform.minimaxi.com/*",
+    "https://www.kimi.com/*",
+    "https://cursor.com/*",
+    "https://platform.xiaomimimo.com/*",
+    "https://z.ai/*",
+    "https://api.z.ai/*",
+    "https://open.bigmodel.cn/*",
+    "https://home.qwencloud.com/*",
+    "https://cs-data.qwencloud.com/*",
+    "https://platform-home.qianwenai.com/*",
+    "https://cs-data.qianwenai.com/*"
+  ],
+  "icons": {
+    "128": "icons/icon-128.png",
+    "16": "icons/icon-16.png",
+    "48": "icons/icon-48.png"
+  },
+  "manifest_version": 3,
+  "name": "AI Usage Tracker · 额度明细增强版",
+  "options_ui": {
+    "open_in_tab": true,
+    "page": "src/options.html"
+  },
+  "permissions": [
+    "storage",
+    "alarms",
+    "cookies"
+  ],
+  "version": "0.1.26.3",
+  "version_name": "0.1.26 · Compact quota details"
+}

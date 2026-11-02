@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude, ChatGPT (Codex) എന്നിവയുടെ സെഷൻ, പ്രതിവാര പരിധികൾ പോപ്പപ്പിലും പേജ് ഓവർലേയിലും കാണുക."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude, Codex പരിധികൾ"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "ലഭ്യമായ റീസെറ്റുകൾ · $1"
+   },
+   "emptyClaude": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് claude.ai തുറന്ന് പുതുക്കുക."
+   },
+   "emptyCodex": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് chatgpt.com തുറന്ന് പുതുക്കുക."
+   },
+   "emptyCursor": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് cursor.com തുറന്ന് പുതുക്കുക."
+   },
+   "emptyGlm": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് z.ai തുറന്ന് പുതുക്കുക."
+   },
+   "emptyKimi": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് kimi.com/code തുറന്ന് പുതുക്കുക."
+   },
+   "emptyMiMo": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് platform.xiaomimimo.com തുറന്ന് പുതുക്കുക."
+   },
+   "emptyMiniMax": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് platform.minimax.io തുറന്ന് പുതുക്കുക."
+   },
+   "emptyOverlay": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. പോപ്പപ്പ് തുറന്ന് പുതുക്കുക."
+   },
+   "emptyQwen": {
+      "message": "ഇതുവരെ ഡാറ്റയില്ല. സൈൻ ഇൻ ചെയ്ത് qwencloud.com തുറന്ന് പുതുക്കുക."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "പരിധികൾ മറയ്ക്കുക"
+   },
+   "loadingSnapshot": {
+      "message": "ലോഡുചെയ്യുന്നു"
+   },
+   "manualRefreshHint": {
+      "message": "സ്വയമേവയുള്ള പുതുക്കൽ ഓഫാണ്. ഉപയോഗം ലോഡ് ചെയ്യാൻ പുതുക്കൽ അമർത്തുക."
+   },
+   "nextResetLabel": {
+      "message": "$1 കഴിഞ്ഞ് റീസെറ്റ്"
+   },
+   "notConnected": {
+      "message": "കണക്റ്റ് ചെയ്തിട്ടില്ല"
+   },
+   "optionsBadgeDescription": {
+      "message": "ഈ ഉറവിടം അനുസരിച്ച് എക്സ്റ്റൻഷൻ ഐക്കൺ 10% ഘട്ടങ്ങളിൽ മാറും."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "ഈ ദാതാവ് പോപ്പപ്പിൽ മറച്ചിരിക്കുന്നു, പക്ഷേ ഐക്കൺ ശ്രേണി സജീവമായി തുടരും."
+   },
+   "optionsBadgeHighest": {
+      "message": "കാണുന്ന ദാതാക്കളിൽ ഏറ്റവും ഉയർന്നത്"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "കാണിക്കുന്ന കാർഡുകളിലെ നിലവിലെ ഏറ്റവും ഉയർന്ന ശതമാനം ഉപയോഗിക്കുക."
+   },
+   "optionsBadgeProvider": {
+      "message": "ദാതാവ്"
+   },
+   "optionsBadgeSelected": {
+      "message": "തിരഞ്ഞെടുത്ത ദാതാവ്"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "മറ്റു കാർഡുകൾ കാണുന്നുണ്ടോ എന്നത് പരിഗണിക്കാതെ ഒരു ദാതാവിനെ ഉപയോഗിക്കുക."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "ഐക്കൺ ഉറവിടം"
+   },
+   "optionsBadgeSteps": {
+      "message": "ഐക്കൺ ഘട്ടങ്ങൾ"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "അടുത്ത 10% ലേക്ക് താഴ്ത്തി"
+   },
+   "optionsBadgeTitle": {
+      "message": "ഐക്കൺ ശ്രേണി"
+   },
+   "optionsBadgeWindow": {
+      "message": "ഉപയോഗ വിൻഡോ"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "സെഷൻ"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "പ്രതിവാരം"
+   },
+   "optionsGlmKeyHint": {
+      "message": "ഐച്ഛികം. ഈ ബ്രൗസറിൽ z.ai-യിൽ സൈൻ ഇൻ ചെയ്തിട്ടില്ലെങ്കിൽ, അല്ലെങ്കിൽ BigModel അക്കൗണ്ടുകൾക്കായി ഉപയോഗിക്കുക."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API കീ"
+   },
+   "optionsLanguageAuto": {
+      "message": "ബ്രൗസറിന്റെ ഭാഷ"
+   },
+   "optionsLanguageDescription": {
+      "message": "പോപ്പപ്പ്, ഈ പേജ്, പേജ് ഓവർലേകൾ എന്നിവയുടെ ഭാഷ തിരഞ്ഞെടുക്കുക."
+   },
+   "optionsLanguageHint": {
+      "message": "ഭാഷ മാറ്റിയാൽ ഈ പേജ് വീണ്ടും ലോഡ് ചെയ്യും."
+   },
+   "optionsLanguageTitle": {
+      "message": "ഭാഷ"
+   },
+   "optionsLayoutDescription": {
+      "message": "കാണുന്ന ദാതാവ് കാർഡുകൾ എങ്ങനെ ക്രമീകരിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക."
+   },
+   "optionsLayoutGrid": {
+      "message": "രണ്ട് കോളം"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "വരിയിൽ രണ്ട് കാർഡുകളുള്ള ഒതുക്കമുള്ള കാഴ്ച."
+   },
+   "optionsLayoutSingle": {
+      "message": "ഒരു കോളം"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "ഓരോ ദാതാവിനും മുഴുവൻ വീതിയുള്ള കാർഡ്."
+   },
+   "optionsLayoutTitle": {
+      "message": "പോപ്പപ്പ് ലേഔട്ട്"
+   },
+   "optionsLoading": {
+      "message": "ക്രമീകരണങ്ങൾ ലോഡുചെയ്യുന്നു…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "ലഭ്യമായ റീസെറ്റുകൾ"
+   },
+   "optionsMetricBalance": {
+      "message": "ബാലൻസ്"
+   },
+   "optionsMetricModels": {
+      "message": "മോഡൽ അനുസരിച്ചുള്ള വിഭജനം"
+   },
+   "optionsMetricPlan": {
+      "message": "പ്ലാൻ"
+   },
+   "optionsMetricReset": {
+      "message": "റീസെറ്റ് സമയം"
+   },
+   "optionsMetricSession": {
+      "message": "സെഷൻ ഉപയോഗം"
+   },
+   "optionsMetricSummary": {
+      "message": "ബാലൻസ് / സംഗ്രഹം"
+   },
+   "optionsMetricWeekly": {
+      "message": "പ്രതിവാര ഉപയോഗം"
+   },
+   "optionsNavBadge": {
+      "message": "ടൂൾബാർ ഐക്കൺ"
+   },
+   "optionsNavLabel": {
+      "message": "ക്രമീകരണ വിഭാഗങ്ങൾ"
+   },
+   "optionsNavLayout": {
+      "message": "ലേഔട്ട്"
+   },
+   "optionsNavOverlays": {
+      "message": "പേജിലെ ഓവർലേകൾ"
+   },
+   "optionsNavProviders": {
+      "message": "ദാതാക്കൾ"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 പേജ് ഓവർലേ ഓണാക്കുക"
+   },
+   "optionsOverlaysDescription": {
+      "message": "സന്ദേശ ബോക്സിനടുത്ത് മടക്കാവുന്ന ഉപയോഗ കാപ്സ്യൂൾ കാണിക്കുക."
+   },
+   "optionsOverlaysTitle": {
+      "message": "പേജിലെ ഓവർലേകൾ"
+   },
+   "optionsPercentageDescription": {
+      "message": "ഓരോ പരിധിയിലും എത്ര ഉപയോഗിച്ചു അല്ലെങ്കിൽ എത്ര ബാക്കിയുണ്ട് എന്ന് കാണിക്കുക."
+   },
+   "optionsPercentageRemaining": {
+      "message": "ബാക്കി"
+   },
+   "optionsPercentageTitle": {
+      "message": "പരിധി പ്രദർശനം"
+   },
+   "optionsPercentageUsed": {
+      "message": "ഉപയോഗിച്ചത്"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 ൽ $1 വിവരങ്ങൾ"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 ഉപയോഗ വിവരങ്ങൾ"
+   },
+   "optionsProviderHidden": {
+      "message": "പോപ്പപ്പിൽ മറച്ചിരിക്കുന്നു"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "പോപ്പപ്പിൽ $1 കാണിക്കുക"
+   },
+   "optionsProvidersDescription": {
+      "message": "കാർഡ് മറയ്ക്കുക അല്ലെങ്കിൽ ഏതു വിവരങ്ങൾ കാണിക്കണമെന്ന് തിരഞ്ഞെടുക്കുക. ലഭ്യമല്ലാത്ത ഡാറ്റ സ്വയം മറയും."
+   },
+   "optionsProvidersShown": {
+      "message": "$2 ൽ $1 കാണുന്നു"
+   },
+   "optionsProvidersTitle": {
+      "message": "ദാതാക്കൾ"
+   },
+   "optionsRefreshAuto": {
+      "message": "സ്വയമേവ"
+   },
+   "optionsRefreshDescription": {
+      "message": "സ്വയമേവയോ മാനുവലായോ പുതുക്കുന്നത് തിരഞ്ഞെടുക്കുക."
+   },
+   "optionsRefreshInterval": {
+      "message": "ഇടവേള (മിനിറ്റ്, കുറഞ്ഞത് 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "പുതുക്കൽ ബട്ടൺ അമർത്തുമ്പോൾ മാത്രം"
+   },
+   "optionsRefreshTitle": {
+      "message": "ഉപയോഗം പുതുക്കൽ"
+   },
+   "optionsResetAction": {
+      "message": "ഡിഫോൾട്ട്"
+   },
+   "optionsResetConfirm": {
+      "message": "സ്ഥിരീകരിക്കാൻ വീണ്ടും ക്ലിക്ക് ചെയ്യുക"
+   },
+   "optionsResetDescription": {
+      "message": "ഈ പേജിലെ എല്ലാ മുൻഗണനകളും പുനഃസ്ഥാപിക്കും. ഇത് പഴയപടിയാക്കാനാവില്ല."
+   },
+   "optionsResetTitle": {
+      "message": "ഡിഫോൾട്ടിലേക്ക് റീസെറ്റ്"
+   },
+   "optionsSaveError": {
+      "message": "സേവ് ചെയ്യാനായില്ല"
+   },
+   "optionsSaved": {
+      "message": "എല്ലാ മാറ്റങ്ങളും സേവ് ചെയ്തു"
+   },
+   "optionsSaving": {
+      "message": "സേവ് ചെയ്യുന്നു…"
+   },
+   "optionsSkip": {
+      "message": "ക്രമീകരണങ്ങളിലേക്ക് പോകുക"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker ക്രമീകരണങ്ങൾ"
+   },
+   "percentageRemaining": {
+      "message": "$1% ബാക്കി"
+   },
+   "planLabel": {
+      "message": "പ്ലാൻ · $1"
+   },
+   "planUsage": {
+      "message": "പ്ലാൻ ഉപയോഗം"
+   },
+   "popupTitle": {
+      "message": "ഉപയോഗം"
+   },
+   "refreshErrorPrefix": {
+      "message": "പുതുക്കാനായില്ല"
+   },
+   "refreshFailed": {
+      "message": "പുതുക്കൽ പരാജയപ്പെട്ടു"
+   },
+   "refreshUsage": {
+      "message": "ഉപയോഗം പുതുക്കുക"
+   },
+   "refreshUsageLimits": {
+      "message": "പരിധികൾ പുതുക്കുക"
+   },
+   "refreshing": {
+      "message": "പുതുക്കുന്നു..."
+   },
+   "reportCancel": {
+      "message": "റദ്ദാക്കുക"
+   },
+   "reportDescription": {
+      "message": "എന്താണ് സംഭവിച്ചതെന്ന് വിവരിക്കുക. റിപ്പോർട്ട് നേരിട്ട് ഡെവലപ്പർമാർക്ക് എത്തും."
+   },
+   "reportFailed": {
+      "message": "റിപ്പോർട്ട് അയയ്ക്കാനായില്ല."
+   },
+   "reportOnGithub": {
+      "message": "GitHub-ൽ issue തുറക്കുക"
+   },
+   "reportPlaceholder": {
+      "message": "എന്താണ് സംഭവിച്ചത്? ഏത് ദാതാവിനെ ബാധിച്ചു?"
+   },
+   "reportPrivacy": {
+      "message": "നിങ്ങളുടെ സന്ദേശം എക്സ്റ്റൻഷൻ പതിപ്പ്, ഭാഷ, സജീവമായ ദാതാവ് കാർഡുകൾ എന്നിവയോടൊപ്പം അയയ്ക്കുന്നു."
+   },
+   "reportProblem": {
+      "message": "പ്രശ്നം അറിയിക്കുക"
+   },
+   "reportSend": {
+      "message": "അയയ്ക്കുക"
+   },
+   "reportSending": {
+      "message": "അയയ്ക്കുന്നു…"
+   },
+   "reportSent": {
+      "message": "നന്ദി! നിങ്ങളുടെ റിപ്പോർട്ട് അയച്ചു."
+   },
+   "reportTitle": {
+      "message": "പ്രശ്നം അറിയിക്കുക"
+   },
+   "resetsLabel": {
+      "message": "$1 കഴിഞ്ഞ് റീസെറ്റ്"
+   },
+   "sessionExpired": {
+      "message": "സെഷൻ കാലഹരണപ്പെട്ടു"
+   },
+   "sessionLimit": {
+      "message": "സെഷൻ · 5 മ"
+   },
+   "showLimits": {
+      "message": "പരിധികൾ കാണിക്കുക"
+   },
+   "sourceCode": {
+      "message": "സോഴ്‌സ് കോഡ്"
+   },
+   "timeAgo": {
+      "message": "$1 മുമ്പ്"
+   },
+   "timeDayShort": {
+      "message": "ദി"
+   },
+   "timeHourShort": {
+      "message": "മ"
+   },
+   "timeJustNow": {
+      "message": "ഇപ്പോൾ തന്നെ"
+   },
+   "timeMinuteShort": {
+      "message": "മി"
+   },
+   "timeNow": {
+      "message": "ഇപ്പോൾ"
+   },
+   "timeUnknown": {
+      "message": "അജ്ഞാതം"
+   },
+   "tokenPlan": {
+      "message": "ടോക്കൺ പ്ലാൻ"
+   },
+   "updated": {
+      "message": "പുതുക്കി $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ഡാറ്റയ്ക്കായി കാത്തിരിക്കുന്നു"
+   },
+   "weeklyLimit": {
+      "message": "ആഴ്ച · 7 ദി"
+   },
+   "welcomeCta": {
+      "message": "തുടങ്ങുക"
+   },
+   "welcomeCtaHint": {
+      "message": "പിന്നീട് Chrome-ൽ അൺപിൻ ചെയ്യാം."
+   },
+   "welcomeStepOpen": {
+      "message": "നിങ്ങളുടെ ഉപയോഗം കാണാൻ പിൻ ചെയ്ത ഐക്കണിൽ ക്ലിക്ക് ചെയ്യുക"
+   },
+   "welcomeStepPin": {
+      "message": "ടൂൾബാറിലെ എക്സ്റ്റൻഷൻ ഐക്കണിൽ {icon} ക്ലിക്ക് ചെയ്ത് AI Usage Tracker പിൻ ചെയ്യുക"
+   },
+   "welcomeSubtitle": {
+      "message": "നിങ്ങളുടെ പരിധികൾ ഒറ്റ ക്ലിക്കിൽ — പോപ്പ്അപ്പ് നേരിട്ട് ടൂൾബാറിൽ നിന്ന് തുറക്കുന്നു."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker പിൻ ചെയ്യുക"
+   }
+}

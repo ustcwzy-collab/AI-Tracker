@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude మరియు ChatGPT (Codex) సెషన్, వారపు పరిమితులను పాపప్‌లో, పేజీ ఓవర్‌లేలో గమనించండి. సెటప్ అవసరం లేదు."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude, Codex పరిమితులు"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "అందుబాటులో ఉన్న రీసెట్‌లు · $1"
+   },
+   "emptyClaude": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి claude.ai తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyCodex": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి chatgpt.com తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyCursor": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి cursor.com తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyGlm": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి z.ai తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyKimi": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి kimi.com/code తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyMiMo": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి platform.xiaomimimo.com తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyMiniMax": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి platform.minimax.io తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyOverlay": {
+      "message": "ఇంకా డేటా లేదు. పాపప్ తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "emptyQwen": {
+      "message": "ఇంకా డేటా లేదు. సైన్ ఇన్ అయి qwencloud.com తెరిచి రిఫ్రెష్ చేయండి."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "పరిమితులు దాచు"
+   },
+   "loadingSnapshot": {
+      "message": "లోడ్ అవుతోంది"
+   },
+   "manualRefreshHint": {
+      "message": "స్వయంచాలక నవీకరణలు ఆఫ్‌లో ఉన్నాయి. వినియోగాన్ని లోడ్ చేయడానికి రిఫ్రెష్ నొక్కండి."
+   },
+   "nextResetLabel": {
+      "message": "$1 లో రీసెట్"
+   },
+   "notConnected": {
+      "message": "కనెక్ట్ కాలేదు"
+   },
+   "optionsBadgeDescription": {
+      "message": "ఈ మూలం ఆధారంగా పొడిగింపు చిహ్నం 10% దశల్లో మారుతుంది."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "ఈ ప్రొవైడర్ పాపప్‌లో దాగి ఉంది, కానీ దాని చిహ్న పరిధి పనిచేస్తూనే ఉంటుంది."
+   },
+   "optionsBadgeHighest": {
+      "message": "కనిపించే ప్రొవైడర్లలో అత్యధికం"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "చూపిన కార్డుల్లో ప్రస్తుత అత్యధిక శాతాన్ని వాడు."
+   },
+   "optionsBadgeProvider": {
+      "message": "ప్రొవైడర్"
+   },
+   "optionsBadgeSelected": {
+      "message": "ఎంచుకున్న ప్రొవైడర్"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "ఇతర కార్డులు కనిపించినా కనిపించకపోయినా ఒకే ప్రొవైడర్‌ను వాడు."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "చిహ్నం మూలం"
+   },
+   "optionsBadgeSteps": {
+      "message": "చిహ్న దశలు"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "సమీప 10% వరకు తగ్గింపు"
+   },
+   "optionsBadgeTitle": {
+      "message": "చిహ్న పరిధి"
+   },
+   "optionsBadgeWindow": {
+      "message": "వినియోగ విండో"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "సెషన్"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "వారపు"
+   },
+   "optionsGlmKeyHint": {
+      "message": "ఐచ్ఛికం. ఈ బ్రౌజర్‌లో z.ai కు సైన్ ఇన్ కాకపోతే, లేదా BigModel ఖాతాల కోసం వాడండి."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API కీ"
+   },
+   "optionsLanguageAuto": {
+      "message": "బ్రౌజర్ భాష"
+   },
+   "optionsLanguageDescription": {
+      "message": "పాపప్, ఈ పేజీ, పేజీ ఓవర్‌లేల భాషను ఎంచుకోండి."
+   },
+   "optionsLanguageHint": {
+      "message": "భాష మార్చితే ఈ పేజీ మళ్లీ లోడ్ అవుతుంది."
+   },
+   "optionsLanguageTitle": {
+      "message": "భాష"
+   },
+   "optionsLayoutDescription": {
+      "message": "కనిపించే ప్రొవైడర్ కార్డులు ఎలా అమరాలో ఎంచుకోండి."
+   },
+   "optionsLayoutGrid": {
+      "message": "రెండు నిలువు వరుసలు"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "వరుసకు రెండు కార్డులతో సంక్షిప్త వీక్షణ."
+   },
+   "optionsLayoutSingle": {
+      "message": "ఒక నిలువు వరుస"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "ప్రతి ప్రొవైడర్‌కు పూర్తి వెడల్పు కార్డు."
+   },
+   "optionsLayoutTitle": {
+      "message": "పాపప్ లేఅవుట్"
+   },
+   "optionsLoading": {
+      "message": "సెట్టింగ్‌లు లోడ్ అవుతున్నాయి…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "అందుబాటులో ఉన్న రీసెట్‌లు"
+   },
+   "optionsMetricBalance": {
+      "message": "బ్యాలెన్స్"
+   },
+   "optionsMetricModels": {
+      "message": "మోడల్ వారీగా విభజన"
+   },
+   "optionsMetricPlan": {
+      "message": "ప్లాన్"
+   },
+   "optionsMetricReset": {
+      "message": "రీసెట్ సమయం"
+   },
+   "optionsMetricSession": {
+      "message": "సెషన్ వినియోగం"
+   },
+   "optionsMetricSummary": {
+      "message": "బ్యాలెన్స్ / సారాంశం"
+   },
+   "optionsMetricWeekly": {
+      "message": "వారపు వినియోగం"
+   },
+   "optionsNavBadge": {
+      "message": "టూల్‌బార్ చిహ్నం"
+   },
+   "optionsNavLabel": {
+      "message": "సెట్టింగ్ విభాగాలు"
+   },
+   "optionsNavLayout": {
+      "message": "లేఅవుట్"
+   },
+   "optionsNavOverlays": {
+      "message": "పేజీ ఓవర్‌లేలు"
+   },
+   "optionsNavProviders": {
+      "message": "ప్రొవైడర్లు"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 పేజీ ఓవర్‌లేను ఆన్ చేయి"
+   },
+   "optionsOverlaysDescription": {
+      "message": "సందేశ పెట్టె పక్కన మడతపెట్టగల వినియోగ క్యాప్సూల్‌ను చూపు."
+   },
+   "optionsOverlaysTitle": {
+      "message": "పేజీ ఓవర్‌లేలు"
+   },
+   "optionsPercentageDescription": {
+      "message": "ప్రతి పరిమితిలో ఎంత ఉపయోగించారో లేదా ఎంత మిగిలి ఉందో చూపండి."
+   },
+   "optionsPercentageRemaining": {
+      "message": "మిగిలినది"
+   },
+   "optionsPercentageTitle": {
+      "message": "పరిమితి ప్రదర్శన"
+   },
+   "optionsPercentageUsed": {
+      "message": "ఉపయోగించినది"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 లో $1 వివరాలు"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 వినియోగ వివరాలు"
+   },
+   "optionsProviderHidden": {
+      "message": "పాపప్‌లో దాచబడింది"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "పాపప్‌లో $1 చూపు"
+   },
+   "optionsProvidersDescription": {
+      "message": "కార్డును దాచండి లేదా ఏ వివరాలు చూపాలో ఎంచుకోండి. అందుబాటులో లేని డేటా దానంతటదే దాగి ఉంటుంది."
+   },
+   "optionsProvidersShown": {
+      "message": "$2 లో $1 కనిపిస్తున్నాయి"
+   },
+   "optionsProvidersTitle": {
+      "message": "ప్రొవైడర్లు"
+   },
+   "optionsRefreshAuto": {
+      "message": "స్వయంచాలక"
+   },
+   "optionsRefreshDescription": {
+      "message": "స్వయంచాలక లేదా మాన్యువల్ నవీకరణలను ఎంచుకోండి."
+   },
+   "optionsRefreshInterval": {
+      "message": "వ్యవధి (నిమిషాలు, కనీసం 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "రిఫ్రెష్ బటన్ నొక్కినప్పుడు మాత్రమే"
+   },
+   "optionsRefreshTitle": {
+      "message": "వినియోగం రిఫ్రెష్"
+   },
+   "optionsResetAction": {
+      "message": "డిఫాల్ట్‌లు"
+   },
+   "optionsResetConfirm": {
+      "message": "నిర్ధారించడానికి మళ్లీ క్లిక్ చేయండి"
+   },
+   "optionsResetDescription": {
+      "message": "ఈ పేజీలోని అన్ని ప్రాధాన్యతలను పునరుద్ధరిస్తుంది. దీన్ని రద్దు చేయలేరు."
+   },
+   "optionsResetTitle": {
+      "message": "డిఫాల్ట్‌లకు రీసెట్"
+   },
+   "optionsSaveError": {
+      "message": "సేవ్ చేయలేకపోయాం"
+   },
+   "optionsSaved": {
+      "message": "అన్ని మార్పులు సేవ్ అయ్యాయి"
+   },
+   "optionsSaving": {
+      "message": "సేవ్ అవుతోంది…"
+   },
+   "optionsSkip": {
+      "message": "సెట్టింగ్‌లకు వెళ్లు"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker సెట్టింగ్‌లు"
+   },
+   "percentageRemaining": {
+      "message": "$1% మిగిలింది"
+   },
+   "planLabel": {
+      "message": "ప్లాన్ · $1"
+   },
+   "planUsage": {
+      "message": "ప్లాన్ వినియోగం"
+   },
+   "popupTitle": {
+      "message": "వినియోగం"
+   },
+   "refreshErrorPrefix": {
+      "message": "రిఫ్రెష్ చేయలేకపోయాం"
+   },
+   "refreshFailed": {
+      "message": "రిఫ్రెష్ విఫలమైంది"
+   },
+   "refreshUsage": {
+      "message": "వినియోగాన్ని రిఫ్రెష్ చేయి"
+   },
+   "refreshUsageLimits": {
+      "message": "పరిమితులను రిఫ్రెష్ చేయి"
+   },
+   "refreshing": {
+      "message": "రిఫ్రెష్ అవుతోంది..."
+   },
+   "reportCancel": {
+      "message": "రద్దు చేయి"
+   },
+   "reportDescription": {
+      "message": "ఏమి తప్పు జరిగిందో వివరించండి. నివేదిక నేరుగా డెవలపర్లకు చేరుతుంది."
+   },
+   "reportFailed": {
+      "message": "నివేదికను పంపలేకపోయాం."
+   },
+   "reportOnGithub": {
+      "message": "GitHubలో issue తెరవండి"
+   },
+   "reportPlaceholder": {
+      "message": "ఏమి జరిగింది? ఏ ప్రొవైడర్ ప్రభావితమైంది?"
+   },
+   "reportPrivacy": {
+      "message": "మీ సందేశాన్ని పొడిగింపు వెర్షన్, భాష మరియు ఆన్‌లో ఉన్న ప్రొవైడర్ కార్డులతో పంపుతుంది."
+   },
+   "reportProblem": {
+      "message": "సమస్యను నివేదించండి"
+   },
+   "reportSend": {
+      "message": "పంపండి"
+   },
+   "reportSending": {
+      "message": "పంపుతోంది…"
+   },
+   "reportSent": {
+      "message": "ధన్యవాదాలు! మీ నివేదిక పంపబడింది."
+   },
+   "reportTitle": {
+      "message": "సమస్యను నివేదించండి"
+   },
+   "resetsLabel": {
+      "message": "$1 లో రీసెట్"
+   },
+   "sessionExpired": {
+      "message": "సెషన్ గడువు ముగిసింది"
+   },
+   "sessionLimit": {
+      "message": "సెషన్ · 5 గం"
+   },
+   "showLimits": {
+      "message": "పరిమితులు చూపు"
+   },
+   "sourceCode": {
+      "message": "సోర్స్ కోడ్"
+   },
+   "timeAgo": {
+      "message": "$1 క్రితం"
+   },
+   "timeDayShort": {
+      "message": "రో"
+   },
+   "timeHourShort": {
+      "message": "గం"
+   },
+   "timeJustNow": {
+      "message": "ఇప్పుడే"
+   },
+   "timeMinuteShort": {
+      "message": "ని"
+   },
+   "timeNow": {
+      "message": "ఇప్పుడు"
+   },
+   "timeUnknown": {
+      "message": "తెలియదు"
+   },
+   "tokenPlan": {
+      "message": "టోకెన్ ప్లాన్"
+   },
+   "updated": {
+      "message": "నవీకరణ $1"
+   },
+   "waitingForSnapshot": {
+      "message": "డేటా కోసం వేచి ఉంది"
+   },
+   "weeklyLimit": {
+      "message": "వారం · 7 రో"
+   },
+   "welcomeCta": {
+      "message": "ప్రారంభించండి"
+   },
+   "welcomeCtaHint": {
+      "message": "తర్వాత Chromeలో అన్‌పిన్ చేయవచ్చు."
+   },
+   "welcomeStepOpen": {
+      "message": "మీ వినియోగం చూడటానికి పిన్ చేసిన చిహ్నంపై క్లిక్ చేయండి"
+   },
+   "welcomeStepPin": {
+      "message": "టూల్‌బార్‌లోని పొడిగింపుల చిహ్నం {icon} క్లిక్ చేసి AI Usage Tracker పిన్ చేయండి"
+   },
+   "welcomeSubtitle": {
+      "message": "మీ పరిమితులు ఒక్క క్లిక్ దూరంలో — పాపప్ నేరుగా టూల్‌బార్ నుండి తెరుచుకుంటుంది."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker పిన్ చేయండి"
+   }
+}

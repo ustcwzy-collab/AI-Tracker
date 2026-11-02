@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude と ChatGPT (Codex) のセッション・週間上限をポップアップ、バッジ、オーバーレイで確認。プライバシー重視、設定不要。"
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude と Codex の上限"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "利用可能なリセット回数 · $1"
+   },
+   "emptyClaude": {
+      "message": "まだデータがありません。ログイン済みの claude.ai を開いて更新してください。"
+   },
+   "emptyCodex": {
+      "message": "まだデータがありません。ログイン済みの chatgpt.com を開いて更新してください。"
+   },
+   "emptyCursor": {
+      "message": "まだデータがありません。ログイン済みの cursor.com を開いて更新してください。"
+   },
+   "emptyGlm": {
+      "message": "まだデータがありません。ログイン済みの z.ai を開いて更新してください。"
+   },
+   "emptyKimi": {
+      "message": "まだデータがありません。ログイン済みの kimi.com/code を開いて更新してください。"
+   },
+   "emptyMiMo": {
+      "message": "まだデータがありません。ログイン済みの platform.xiaomimimo.com を開いて更新してください。"
+   },
+   "emptyMiniMax": {
+      "message": "まだデータがありません。ログイン済みの platform.minimax.io を開いて更新してください。"
+   },
+   "emptyOverlay": {
+      "message": "まだデータがありません。ポップアップを開いて更新してください。"
+   },
+   "emptyQwen": {
+      "message": "まだデータがありません。ログイン済みの qwencloud.com を開いて更新してください。"
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "上限を非表示"
+   },
+   "loadingSnapshot": {
+      "message": "データを読み込み中"
+   },
+   "manualRefreshHint": {
+      "message": "自動更新はオフです。更新ボタンを押すと使用状況を読み込みます。"
+   },
+   "nextResetLabel": {
+      "message": "リセット $1"
+   },
+   "notConnected": {
+      "message": "未接続"
+   },
+   "optionsBadgeDescription": {
+      "message": "拡張機能のアイコンが、この基準で10%ごとに変化します。"
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "このプロバイダーはポップアップで非表示ですが、アイコンの段階には反映されます。"
+   },
+   "optionsBadgeHighest": {
+      "message": "表示中のプロバイダーの最大値"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "表示中のカードのうち、現在の割合が最も高いものを使います。"
+   },
+   "optionsBadgeProvider": {
+      "message": "プロバイダー"
+   },
+   "optionsBadgeSelected": {
+      "message": "選択したプロバイダー"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "他のカードの表示状態に関わらず、1つのプロバイダーを使います。"
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "アイコンの基準"
+   },
+   "optionsBadgeSteps": {
+      "message": "ツールバーアイコンの段階"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "10%単位で切り捨て"
+   },
+   "optionsBadgeTitle": {
+      "message": "アイコンの段階"
+   },
+   "optionsBadgeWindow": {
+      "message": "集計期間"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "セッション"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "週間"
+   },
+   "optionsGlmKeyHint": {
+      "message": "任意。このブラウザーで z.ai にログインしていない場合や、BigModel アカウントで使用します。"
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM APIキー"
+   },
+   "optionsLanguageAuto": {
+      "message": "ブラウザの言語"
+   },
+   "optionsLanguageDescription": {
+      "message": "ポップアップ・この設定ページ・ページ内オーバーレイの言語を選びます。"
+   },
+   "optionsLanguageHint": {
+      "message": "言語を変更するとこのページが再読み込みされます。"
+   },
+   "optionsLanguageTitle": {
+      "message": "言語"
+   },
+   "optionsLayoutDescription": {
+      "message": "表示中のプロバイダーカードの並べ方を選びます。"
+   },
+   "optionsLayoutGrid": {
+      "message": "2列"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "1行に2枚のカードを並べたコンパクト表示。"
+   },
+   "optionsLayoutSingle": {
+      "message": "1列"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "各プロバイダーを全幅カードで表示します。"
+   },
+   "optionsLayoutTitle": {
+      "message": "ポップアップのレイアウト"
+   },
+   "optionsLoading": {
+      "message": "設定を読み込み中…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "利用可能なリセット"
+   },
+   "optionsMetricBalance": {
+      "message": "残高"
+   },
+   "optionsMetricModels": {
+      "message": "モデル別の内訳"
+   },
+   "optionsMetricPlan": {
+      "message": "プラン"
+   },
+   "optionsMetricReset": {
+      "message": "リセット時刻"
+   },
+   "optionsMetricSession": {
+      "message": "セッションの使用量"
+   },
+   "optionsMetricSummary": {
+      "message": "残高 / 概要"
+   },
+   "optionsMetricWeekly": {
+      "message": "週間の使用量"
+   },
+   "optionsNavBadge": {
+      "message": "ツールバーアイコン"
+   },
+   "optionsNavLabel": {
+      "message": "設定セクション"
+   },
+   "optionsNavLayout": {
+      "message": "レイアウト"
+   },
+   "optionsNavOverlays": {
+      "message": "ページ内オーバーレイ"
+   },
+   "optionsNavProviders": {
+      "message": "プロバイダー"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 のページ内オーバーレイを有効にする"
+   },
+   "optionsOverlaysDescription": {
+      "message": "入力欄の横に折りたたみ式の使用状況カプセルを表示します。"
+   },
+   "optionsOverlaysTitle": {
+      "message": "ページ内オーバーレイ"
+   },
+   "optionsPercentageDescription": {
+      "message": "各上限の使用量または残量を表示します。"
+   },
+   "optionsPercentageRemaining": {
+      "message": "残り"
+   },
+   "optionsPercentageTitle": {
+      "message": "上限の表示"
+   },
+   "optionsPercentageUsed": {
+      "message": "使用済み"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 件中 $1 件"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 の使用状況の項目"
+   },
+   "optionsProviderHidden": {
+      "message": "ポップアップで非表示"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "ポップアップに $1 を表示"
+   },
+   "optionsProvidersDescription": {
+      "message": "カードを非表示にするか、表示する使用状況の項目を選びます。取得できないデータは自動的に非表示になります。"
+   },
+   "optionsProvidersShown": {
+      "message": "$2 件中 $1 件を表示"
+   },
+   "optionsProvidersTitle": {
+      "message": "プロバイダー"
+   },
+   "optionsRefreshAuto": {
+      "message": "自動"
+   },
+   "optionsRefreshDescription": {
+      "message": "自動更新または手動更新を選択します。"
+   },
+   "optionsRefreshInterval": {
+      "message": "間隔（分、最小 1）"
+   },
+   "optionsRefreshManual": {
+      "message": "更新ボタンを押したときのみ"
+   },
+   "optionsRefreshTitle": {
+      "message": "使用量の更新"
+   },
+   "optionsResetAction": {
+      "message": "初期設定に戻す"
+   },
+   "optionsResetConfirm": {
+      "message": "もう一度クリックで確定"
+   },
+   "optionsResetDescription": {
+      "message": "このページのすべての設定を元に戻します。取り消せません。"
+   },
+   "optionsResetTitle": {
+      "message": "初期設定に戻す"
+   },
+   "optionsSaveError": {
+      "message": "保存できませんでした"
+   },
+   "optionsSaved": {
+      "message": "すべての変更を保存しました"
+   },
+   "optionsSaving": {
+      "message": "保存中…"
+   },
+   "optionsSkip": {
+      "message": "設定へスキップ"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker の設定"
+   },
+   "percentageRemaining": {
+      "message": "残り $1%"
+   },
+   "planLabel": {
+      "message": "プラン · $1"
+   },
+   "planUsage": {
+      "message": "プランの使用量"
+   },
+   "popupTitle": {
+      "message": "使用状況"
+   },
+   "refreshErrorPrefix": {
+      "message": "更新できませんでした"
+   },
+   "refreshFailed": {
+      "message": "更新に失敗しました"
+   },
+   "refreshUsage": {
+      "message": "使用状況を更新"
+   },
+   "refreshUsageLimits": {
+      "message": "使用上限を更新"
+   },
+   "refreshing": {
+      "message": "更新中..."
+   },
+   "reportCancel": {
+      "message": "キャンセル"
+   },
+   "reportDescription": {
+      "message": "何が起きたかをお書きください。報告は開発者に直接届きます。"
+   },
+   "reportFailed": {
+      "message": "報告を送信できませんでした。"
+   },
+   "reportOnGithub": {
+      "message": "GitHub で issue を作成"
+   },
+   "reportPlaceholder": {
+      "message": "何が起きましたか？どのプロバイダーが影響を受けていますか？"
+   },
+   "reportPrivacy": {
+      "message": "メッセージに加えて、拡張機能のバージョン、言語、有効なプロバイダーカードを送信します。"
+   },
+   "reportProblem": {
+      "message": "問題を報告"
+   },
+   "reportSend": {
+      "message": "送信"
+   },
+   "reportSending": {
+      "message": "送信中…"
+   },
+   "reportSent": {
+      "message": "ありがとうございます。報告を送信しました。"
+   },
+   "reportTitle": {
+      "message": "問題を報告"
+   },
+   "resetsLabel": {
+      "message": "リセット $1"
+   },
+   "sessionExpired": {
+      "message": "セッションの期限切れ"
+   },
+   "sessionLimit": {
+      "message": "セッション · 5時間"
+   },
+   "showLimits": {
+      "message": "上限を表示"
+   },
+   "sourceCode": {
+      "message": "ソースコード"
+   },
+   "timeAgo": {
+      "message": "$1前"
+   },
+   "timeDayShort": {
+      "message": "日"
+   },
+   "timeHourShort": {
+      "message": "時間"
+   },
+   "timeJustNow": {
+      "message": "たった今"
+   },
+   "timeMinuteShort": {
+      "message": "分"
+   },
+   "timeNow": {
+      "message": "今"
+   },
+   "timeUnknown": {
+      "message": "不明"
+   },
+   "tokenPlan": {
+      "message": "トークンプラン"
+   },
+   "updated": {
+      "message": "$1 に更新"
+   },
+   "waitingForSnapshot": {
+      "message": "データ待機中"
+   },
+   "weeklyLimit": {
+      "message": "週間 · 7日"
+   },
+   "welcomeCta": {
+      "message": "はじめる"
+   },
+   "welcomeCtaHint": {
+      "message": "ピン留めはあとから Chrome で解除できます。"
+   },
+   "welcomeStepOpen": {
+      "message": "ピン留めしたアイコンをクリックすると使用状況が表示されます"
+   },
+   "welcomeStepPin": {
+      "message": "ツールバーの拡張機能アイコン {icon} をクリックし、AI Usage Tracker をピン留めします"
+   },
+   "welcomeSubtitle": {
+      "message": "上限をワンクリックで確認。ポップアップはツールバーから直接開きます。"
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker をピン留め"
+   }
+}

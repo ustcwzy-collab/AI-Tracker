@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Pantau had sesi dan mingguan Claude serta ChatGPT (Codex) dalam popup dan lapisan pada halaman. Tanpa persediaan."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: had Claude & Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Set semula tersedia · $1"
+   },
+   "emptyClaude": {
+      "message": "Belum ada data. Buka claude.ai sambil log masuk, kemudian muat semula."
+   },
+   "emptyCodex": {
+      "message": "Belum ada data. Buka chatgpt.com sambil log masuk, kemudian muat semula."
+   },
+   "emptyCursor": {
+      "message": "Belum ada data. Buka cursor.com sambil log masuk, kemudian muat semula."
+   },
+   "emptyGlm": {
+      "message": "Belum ada data. Buka z.ai sambil log masuk, kemudian muat semula."
+   },
+   "emptyKimi": {
+      "message": "Belum ada data. Buka kimi.com/code sambil log masuk, kemudian muat semula."
+   },
+   "emptyMiMo": {
+      "message": "Belum ada data. Buka platform.xiaomimimo.com sambil log masuk, kemudian muat semula."
+   },
+   "emptyMiniMax": {
+      "message": "Belum ada data. Buka platform.minimax.io sambil log masuk, kemudian muat semula."
+   },
+   "emptyOverlay": {
+      "message": "Belum ada data. Buka popup dan muat semula."
+   },
+   "emptyQwen": {
+      "message": "Belum ada data. Buka qwencloud.com sambil log masuk, kemudian muat semula."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Sembunyi had"
+   },
+   "loadingSnapshot": {
+      "message": "memuatkan"
+   },
+   "manualRefreshHint": {
+      "message": "Kemas kini automatik dimatikan. Tekan Muat semula untuk memuatkan penggunaan."
+   },
+   "nextResetLabel": {
+      "message": "set semula dalam $1"
+   },
+   "notConnected": {
+      "message": "tidak disambungkan"
+   },
+   "optionsBadgeDescription": {
+      "message": "Ikon sambungan berubah setiap 10% berdasarkan sumber ini."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Penyedia ini tersembunyi dalam popup, tetapi julat ikonnya kekal aktif."
+   },
+   "optionsBadgeHighest": {
+      "message": "Tertinggi antara penyedia yang kelihatan"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Gunakan peratusan semasa tertinggi antara kad yang dipaparkan."
+   },
+   "optionsBadgeProvider": {
+      "message": "Penyedia"
+   },
+   "optionsBadgeSelected": {
+      "message": "Penyedia dipilih"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Gunakan satu penyedia tanpa mengira kad lain."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Sumber ikon"
+   },
+   "optionsBadgeSteps": {
+      "message": "Tahap ikon"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "dibundarkan ke bawah kepada 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Julat ikon"
+   },
+   "optionsBadgeWindow": {
+      "message": "Tetingkap penggunaan"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sesi"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Mingguan"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Pilihan. Gunakannya jika pelayar ini tidak log masuk ke z.ai, atau untuk akaun BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Kunci API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Bahasa pelayar"
+   },
+   "optionsLanguageDescription": {
+      "message": "Pilih bahasa untuk popup, halaman ini dan lapisan pada halaman."
+   },
+   "optionsLanguageHint": {
+      "message": "Menukar bahasa akan memuat semula halaman ini."
+   },
+   "optionsLanguageTitle": {
+      "message": "Bahasa"
+   },
+   "optionsLayoutDescription": {
+      "message": "Pilih cara kad penyedia yang kelihatan disusun."
+   },
+   "optionsLayoutGrid": {
+      "message": "Dua lajur"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Pandangan padat dengan dua kad sebaris."
+   },
+   "optionsLayoutSingle": {
+      "message": "Satu lajur"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Kad selebar penuh bagi setiap penyedia."
+   },
+   "optionsLayoutTitle": {
+      "message": "Susun atur popup"
+   },
+   "optionsLoading": {
+      "message": "Memuatkan tetapan…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Set semula tersedia"
+   },
+   "optionsMetricBalance": {
+      "message": "Baki"
+   },
+   "optionsMetricModels": {
+      "message": "Pecahan mengikut model"
+   },
+   "optionsMetricPlan": {
+      "message": "Pelan"
+   },
+   "optionsMetricReset": {
+      "message": "Masa set semula"
+   },
+   "optionsMetricSession": {
+      "message": "Penggunaan sesi"
+   },
+   "optionsMetricSummary": {
+      "message": "Baki / ringkasan"
+   },
+   "optionsMetricWeekly": {
+      "message": "Penggunaan mingguan"
+   },
+   "optionsNavBadge": {
+      "message": "Ikon bar alat"
+   },
+   "optionsNavLabel": {
+      "message": "Bahagian tetapan"
+   },
+   "optionsNavLayout": {
+      "message": "Susun atur"
+   },
+   "optionsNavOverlays": {
+      "message": "Lapisan pada halaman"
+   },
+   "optionsNavProviders": {
+      "message": "Penyedia"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Hidupkan lapisan $1 pada halaman"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Tunjukkan kapsul penggunaan boleh lipat di sebelah kotak mesej."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Lapisan pada halaman"
+   },
+   "optionsPercentageDescription": {
+      "message": "Tunjukkan berapa banyak setiap had yang telah digunakan atau berbaki."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Berbaki"
+   },
+   "optionsPercentageTitle": {
+      "message": "Paparan had"
+   },
+   "optionsPercentageUsed": {
+      "message": "Digunakan"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 daripada $2 butiran"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Butiran penggunaan $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Tersembunyi dalam popup"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Tunjukkan $1 dalam popup"
+   },
+   "optionsProvidersDescription": {
+      "message": "Sembunyikan kad atau pilih butiran yang dipaparkan. Data yang tiada disembunyikan secara automatik."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 daripada $2 dipaparkan"
+   },
+   "optionsProvidersTitle": {
+      "message": "Penyedia"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatik"
+   },
+   "optionsRefreshDescription": {
+      "message": "Pilih kemas kini automatik atau manual."
+   },
+   "optionsRefreshInterval": {
+      "message": "Selang (minit, minimum 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Hanya apabila menekan Muat semula"
+   },
+   "optionsRefreshTitle": {
+      "message": "Muat semula penggunaan"
+   },
+   "optionsResetAction": {
+      "message": "Set semula lalai"
+   },
+   "optionsResetConfirm": {
+      "message": "Klik sekali lagi untuk sahkan"
+   },
+   "optionsResetDescription": {
+      "message": "Memulihkan semua keutamaan pada halaman ini. Tindakan ini tidak boleh dibatalkan."
+   },
+   "optionsResetTitle": {
+      "message": "Set semula kepada lalai"
+   },
+   "optionsSaveError": {
+      "message": "Gagal menyimpan"
+   },
+   "optionsSaved": {
+      "message": "Semua perubahan disimpan"
+   },
+   "optionsSaving": {
+      "message": "Menyimpan…"
+   },
+   "optionsSkip": {
+      "message": "Lompat ke tetapan"
+   },
+   "optionsTitle": {
+      "message": "Tetapan AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% berbaki"
+   },
+   "planLabel": {
+      "message": "Pelan · $1"
+   },
+   "planUsage": {
+      "message": "Penggunaan pelan"
+   },
+   "popupTitle": {
+      "message": "Penggunaan"
+   },
+   "refreshErrorPrefix": {
+      "message": "Gagal dimuat semula"
+   },
+   "refreshFailed": {
+      "message": "Muat semula gagal"
+   },
+   "refreshUsage": {
+      "message": "Muat semula penggunaan"
+   },
+   "refreshUsageLimits": {
+      "message": "Muat semula had"
+   },
+   "refreshing": {
+      "message": "memuat semula..."
+   },
+   "reportCancel": {
+      "message": "Batal"
+   },
+   "reportDescription": {
+      "message": "Terangkan apa yang tidak kena. Laporan pergi terus kepada pembangun."
+   },
+   "reportFailed": {
+      "message": "Laporan tidak dapat dihantar."
+   },
+   "reportOnGithub": {
+      "message": "Buka issue di GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Apa yang berlaku? Penyedia mana yang terjejas?"
+   },
+   "reportPrivacy": {
+      "message": "Menghantar mesej anda bersama versi sambungan, bahasa dan kad penyedia yang dihidupkan."
+   },
+   "reportProblem": {
+      "message": "Laporkan masalah"
+   },
+   "reportSend": {
+      "message": "Hantar"
+   },
+   "reportSending": {
+      "message": "Menghantar…"
+   },
+   "reportSent": {
+      "message": "Terima kasih! Laporan anda telah dihantar."
+   },
+   "reportTitle": {
+      "message": "Laporkan masalah"
+   },
+   "resetsLabel": {
+      "message": "set semula dalam $1"
+   },
+   "sessionExpired": {
+      "message": "sesi tamat tempoh"
+   },
+   "sessionLimit": {
+      "message": "Sesi · 5 j"
+   },
+   "showLimits": {
+      "message": "Tunjuk had"
+   },
+   "sourceCode": {
+      "message": "Kod sumber"
+   },
+   "timeAgo": {
+      "message": "$1 lalu"
+   },
+   "timeDayShort": {
+      "message": "h"
+   },
+   "timeHourShort": {
+      "message": "j"
+   },
+   "timeJustNow": {
+      "message": "sebentar tadi"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "sekarang"
+   },
+   "timeUnknown": {
+      "message": "tidak diketahui"
+   },
+   "tokenPlan": {
+      "message": "Pelan token"
+   },
+   "updated": {
+      "message": "dikemas kini $1"
+   },
+   "waitingForSnapshot": {
+      "message": "menunggu data"
+   },
+   "weeklyLimit": {
+      "message": "Mingguan · 7 h"
+   },
+   "welcomeCta": {
+      "message": "Mula"
+   },
+   "welcomeCtaHint": {
+      "message": "Anda boleh menyahsemat kemudian dalam Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Klik ikon yang disematkan untuk melihat penggunaan anda"
+   },
+   "welcomeStepPin": {
+      "message": "Klik ikon sambungan {icon} pada bar alat, kemudian sematkan AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Simpan had anda dalam satu klik — pop timbul dibuka terus dari bar alat."
+   },
+   "welcomeTitle": {
+      "message": "Sematkan AI Usage Tracker"
+   }
+}

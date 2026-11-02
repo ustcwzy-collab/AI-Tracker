@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Volg sessie- en weeklimieten van Claude en ChatGPT (Codex) in een pop-up en overlay op de pagina. Zonder installatie."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: limieten voor Claude en Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Beschikbare resets · $1"
+   },
+   "emptyClaude": {
+      "message": "Nog geen gegevens. Open claude.ai terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyCodex": {
+      "message": "Nog geen gegevens. Open chatgpt.com terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyCursor": {
+      "message": "Nog geen gegevens. Open cursor.com terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyGlm": {
+      "message": "Nog geen gegevens. Open z.ai terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyKimi": {
+      "message": "Nog geen gegevens. Open kimi.com/code terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyMiMo": {
+      "message": "Nog geen gegevens. Open platform.xiaomimimo.com terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyMiniMax": {
+      "message": "Nog geen gegevens. Open platform.minimax.io terwijl je bent ingelogd en vernieuw."
+   },
+   "emptyOverlay": {
+      "message": "Nog geen gegevens. Open de pop-up en vernieuw."
+   },
+   "emptyQwen": {
+      "message": "Nog geen gegevens. Open qwencloud.com terwijl je bent ingelogd en vernieuw."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Limieten verbergen"
+   },
+   "loadingSnapshot": {
+      "message": "laden"
+   },
+   "manualRefreshHint": {
+      "message": "Automatisch vernieuwen staat uit. Klik op Vernieuwen om het gebruik te laden."
+   },
+   "nextResetLabel": {
+      "message": "reset over $1"
+   },
+   "notConnected": {
+      "message": "niet verbonden"
+   },
+   "optionsBadgeDescription": {
+      "message": "Het pictogram verandert in stappen van 10% op basis van deze bron."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Deze aanbieder is verborgen in de pop-up, maar het pictogrambereik blijft actief."
+   },
+   "optionsBadgeHighest": {
+      "message": "Hoogste van zichtbare aanbieders"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Gebruik het hoogste actuele percentage van de getoonde kaarten."
+   },
+   "optionsBadgeProvider": {
+      "message": "Aanbieder"
+   },
+   "optionsBadgeSelected": {
+      "message": "Gekozen aanbieder"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Gebruik één aanbieder, ongeacht de zichtbaarheid van andere kaarten."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Bron van pictogram"
+   },
+   "optionsBadgeSteps": {
+      "message": "Stappen van het pictogram"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "naar beneden afgerond op 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Pictogrambereik"
+   },
+   "optionsBadgeWindow": {
+      "message": "Verbruiksvenster"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sessie"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Week"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Optioneel. Gebruik hem als deze browser niet is aangemeld bij z.ai, of voor BigModel-accounts."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API-sleutel"
+   },
+   "optionsLanguageAuto": {
+      "message": "Browsertaal"
+   },
+   "optionsLanguageDescription": {
+      "message": "Kies de taal voor de pop-up, deze pagina en de overlays."
+   },
+   "optionsLanguageHint": {
+      "message": "Bij het wisselen van taal wordt deze pagina herladen."
+   },
+   "optionsLanguageTitle": {
+      "message": "Taal"
+   },
+   "optionsLayoutDescription": {
+      "message": "Kies hoe zichtbare aanbiederkaarten in de pop-up worden geordend."
+   },
+   "optionsLayoutGrid": {
+      "message": "Twee kolommen"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Compact overzicht met twee kaarten per rij."
+   },
+   "optionsLayoutSingle": {
+      "message": "Eén kolom"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Een kaart over de volle breedte per aanbieder."
+   },
+   "optionsLayoutTitle": {
+      "message": "Pop-upindeling"
+   },
+   "optionsLoading": {
+      "message": "Instellingen laden…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Beschikbare resets"
+   },
+   "optionsMetricBalance": {
+      "message": "Saldo"
+   },
+   "optionsMetricModels": {
+      "message": "Uitsplitsing per model"
+   },
+   "optionsMetricPlan": {
+      "message": "Abonnement"
+   },
+   "optionsMetricReset": {
+      "message": "Resettijd"
+   },
+   "optionsMetricSession": {
+      "message": "Sessieverbruik"
+   },
+   "optionsMetricSummary": {
+      "message": "Saldo / samenvatting"
+   },
+   "optionsMetricWeekly": {
+      "message": "Weekverbruik"
+   },
+   "optionsNavBadge": {
+      "message": "Werkbalkpictogram"
+   },
+   "optionsNavLabel": {
+      "message": "Instellingssecties"
+   },
+   "optionsNavLayout": {
+      "message": "Indeling"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlays op de pagina"
+   },
+   "optionsNavProviders": {
+      "message": "Aanbieders"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1-overlay op de pagina inschakelen"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Toon de inklapbare verbruikscapsule naast het berichtveld."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlays op de pagina"
+   },
+   "optionsPercentageDescription": {
+      "message": "Toon hoeveel van elke limiet is gebruikt of resterend is."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Resterend"
+   },
+   "optionsPercentageTitle": {
+      "message": "Limietweergave"
+   },
+   "optionsPercentageUsed": {
+      "message": "Gebruikt"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 van $2 details"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Verbruiksgegevens van $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Verborgen in pop-up"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "$1 tonen in pop-up"
+   },
+   "optionsProvidersDescription": {
+      "message": "Verberg een kaart of kies welke gegevens die toont. Niet-beschikbare gegevens blijven automatisch verborgen."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 van $2 zichtbaar"
+   },
+   "optionsProvidersTitle": {
+      "message": "Aanbieders"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatisch"
+   },
+   "optionsRefreshDescription": {
+      "message": "Kies automatisch of handmatig vernieuwen."
+   },
+   "optionsRefreshInterval": {
+      "message": "Interval (minuten, minimaal 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Alleen via Vernieuwen"
+   },
+   "optionsRefreshTitle": {
+      "message": "Gebruik vernieuwen"
+   },
+   "optionsResetAction": {
+      "message": "Standaard herstellen"
+   },
+   "optionsResetConfirm": {
+      "message": "Klik nogmaals ter bevestiging"
+   },
+   "optionsResetDescription": {
+      "message": "Herstelt elke voorkeur op deze pagina. Dit kan niet ongedaan worden gemaakt."
+   },
+   "optionsResetTitle": {
+      "message": "Standaardwaarden herstellen"
+   },
+   "optionsSaveError": {
+      "message": "Opslaan mislukt"
+   },
+   "optionsSaved": {
+      "message": "Alle wijzigingen opgeslagen"
+   },
+   "optionsSaving": {
+      "message": "Opslaan…"
+   },
+   "optionsSkip": {
+      "message": "Naar instellingen"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker-instellingen"
+   },
+   "percentageRemaining": {
+      "message": "$1% over"
+   },
+   "planLabel": {
+      "message": "Abonnement · $1"
+   },
+   "planUsage": {
+      "message": "Abonnementsverbruik"
+   },
+   "popupTitle": {
+      "message": "Verbruik"
+   },
+   "refreshErrorPrefix": {
+      "message": "Vernieuwen mislukt"
+   },
+   "refreshFailed": {
+      "message": "Vernieuwen mislukt"
+   },
+   "refreshUsage": {
+      "message": "Verbruik vernieuwen"
+   },
+   "refreshUsageLimits": {
+      "message": "Limieten vernieuwen"
+   },
+   "refreshing": {
+      "message": "vernieuwen..."
+   },
+   "reportCancel": {
+      "message": "Annuleren"
+   },
+   "reportDescription": {
+      "message": "Beschrijf wat er misging. De melding gaat rechtstreeks naar de makers."
+   },
+   "reportFailed": {
+      "message": "Kon de melding niet versturen."
+   },
+   "reportOnGithub": {
+      "message": "Een GitHub-issue openen"
+   },
+   "reportPlaceholder": {
+      "message": "Wat gebeurde er? Welke provider is getroffen?"
+   },
+   "reportPrivacy": {
+      "message": "Verstuurt je bericht met de extensieversie, taal en welke providerkaarten aanstaan."
+   },
+   "reportProblem": {
+      "message": "Probleem melden"
+   },
+   "reportSend": {
+      "message": "Versturen"
+   },
+   "reportSending": {
+      "message": "Versturen…"
+   },
+   "reportSent": {
+      "message": "Bedankt! Je melding is verstuurd."
+   },
+   "reportTitle": {
+      "message": "Probleem melden"
+   },
+   "resetsLabel": {
+      "message": "reset over $1"
+   },
+   "sessionExpired": {
+      "message": "sessie verlopen"
+   },
+   "sessionLimit": {
+      "message": "Sessie · 5 u"
+   },
+   "showLimits": {
+      "message": "Limieten tonen"
+   },
+   "sourceCode": {
+      "message": "Broncode"
+   },
+   "timeAgo": {
+      "message": "$1 geleden"
+   },
+   "timeDayShort": {
+      "message": "d"
+   },
+   "timeHourShort": {
+      "message": "u"
+   },
+   "timeJustNow": {
+      "message": "zojuist"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "nu"
+   },
+   "timeUnknown": {
+      "message": "onbekend"
+   },
+   "tokenPlan": {
+      "message": "Tokenabonnement"
+   },
+   "updated": {
+      "message": "bijgewerkt $1"
+   },
+   "waitingForSnapshot": {
+      "message": "wachten op gegevens"
+   },
+   "weeklyLimit": {
+      "message": "Week · 7 d"
+   },
+   "welcomeCta": {
+      "message": "Aan de slag"
+   },
+   "welcomeCtaHint": {
+      "message": "Je kunt het later in Chrome weer losmaken."
+   },
+   "welcomeStepOpen": {
+      "message": "Klik op het vastgezette pictogram om je verbruik te zien"
+   },
+   "welcomeStepPin": {
+      "message": "Klik op het extensiepictogram {icon} in de werkbalk en zet AI Usage Tracker vast"
+   },
+   "welcomeSubtitle": {
+      "message": "Houd je limieten één klik weg — de pop-up opent direct vanuit de werkbalk."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker vastzetten"
+   }
+}

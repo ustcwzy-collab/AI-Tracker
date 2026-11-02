@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Kövesd a Claude és a ChatGPT (Codex) munkamenet- és heti limitjeit felugró ablakban és oldalon megjelenő panelen."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude és Codex limitek"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Elérhető visszaállítások · $1"
+   },
+   "emptyClaude": {
+      "message": "Még nincs adat. Nyisd meg a claude.ai oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyCodex": {
+      "message": "Még nincs adat. Nyisd meg a chatgpt.com oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyCursor": {
+      "message": "Még nincs adat. Nyisd meg a cursor.com oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyGlm": {
+      "message": "Még nincs adat. Nyisd meg a z.ai oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyKimi": {
+      "message": "Még nincs adat. Nyisd meg a kimi.com/code oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyMiMo": {
+      "message": "Még nincs adat. Nyisd meg a platform.xiaomimimo.com oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyMiniMax": {
+      "message": "Még nincs adat. Nyisd meg a platform.minimax.io oldalt bejelentkezve, majd frissíts."
+   },
+   "emptyOverlay": {
+      "message": "Még nincs adat. Nyisd meg a felugró ablakot és frissíts."
+   },
+   "emptyQwen": {
+      "message": "Még nincs adat. Nyisd meg a qwencloud.com oldalt bejelentkezve, majd frissíts."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Limitek elrejtése"
+   },
+   "loadingSnapshot": {
+      "message": "betöltés"
+   },
+   "manualRefreshHint": {
+      "message": "Az automatikus frissítés ki van kapcsolva. A használat betöltéséhez nyomja meg a Frissítés gombot."
+   },
+   "nextResetLabel": {
+      "message": "visszaáll: $1"
+   },
+   "notConnected": {
+      "message": "nincs kapcsolat"
+   },
+   "optionsBadgeDescription": {
+      "message": "A bővítmény ikonja 10%-os lépésekben változik e forrás alapján."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Ez a szolgáltató rejtve van a felugró ablakban, de az ikon tartománya továbbra is aktív."
+   },
+   "optionsBadgeHighest": {
+      "message": "A látható szolgáltatók legmagasabb értéke"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "A megjelenített kártyák közül a legnagyobb aktuális százalékot használja."
+   },
+   "optionsBadgeProvider": {
+      "message": "Szolgáltató"
+   },
+   "optionsBadgeSelected": {
+      "message": "Kiválasztott szolgáltató"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Egy szolgáltatót használ, függetlenül a többi kártya láthatóságától."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Ikon forrása"
+   },
+   "optionsBadgeSteps": {
+      "message": "Eszköztár ikon fokozatai"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "lefelé kerekítve 10%-ra"
+   },
+   "optionsBadgeTitle": {
+      "message": "Ikon tartománya"
+   },
+   "optionsBadgeWindow": {
+      "message": "Felhasználási ablak"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Munkamenet"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Heti"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Nem kötelező. Akkor használd, ha ez a böngésző nincs bejelentkezve a z.ai-ba, vagy BigModel-fiókokhoz."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API-kulcs"
+   },
+   "optionsLanguageAuto": {
+      "message": "Böngésző nyelve"
+   },
+   "optionsLanguageDescription": {
+      "message": "Válaszd ki a felugró ablak, ez az oldal és a panelek nyelvét."
+   },
+   "optionsLanguageHint": {
+      "message": "A nyelv váltása újratölti az oldalt."
+   },
+   "optionsLanguageTitle": {
+      "message": "Nyelv"
+   },
+   "optionsLayoutDescription": {
+      "message": "Válaszd ki, hogyan rendeződjenek a látható szolgáltatókártyák."
+   },
+   "optionsLayoutGrid": {
+      "message": "Két oszlop"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompakt áttekintés, soronként két kártyával."
+   },
+   "optionsLayoutSingle": {
+      "message": "Egy oszlop"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Teljes szélességű kártya minden szolgáltatónak."
+   },
+   "optionsLayoutTitle": {
+      "message": "Felugró ablak elrendezése"
+   },
+   "optionsLoading": {
+      "message": "Beállítások betöltése…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Elérhető visszaállítások"
+   },
+   "optionsMetricBalance": {
+      "message": "Egyenleg"
+   },
+   "optionsMetricModels": {
+      "message": "Modellenkénti bontás"
+   },
+   "optionsMetricPlan": {
+      "message": "Csomag"
+   },
+   "optionsMetricReset": {
+      "message": "Visszaállítás ideje"
+   },
+   "optionsMetricSession": {
+      "message": "Munkamenet-felhasználás"
+   },
+   "optionsMetricSummary": {
+      "message": "Egyenleg / összegzés"
+   },
+   "optionsMetricWeekly": {
+      "message": "Heti felhasználás"
+   },
+   "optionsNavBadge": {
+      "message": "Eszköztár ikon"
+   },
+   "optionsNavLabel": {
+      "message": "Beállítási szakaszok"
+   },
+   "optionsNavLayout": {
+      "message": "Elrendezés"
+   },
+   "optionsNavOverlays": {
+      "message": "Oldalon megjelenő panelek"
+   },
+   "optionsNavProviders": {
+      "message": "Szolgáltatók"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 oldalpanel bekapcsolása"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Összecsukható felhasználási kapszula az üzenetmező mellett."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Oldalon megjelenő panelek"
+   },
+   "optionsPercentageDescription": {
+      "message": "Mutassa, hogy az egyes korlátokból mennyi fogyott el vagy maradt."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Fennmaradó"
+   },
+   "optionsPercentageTitle": {
+      "message": "Korlátok megjelenítése"
+   },
+   "optionsPercentageUsed": {
+      "message": "Felhasznált"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 / $2 adat"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 felhasználási adatai"
+   },
+   "optionsProviderHidden": {
+      "message": "Rejtve a felugró ablakban"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "$1 mutatása a felugró ablakban"
+   },
+   "optionsProvidersDescription": {
+      "message": "Rejts el egy kártyát, vagy válaszd ki, milyen adatokat mutasson. Az elérhetetlen adatok automatikusan rejtve maradnak."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 / $2 látható"
+   },
+   "optionsProvidersTitle": {
+      "message": "Szolgáltatók"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatikus"
+   },
+   "optionsRefreshDescription": {
+      "message": "Válasszon automatikus vagy kézi frissítést."
+   },
+   "optionsRefreshInterval": {
+      "message": "Időköz (perc, legalább 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Csak a Frissítés gombbal"
+   },
+   "optionsRefreshTitle": {
+      "message": "Használat frissítése"
+   },
+   "optionsResetAction": {
+      "message": "Alapértelmezett"
+   },
+   "optionsResetConfirm": {
+      "message": "Kattints újra a megerősítéshez"
+   },
+   "optionsResetDescription": {
+      "message": "Visszaállítja az oldal összes beállítását. Ez nem vonható vissza."
+   },
+   "optionsResetTitle": {
+      "message": "Visszaállítás alapértelmezettre"
+   },
+   "optionsSaveError": {
+      "message": "Nem sikerült menteni"
+   },
+   "optionsSaved": {
+      "message": "Minden változás mentve"
+   },
+   "optionsSaving": {
+      "message": "Mentés…"
+   },
+   "optionsSkip": {
+      "message": "Ugrás a beállításokhoz"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker beállítások"
+   },
+   "percentageRemaining": {
+      "message": "$1% maradt"
+   },
+   "planLabel": {
+      "message": "Csomag · $1"
+   },
+   "planUsage": {
+      "message": "Csomag felhasználása"
+   },
+   "popupTitle": {
+      "message": "Felhasználás"
+   },
+   "refreshErrorPrefix": {
+      "message": "Nem sikerült frissíteni"
+   },
+   "refreshFailed": {
+      "message": "A frissítés nem sikerült"
+   },
+   "refreshUsage": {
+      "message": "Felhasználás frissítése"
+   },
+   "refreshUsageLimits": {
+      "message": "Limitek frissítése"
+   },
+   "refreshing": {
+      "message": "frissítés..."
+   },
+   "reportCancel": {
+      "message": "Mégse"
+   },
+   "reportDescription": {
+      "message": "Írd le, mi hibázott. A jelentés közvetlenül a fejlesztőkhöz kerül."
+   },
+   "reportFailed": {
+      "message": "A jelentést nem sikerült elküldeni."
+   },
+   "reportOnGithub": {
+      "message": "GitHub-issue megnyitása"
+   },
+   "reportPlaceholder": {
+      "message": "Mi történt? Melyik szolgáltatót érinti?"
+   },
+   "reportPrivacy": {
+      "message": "Elküldi az üzenetedet a bővítmény verziójával, a nyelvvel és a bekapcsolt szolgáltatókártyákkal együtt."
+   },
+   "reportProblem": {
+      "message": "Probléma jelentése"
+   },
+   "reportSend": {
+      "message": "Küldés"
+   },
+   "reportSending": {
+      "message": "Küldés…"
+   },
+   "reportSent": {
+      "message": "Köszönjük! A jelentés elküldve."
+   },
+   "reportTitle": {
+      "message": "Probléma jelentése"
+   },
+   "resetsLabel": {
+      "message": "visszaáll: $1"
+   },
+   "sessionExpired": {
+      "message": "a munkamenet lejárt"
+   },
+   "sessionLimit": {
+      "message": "Munkamenet · 5 ó"
+   },
+   "showLimits": {
+      "message": "Limitek mutatása"
+   },
+   "sourceCode": {
+      "message": "Forráskód"
+   },
+   "timeAgo": {
+      "message": "$1 óta"
+   },
+   "timeDayShort": {
+      "message": "n"
+   },
+   "timeHourShort": {
+      "message": "ó"
+   },
+   "timeJustNow": {
+      "message": "az imént"
+   },
+   "timeMinuteShort": {
+      "message": "p"
+   },
+   "timeNow": {
+      "message": "most"
+   },
+   "timeUnknown": {
+      "message": "ismeretlen"
+   },
+   "tokenPlan": {
+      "message": "Token csomag"
+   },
+   "updated": {
+      "message": "frissítve $1"
+   },
+   "waitingForSnapshot": {
+      "message": "adatokra várva"
+   },
+   "weeklyLimit": {
+      "message": "Heti · 7 n"
+   },
+   "welcomeCta": {
+      "message": "Kezdés"
+   },
+   "welcomeCtaHint": {
+      "message": "Később a Chrome-ban leveheted a rögzítést."
+   },
+   "welcomeStepOpen": {
+      "message": "Kattints a rögzített ikonra a felhasználásod megtekintéséhez"
+   },
+   "welcomeStepPin": {
+      "message": "Kattints a bővítmények ikonjára {icon} az eszköztáron, majd rögzítsd az AI Usage Trackert"
+   },
+   "welcomeSubtitle": {
+      "message": "Legyenek a limitek egy kattintásra — a felugró ablak közvetlenül az eszköztárból nyílik."
+   },
+   "welcomeTitle": {
+      "message": "Rögzítsd az AI Usage Trackert"
+   }
+}

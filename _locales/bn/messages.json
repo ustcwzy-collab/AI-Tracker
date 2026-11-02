@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude ও ChatGPT (Codex)-এর সেশন ও সাপ্তাহিক লিমিট পপআপ এবং পেজ ওভারলেতে দেখুন। কোনো সেটআপ লাগে না।"
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude ও Codex-এর লিমিট"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "উপলব্ধ রিসেট · $1"
+   },
+   "emptyClaude": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় claude.ai খুলে রিফ্রেশ করুন।"
+   },
+   "emptyCodex": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় chatgpt.com খুলে রিফ্রেশ করুন।"
+   },
+   "emptyCursor": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় cursor.com খুলে রিফ্রেশ করুন।"
+   },
+   "emptyGlm": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় z.ai খুলে রিফ্রেশ করুন।"
+   },
+   "emptyKimi": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় kimi.com/code খুলে রিফ্রেশ করুন।"
+   },
+   "emptyMiMo": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় platform.xiaomimimo.com খুলে রিফ্রেশ করুন।"
+   },
+   "emptyMiniMax": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় platform.minimax.io খুলে রিফ্রেশ করুন।"
+   },
+   "emptyOverlay": {
+      "message": "এখনও ডেটা নেই। পপআপ খুলে রিফ্রেশ করুন।"
+   },
+   "emptyQwen": {
+      "message": "এখনও ডেটা নেই। সাইন ইন করা অবস্থায় qwencloud.com খুলে রিফ্রেশ করুন।"
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "লিমিট লুকান"
+   },
+   "loadingSnapshot": {
+      "message": "লোড হচ্ছে"
+   },
+   "manualRefreshHint": {
+      "message": "স্বয়ংক্রিয় আপডেট বন্ধ আছে। ব্যবহার লোড করতে রিফ্রেশ চাপুন।"
+   },
+   "nextResetLabel": {
+      "message": "$1 পরে রিসেট"
+   },
+   "notConnected": {
+      "message": "সংযুক্ত নয়"
+   },
+   "optionsBadgeDescription": {
+      "message": "এই উৎসের ভিত্তিতে এক্সটেনশনের আইকন ১০% ধাপে বদলায়।"
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "এই প্রোভাইডার পপআপে লুকানো, তবে এর আইকন রেঞ্জ সক্রিয় থাকে।"
+   },
+   "optionsBadgeHighest": {
+      "message": "দৃশ্যমান প্রোভাইডারদের সর্বোচ্চ"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "দেখানো কার্ডগুলোর মধ্যে বর্তমান সর্বোচ্চ শতাংশ ব্যবহার করুন।"
+   },
+   "optionsBadgeProvider": {
+      "message": "প্রোভাইডার"
+   },
+   "optionsBadgeSelected": {
+      "message": "নির্বাচিত প্রোভাইডার"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "অন্য কার্ড দেখা যাক বা না যাক, একটি প্রোভাইডার ব্যবহার করুন।"
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "আইকনের উৎস"
+   },
+   "optionsBadgeSteps": {
+      "message": "টুলবার আইকনের ধাপ"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "নিকটতম ১০%-এ নিচের দিকে গোল করা"
+   },
+   "optionsBadgeTitle": {
+      "message": "আইকনের রেঞ্জ"
+   },
+   "optionsBadgeWindow": {
+      "message": "ব্যবহারের উইন্ডো"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "সেশন"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "সাপ্তাহিক"
+   },
+   "optionsGlmKeyHint": {
+      "message": "ঐচ্ছিক। এই ব্রাউজারে z.ai-তে সাইন ইন না থাকলে, বা BigModel অ্যাকাউন্টের জন্য ব্যবহার করুন।"
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API কী"
+   },
+   "optionsLanguageAuto": {
+      "message": "ব্রাউজারের ভাষা"
+   },
+   "optionsLanguageDescription": {
+      "message": "পপআপ, এই পেজ ও পেজ ওভারলের ভাষা বেছে নিন।"
+   },
+   "optionsLanguageHint": {
+      "message": "ভাষা বদলালে এই পেজ আবার লোড হবে।"
+   },
+   "optionsLanguageTitle": {
+      "message": "ভাষা"
+   },
+   "optionsLayoutDescription": {
+      "message": "দৃশ্যমান প্রোভাইডার কার্ডগুলো কীভাবে সাজানো হবে তা বেছে নিন।"
+   },
+   "optionsLayoutGrid": {
+      "message": "দুই কলাম"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "সারিতে দুটি কার্ড নিয়ে সংক্ষিপ্ত ভিউ।"
+   },
+   "optionsLayoutSingle": {
+      "message": "এক কলাম"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "প্রতিটি প্রোভাইডারের জন্য পূর্ণ প্রস্থের কার্ড।"
+   },
+   "optionsLayoutTitle": {
+      "message": "পপআপ লেআউট"
+   },
+   "optionsLoading": {
+      "message": "সেটিংস লোড হচ্ছে…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "উপলব্ধ রিসেট"
+   },
+   "optionsMetricBalance": {
+      "message": "ব্যালেন্স"
+   },
+   "optionsMetricModels": {
+      "message": "মডেল অনুযায়ী বিভাজন"
+   },
+   "optionsMetricPlan": {
+      "message": "প্ল্যান"
+   },
+   "optionsMetricReset": {
+      "message": "রিসেটের সময়"
+   },
+   "optionsMetricSession": {
+      "message": "সেশন ব্যবহার"
+   },
+   "optionsMetricSummary": {
+      "message": "ব্যালেন্স / সারসংক্ষেপ"
+   },
+   "optionsMetricWeekly": {
+      "message": "সাপ্তাহিক ব্যবহার"
+   },
+   "optionsNavBadge": {
+      "message": "টুলবার আইকন"
+   },
+   "optionsNavLabel": {
+      "message": "সেটিংস বিভাগ"
+   },
+   "optionsNavLayout": {
+      "message": "লেআউট"
+   },
+   "optionsNavOverlays": {
+      "message": "পেজ ওভারলে"
+   },
+   "optionsNavProviders": {
+      "message": "প্রোভাইডার"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1-এর পেজ ওভারলে চালু করুন"
+   },
+   "optionsOverlaysDescription": {
+      "message": "মেসেজ বক্সের পাশে ভাঁজযোগ্য ব্যবহারের ক্যাপসুল দেখান।"
+   },
+   "optionsOverlaysTitle": {
+      "message": "পেজ ওভারলে"
+   },
+   "optionsPercentageDescription": {
+      "message": "প্রতিটি সীমার কতটা ব্যবহৃত হয়েছে বা বাকি আছে তা দেখান।"
+   },
+   "optionsPercentageRemaining": {
+      "message": "বাকি"
+   },
+   "optionsPercentageTitle": {
+      "message": "সীমা প্রদর্শন"
+   },
+   "optionsPercentageUsed": {
+      "message": "ব্যবহৃত"
+   },
+   "optionsProviderDetails": {
+      "message": "$2-এর মধ্যে $1 তথ্য"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1-এর ব্যবহারের তথ্য"
+   },
+   "optionsProviderHidden": {
+      "message": "পপআপে লুকানো"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "পপআপে $1 দেখান"
+   },
+   "optionsProvidersDescription": {
+      "message": "কার্ড লুকান বা কোন তথ্য দেখাবে তা বেছে নিন। অনুপলব্ধ ডেটা নিজে থেকেই লুকানো থাকে।"
+   },
+   "optionsProvidersShown": {
+      "message": "$2-এর মধ্যে $1 দেখানো হচ্ছে"
+   },
+   "optionsProvidersTitle": {
+      "message": "প্রোভাইডার"
+   },
+   "optionsRefreshAuto": {
+      "message": "স্বয়ংক্রিয়"
+   },
+   "optionsRefreshDescription": {
+      "message": "স্বয়ংক্রিয় বা ম্যানুয়াল আপডেট বেছে নিন।"
+   },
+   "optionsRefreshInterval": {
+      "message": "ব্যবধান (মিনিট, সর্বনিম্ন 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "শুধু রিফ্রেশ বোতাম চাপলে"
+   },
+   "optionsRefreshTitle": {
+      "message": "ব্যবহার রিফ্রেশ"
+   },
+   "optionsResetAction": {
+      "message": "ডিফল্ট ফেরান"
+   },
+   "optionsResetConfirm": {
+      "message": "নিশ্চিত করতে আবার ক্লিক করুন"
+   },
+   "optionsResetDescription": {
+      "message": "এই পেজের সব পছন্দ ফিরিয়ে আনে। এটি ফেরানো যাবে না।"
+   },
+   "optionsResetTitle": {
+      "message": "ডিফল্টে রিসেট"
+   },
+   "optionsSaveError": {
+      "message": "সেভ করা যায়নি"
+   },
+   "optionsSaved": {
+      "message": "সব পরিবর্তন সেভ হয়েছে"
+   },
+   "optionsSaving": {
+      "message": "সেভ হচ্ছে…"
+   },
+   "optionsSkip": {
+      "message": "সেটিংসে যান"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker সেটিংস"
+   },
+   "percentageRemaining": {
+      "message": "$1% বাকি"
+   },
+   "planLabel": {
+      "message": "প্ল্যান · $1"
+   },
+   "planUsage": {
+      "message": "প্ল্যানের ব্যবহার"
+   },
+   "popupTitle": {
+      "message": "ব্যবহার"
+   },
+   "refreshErrorPrefix": {
+      "message": "রিফ্রেশ করা যায়নি"
+   },
+   "refreshFailed": {
+      "message": "রিফ্রেশ ব্যর্থ"
+   },
+   "refreshUsage": {
+      "message": "ব্যবহার রিফ্রেশ করুন"
+   },
+   "refreshUsageLimits": {
+      "message": "লিমিট রিফ্রেশ করুন"
+   },
+   "refreshing": {
+      "message": "রিফ্রেশ হচ্ছে..."
+   },
+   "reportCancel": {
+      "message": "বাতিল"
+   },
+   "reportDescription": {
+      "message": "কী ভুল হয়েছে লিখুন। রিপোর্ট সরাসরি ডেভেলপারদের কাছে যায়।"
+   },
+   "reportFailed": {
+      "message": "রিপোর্ট পাঠানো যায়নি।"
+   },
+   "reportOnGithub": {
+      "message": "GitHub-এ issue খুলুন"
+   },
+   "reportPlaceholder": {
+      "message": "কী হয়েছে? কোন প্রোভাইডার প্রভাবিত?"
+   },
+   "reportPrivacy": {
+      "message": "আপনার বার্তার সঙ্গে এক্সটেনশন সংস্করণ, ভাষা এবং চালু থাকা প্রোভাইডার কার্ড পাঠানো হয়।"
+   },
+   "reportProblem": {
+      "message": "সমস্যা জানান"
+   },
+   "reportSend": {
+      "message": "পাঠান"
+   },
+   "reportSending": {
+      "message": "পাঠানো হচ্ছে…"
+   },
+   "reportSent": {
+      "message": "ধন্যবাদ! আপনার রিপোর্ট পাঠানো হয়েছে।"
+   },
+   "reportTitle": {
+      "message": "সমস্যা জানান"
+   },
+   "resetsLabel": {
+      "message": "$1 পরে রিসেট"
+   },
+   "sessionExpired": {
+      "message": "সেশনের মেয়াদ শেষ"
+   },
+   "sessionLimit": {
+      "message": "সেশন · ৫ ঘণ্টা"
+   },
+   "showLimits": {
+      "message": "লিমিট দেখান"
+   },
+   "sourceCode": {
+      "message": "সোর্স কোড"
+   },
+   "timeAgo": {
+      "message": "$1 আগে"
+   },
+   "timeDayShort": {
+      "message": "দি"
+   },
+   "timeHourShort": {
+      "message": "ঘ"
+   },
+   "timeJustNow": {
+      "message": "এইমাত্র"
+   },
+   "timeMinuteShort": {
+      "message": "মি"
+   },
+   "timeNow": {
+      "message": "এখন"
+   },
+   "timeUnknown": {
+      "message": "অজানা"
+   },
+   "tokenPlan": {
+      "message": "টোকেন প্ল্যান"
+   },
+   "updated": {
+      "message": "আপডেট $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ডেটার জন্য অপেক্ষা"
+   },
+   "weeklyLimit": {
+      "message": "সাপ্তাহিক · ৭ দিন"
+   },
+   "welcomeCta": {
+      "message": "শুরু করুন"
+   },
+   "welcomeCtaHint": {
+      "message": "পরে Chrome থেকে আনপিন করতে পারবেন।"
+   },
+   "welcomeStepOpen": {
+      "message": "আপনার ব্যবহার দেখতে পিন করা আইকনে ক্লিক করুন"
+   },
+   "welcomeStepPin": {
+      "message": "টুলবারে এক্সটেনশন আইকনে {icon} ক্লিক করুন, তারপর AI Usage Tracker পিন করুন"
+   },
+   "welcomeSubtitle": {
+      "message": "আপনার সীমা এক ক্লিক দূরে রাখুন — পপআপ সরাসরি টুলবার থেকে খোলে।"
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker পিন করুন"
+   }
+}

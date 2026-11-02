@@ -1,0 +1,42 @@
+AI Usage Tracker · 额度明细增强版 0.1.26.3
+其他电脑安装说明（Windows / macOS 的桌面 Chrome）
+
+一、安装
+1. 把 AI-Usage-Tracker-0.1.26.3.zip 复制到另一台电脑，完整解压。
+2. 把解压后的 AI-Usage-Tracker-0.1.26.3 文件夹放在一个长期保留的位置。
+   安装后请不要移动或删除这个文件夹；Chrome 会直接读取其中的文件。
+3. 在 Chrome 地址栏输入 chrome://extensions 并打开。
+4. 如果已经安装了原版 AI Usage Tracker，先关闭原版的启用开关，避免重复显示。
+5. 打开右上角“开发者模式”，点击“加载已解压的扩展程序”。
+6. 选择解压后的 AI-Usage-Tracker-0.1.26.3 文件夹，即直接包含 manifest.json 的那一层。
+   不要选择 ZIP 文件，也不要选择里面的 src 子文件夹。
+7. 点击 Chrome 工具栏的拼图图标，找到“AI Usage Tracker · 额度明细增强版”，将它固定到工具栏。
+
+二、首次读取额度
+- 在这台电脑的同一个 Chrome 个人资料中登录自己的 ChatGPT、Kimi 账号。
+- ChatGPT / Codex：正常刷新已登录的 https://chatgpt.com 页面；打开一个新聊天即可读取聊天功能额度，无需发送消息。随后在插件中点刷新，更新 Codex 数据。
+- Kimi：打开并登录 https://www.kimi.com，正常刷新页面后保持至少一个 Kimi 标签页打开，再在插件中点刷新。
+- 点击插件右上角齿轮，勾选需要显示的平台和明细。Kimi 默认隐藏，请开启“Kimi / Code”；不使用的其他平台可以关闭。
+- 默认是小尺寸单栏弹窗，内容较多时在列表里滚动；想保持小窗口，请选择布局“单列”。
+
+三、账号与设置
+安装包只包含扩展程序和说明，不迁移当前电脑的登录状态、用量缓存或个人显示设置。
+需要在新电脑上重新登录并按喜好勾选显示项。
+ChatGPT 聊天与 Codex 额度分开显示。服务未提供的各模型剩余次数会显示“未提供”，不会推算。
+
+四、以后更新
+这是本地加载版本，不会自动接收 Chrome 应用商店更新。
+收到新版后，替换同一个安装文件夹内的文件，然后到 chrome://extensions 点击此扩展的重新加载按钮。
+随后正常刷新 ChatGPT 和 Kimi 页面，让页面采集脚本更新。
+
+五、常见问题
+- 找不到 manifest.json：一般是选错文件夹或没有完整解压，进入有 manifest.json 的那一层再加载。
+- 没有数据：确认已在当前 Chrome 个人资料中登录网站，刷新网站，再刷新插件；Kimi 需要保留登录中的标签页。
+- 公司电脑不允许开发者模式：请由管理员允许安装，或改用允许本地扩展的个人电脑。
+- 想恢复原版：停用本地版本，再启用原版即可。
+
+Chrome 官方安装步骤：
+https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked
+
+上游来源：https://github.com/cupcakedev/ai-usage-extension
+原作者 MIT 许可证见 LICENSE。

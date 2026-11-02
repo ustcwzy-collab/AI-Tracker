@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Subaybayan ang session at lingguhang limitasyon ng Claude at ChatGPT (Codex) sa popup at overlay sa pahina."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: mga limitasyon ng Claude at Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Available na reset · $1"
+   },
+   "emptyClaude": {
+      "message": "Wala pang data. Buksan ang claude.ai habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyCodex": {
+      "message": "Wala pang data. Buksan ang chatgpt.com habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyCursor": {
+      "message": "Wala pang data. Buksan ang cursor.com habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyGlm": {
+      "message": "Wala pang data. Buksan ang z.ai habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyKimi": {
+      "message": "Wala pang data. Buksan ang kimi.com/code habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyMiMo": {
+      "message": "Wala pang data. Buksan ang platform.xiaomimimo.com habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyMiniMax": {
+      "message": "Wala pang data. Buksan ang platform.minimax.io habang naka-sign in, tapos mag-refresh."
+   },
+   "emptyOverlay": {
+      "message": "Wala pang data. Buksan ang popup at mag-refresh."
+   },
+   "emptyQwen": {
+      "message": "Wala pang data. Buksan ang qwencloud.com habang naka-sign in, tapos mag-refresh."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Itago ang limitasyon"
+   },
+   "loadingSnapshot": {
+      "message": "naglo-load"
+   },
+   "manualRefreshHint": {
+      "message": "Naka-off ang awtomatikong pag-update. Pindutin ang Refresh para i-load ang paggamit."
+   },
+   "nextResetLabel": {
+      "message": "magre-reset sa $1"
+   },
+   "notConnected": {
+      "message": "hindi nakakonekta"
+   },
+   "optionsBadgeDescription": {
+      "message": "Nagbabago ang icon ng extension kada 10% batay sa pinagmulang ito."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Nakatago sa popup ang provider na ito, pero aktibo pa rin ang saklaw ng icon nito."
+   },
+   "optionsBadgeHighest": {
+      "message": "Pinakamataas sa mga nakikitang provider"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Gamitin ang pinakamataas na kasalukuyang porsyento sa mga ipinapakitang card."
+   },
+   "optionsBadgeProvider": {
+      "message": "Provider"
+   },
+   "optionsBadgeSelected": {
+      "message": "Piniling provider"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Gumamit ng isang provider anuman ang nakikitang ibang card."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Pinagmulan ng icon"
+   },
+   "optionsBadgeSteps": {
+      "message": "Mga hakbang ng icon"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "binababa sa pinakamalapit na 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Saklaw ng icon"
+   },
+   "optionsBadgeWindow": {
+      "message": "Window ng paggamit"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Session"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Lingguhan"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Opsyonal. Gamitin ito kung hindi naka-sign in ang browser na ito sa z.ai, o para sa mga BigModel account."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API key"
+   },
+   "optionsLanguageAuto": {
+      "message": "Wika ng browser"
+   },
+   "optionsLanguageDescription": {
+      "message": "Piliin ang wika para sa popup, sa pahinang ito, at sa mga overlay."
+   },
+   "optionsLanguageHint": {
+      "message": "Ang pagpapalit ng wika ay magre-reload sa pahina."
+   },
+   "optionsLanguageTitle": {
+      "message": "Wika"
+   },
+   "optionsLayoutDescription": {
+      "message": "Piliin kung paano isasaayos ang nakikitang mga card ng provider."
+   },
+   "optionsLayoutGrid": {
+      "message": "Dalawang hanay"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Compact na tanaw na may dalawang card kada hilera."
+   },
+   "optionsLayoutSingle": {
+      "message": "Isang hanay"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Buong lapad na card para sa bawat provider."
+   },
+   "optionsLayoutTitle": {
+      "message": "Layout ng popup"
+   },
+   "optionsLoading": {
+      "message": "Naglo-load ng mga setting…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Available na reset"
+   },
+   "optionsMetricBalance": {
+      "message": "Balanse"
+   },
+   "optionsMetricModels": {
+      "message": "Hati ayon sa modelo"
+   },
+   "optionsMetricPlan": {
+      "message": "Plano"
+   },
+   "optionsMetricReset": {
+      "message": "Oras ng reset"
+   },
+   "optionsMetricSession": {
+      "message": "Paggamit sa session"
+   },
+   "optionsMetricSummary": {
+      "message": "Balanse / buod"
+   },
+   "optionsMetricWeekly": {
+      "message": "Lingguhang paggamit"
+   },
+   "optionsNavBadge": {
+      "message": "Icon sa toolbar"
+   },
+   "optionsNavLabel": {
+      "message": "Mga seksyon ng setting"
+   },
+   "optionsNavLayout": {
+      "message": "Layout"
+   },
+   "optionsNavOverlays": {
+      "message": "Mga overlay sa pahina"
+   },
+   "optionsNavProviders": {
+      "message": "Mga provider"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "I-on ang overlay ng $1 sa pahina"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Ipakita ang natitiklop na capsule ng paggamit sa tabi ng kahon ng mensahe."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Mga overlay sa pahina"
+   },
+   "optionsPercentageDescription": {
+      "message": "Ipakita kung gaano karami sa bawat limitasyon ang nagamit o natitira."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Natitira"
+   },
+   "optionsPercentageTitle": {
+      "message": "Pagpapakita ng limitasyon"
+   },
+   "optionsPercentageUsed": {
+      "message": "Nagamit"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 sa $2 detalye"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Mga detalye ng paggamit ng $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Nakatago sa popup"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Ipakita ang $1 sa popup"
+   },
+   "optionsProvidersDescription": {
+      "message": "Itago ang card o piliin ang mga detalyeng ipapakita. Awtomatikong nakatago ang data na hindi available."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 sa $2 ang ipinapakita"
+   },
+   "optionsProvidersTitle": {
+      "message": "Mga provider"
+   },
+   "optionsRefreshAuto": {
+      "message": "Awtomatiko"
+   },
+   "optionsRefreshDescription": {
+      "message": "Pumili ng awtomatiko o manwal na pag-update."
+   },
+   "optionsRefreshInterval": {
+      "message": "Pagitan (minuto, hindi bababa sa 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Kapag pinindot lang ang Refresh"
+   },
+   "optionsRefreshTitle": {
+      "message": "Pag-refresh ng paggamit"
+   },
+   "optionsResetAction": {
+      "message": "I-reset"
+   },
+   "optionsResetConfirm": {
+      "message": "I-click ulit para kumpirmahin"
+   },
+   "optionsResetDescription": {
+      "message": "Ibinabalik ang lahat ng kagustuhan sa pahinang ito. Hindi ito mababawi."
+   },
+   "optionsResetTitle": {
+      "message": "I-reset sa default"
+   },
+   "optionsSaveError": {
+      "message": "Hindi na-save"
+   },
+   "optionsSaved": {
+      "message": "Naka-save lahat ng pagbabago"
+   },
+   "optionsSaving": {
+      "message": "Sine-save…"
+   },
+   "optionsSkip": {
+      "message": "Pumunta sa mga setting"
+   },
+   "optionsTitle": {
+      "message": "Mga setting ng AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% natitira"
+   },
+   "planLabel": {
+      "message": "Plano · $1"
+   },
+   "planUsage": {
+      "message": "Paggamit ng plano"
+   },
+   "popupTitle": {
+      "message": "Paggamit"
+   },
+   "refreshErrorPrefix": {
+      "message": "Hindi na-refresh"
+   },
+   "refreshFailed": {
+      "message": "Nabigo ang pag-refresh"
+   },
+   "refreshUsage": {
+      "message": "I-refresh ang paggamit"
+   },
+   "refreshUsageLimits": {
+      "message": "I-refresh ang mga limitasyon"
+   },
+   "refreshing": {
+      "message": "nagre-refresh..."
+   },
+   "reportCancel": {
+      "message": "Kanselahin"
+   },
+   "reportDescription": {
+      "message": "Ilarawan kung ano ang nagkamali. Diretso sa mga developer ang ulat."
+   },
+   "reportFailed": {
+      "message": "Hindi naipadala ang ulat."
+   },
+   "reportOnGithub": {
+      "message": "Magbukas ng issue sa GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Ano ang nangyari? Aling provider ang apektado?"
+   },
+   "reportPrivacy": {
+      "message": "Ipinapadala ang iyong mensahe kasama ang bersyon ng extension, wika, at mga naka-on na provider card."
+   },
+   "reportProblem": {
+      "message": "Mag-ulat ng problema"
+   },
+   "reportSend": {
+      "message": "Ipadala"
+   },
+   "reportSending": {
+      "message": "Ipinapadala…"
+   },
+   "reportSent": {
+      "message": "Salamat! Naipadala ang iyong ulat."
+   },
+   "reportTitle": {
+      "message": "Mag-ulat ng problema"
+   },
+   "resetsLabel": {
+      "message": "magre-reset sa $1"
+   },
+   "sessionExpired": {
+      "message": "nag-expire ang session"
+   },
+   "sessionLimit": {
+      "message": "Session · 5 oras"
+   },
+   "showLimits": {
+      "message": "Ipakita ang limitasyon"
+   },
+   "sourceCode": {
+      "message": "Source code"
+   },
+   "timeAgo": {
+      "message": "$1 ang nakalipas"
+   },
+   "timeDayShort": {
+      "message": "a"
+   },
+   "timeHourShort": {
+      "message": "o"
+   },
+   "timeJustNow": {
+      "message": "kanina lang"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "ngayon"
+   },
+   "timeUnknown": {
+      "message": "hindi alam"
+   },
+   "tokenPlan": {
+      "message": "Planong token"
+   },
+   "updated": {
+      "message": "na-update $1"
+   },
+   "waitingForSnapshot": {
+      "message": "naghihintay ng data"
+   },
+   "weeklyLimit": {
+      "message": "Lingguhan · 7 araw"
+   },
+   "welcomeCta": {
+      "message": "Magsimula"
+   },
+   "welcomeCtaHint": {
+      "message": "Puwede mong i-unpin mamaya sa Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "I-click ang naka-pin na icon para makita ang paggamit mo"
+   },
+   "welcomeStepPin": {
+      "message": "I-click ang extensions icon {icon} sa toolbar, tapos i-pin ang AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Isang click lang ang mga limit mo — direktang bumubukas ang popup mula sa toolbar."
+   },
+   "welcomeTitle": {
+      "message": "I-pin ang AI Usage Tracker"
+   }
+}

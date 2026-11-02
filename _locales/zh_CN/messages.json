@@ -1,0 +1,422 @@
+{
+  "appDescription": {
+    "message": "在弹窗、徽章和页面浮层中跟踪 Claude 与 ChatGPT (Codex) 的会话和每周限额。注重隐私，无需设置。"
+  },
+  "appName": {
+    "message": "AI Usage Tracker：Claude 与 Codex 限额"
+  },
+  "appShortName": {
+    "message": "AI Usage Tracker"
+  },
+  "availableResetsLabel": {
+    "message": "重置次数（总计）· $1"
+  },
+  "emptyClaude": {
+    "message": "暂无数据。请在登录状态下打开 claude.ai，然后刷新。"
+  },
+  "emptyCodex": {
+    "message": "暂无数据。请在登录状态下打开 chatgpt.com，然后刷新。"
+  },
+  "emptyCursor": {
+    "message": "暂无数据。请在登录状态下打开 cursor.com，然后刷新。"
+  },
+  "emptyGlm": {
+    "message": "暂无数据。请在登录状态下打开 z.ai，然后刷新。"
+  },
+  "emptyKimi": {
+    "message": "暂无数据。请保持已登录的 kimi.com 页面打开并刷新该页面，然后刷新插件。"
+  },
+  "emptyMiMo": {
+    "message": "暂无数据。请在登录状态下打开 platform.xiaomimimo.com，然后刷新。"
+  },
+  "emptyMiniMax": {
+    "message": "暂无数据。请在登录状态下打开 platform.minimax.io，然后刷新。"
+  },
+  "emptyOverlay": {
+    "message": "暂无数据。请打开弹窗并刷新。"
+  },
+  "emptyQwen": {
+    "message": "暂无数据。请在登录状态下打开 qwencloud.com，然后刷新。"
+  },
+  "github": {
+    "message": "GitHub"
+  },
+  "hideLimits": {
+    "message": "隐藏限额"
+  },
+  "loadingSnapshot": {
+    "message": "正在加载数据"
+  },
+  "manualRefreshHint": {
+    "message": "自动刷新已关闭。点击刷新以加载用量。"
+  },
+  "nextResetLabel": {
+    "message": "$1 后重置"
+  },
+  "notConnected": {
+    "message": "未连接"
+  },
+  "optionsBadgeDescription": {
+    "message": "扩展图标会依据该来源，按 10% 的区间变化。"
+  },
+  "optionsBadgeHiddenWarning": {
+    "message": "该服务商已在弹窗中隐藏，但其图标区间仍然生效。"
+  },
+  "optionsBadgeHighest": {
+    "message": "可见服务商中的最高值"
+  },
+  "optionsBadgeHighestDescription": {
+    "message": "使用已显示卡片中当前百分比最高的那个。"
+  },
+  "optionsBadgeProvider": {
+    "message": "服务商"
+  },
+  "optionsBadgeSelected": {
+    "message": "指定服务商"
+  },
+  "optionsBadgeSelectedDescription": {
+    "message": "只用一个服务商，与其他卡片是否显示无关。"
+  },
+  "optionsBadgeSourceLabel": {
+    "message": "图标来源"
+  },
+  "optionsBadgeSteps": {
+    "message": "工具栏图标档位"
+  },
+  "optionsBadgeStepsHint": {
+    "message": "向下取整到 10%"
+  },
+  "optionsBadgeTitle": {
+    "message": "图标区间"
+  },
+  "optionsBadgeWindow": {
+    "message": "统计周期"
+  },
+  "optionsBadgeWindowSession": {
+    "message": "会话"
+  },
+  "optionsBadgeWindowWeekly": {
+    "message": "每周"
+  },
+  "optionsGlmKeyHint": {
+    "message": "可选。当此浏览器未登录 z.ai，或使用 BigModel 账号时填写。"
+  },
+  "optionsGlmKeyLabel": {
+    "message": "GLM API 密钥"
+  },
+  "optionsLanguageAuto": {
+    "message": "浏览器语言"
+  },
+  "optionsLanguageDescription": {
+    "message": "选择弹窗、此页面和页面浮层使用的语言。"
+  },
+  "optionsLanguageHint": {
+    "message": "切换语言后会重新加载此页面。"
+  },
+  "optionsLanguageTitle": {
+    "message": "语言"
+  },
+  "optionsLayoutDescription": {
+    "message": "选择弹窗中可见服务商卡片的排列方式。"
+  },
+  "optionsLayoutGrid": {
+    "message": "双列"
+  },
+  "optionsLayoutGridDescription": {
+    "message": "紧凑视图，每行两张卡片。"
+  },
+  "optionsLayoutSingle": {
+    "message": "单列"
+  },
+  "optionsLayoutSingleDescription": {
+    "message": "每个服务商占满整行。"
+  },
+  "optionsLayoutTitle": {
+    "message": "弹窗布局"
+  },
+  "optionsLoading": {
+    "message": "正在加载设置…"
+  },
+  "optionsMetricAvailableResets": {
+    "message": "可用重置次数"
+  },
+  "optionsMetricBalance": {
+    "message": "余额"
+  },
+  "optionsMetricModels": {
+    "message": "按模型细分"
+  },
+  "optionsMetricPlan": {
+    "message": "套餐"
+  },
+  "optionsMetricReset": {
+    "message": "重置时间"
+  },
+  "optionsMetricSession": {
+    "message": "会话用量"
+  },
+  "optionsMetricSummary": {
+    "message": "余额 / 概览"
+  },
+  "optionsMetricWeekly": {
+    "message": "每周用量"
+  },
+  "optionsNavBadge": {
+    "message": "工具栏图标"
+  },
+  "optionsNavLabel": {
+    "message": "设置分区"
+  },
+  "optionsNavLayout": {
+    "message": "布局"
+  },
+  "optionsNavOverlays": {
+    "message": "页面内浮层"
+  },
+  "optionsNavProviders": {
+    "message": "服务商"
+  },
+  "optionsOverlayToggleLabel": {
+    "message": "启用 $1 的页面内浮层"
+  },
+  "optionsOverlaysDescription": {
+    "message": "在输入框旁显示可折叠的用量胶囊。"
+  },
+  "optionsOverlaysTitle": {
+    "message": "页面内浮层"
+  },
+  "optionsPercentageDescription": {
+    "message": "显示每项限额的已用量或剩余量。"
+  },
+  "optionsPercentageRemaining": {
+    "message": "剩余"
+  },
+  "optionsPercentageTitle": {
+    "message": "限额显示"
+  },
+  "optionsPercentageUsed": {
+    "message": "已用"
+  },
+  "optionsProviderDetails": {
+    "message": "$1/$2 项"
+  },
+  "optionsProviderDetailsLegend": {
+    "message": "$1 的用量信息"
+  },
+  "optionsProviderHidden": {
+    "message": "已在弹窗中隐藏"
+  },
+  "optionsProviderToggleLabel": {
+    "message": "在弹窗中显示 $1"
+  },
+  "optionsProvidersDescription": {
+    "message": "隐藏卡片，或选择它可显示的用量信息。无法获取的数据会自动隐藏。"
+  },
+  "optionsProvidersShown": {
+    "message": "已显示 $1/$2"
+  },
+  "optionsProvidersTitle": {
+    "message": "服务商"
+  },
+  "optionsRefreshAuto": {
+    "message": "自动"
+  },
+  "optionsRefreshDescription": {
+    "message": "选择自动或手动刷新。"
+  },
+  "optionsRefreshInterval": {
+    "message": "间隔（分钟，最少 1）"
+  },
+  "optionsRefreshManual": {
+    "message": "仅点击刷新时"
+  },
+  "optionsRefreshTitle": {
+    "message": "用量刷新"
+  },
+  "optionsResetAction": {
+    "message": "恢复默认"
+  },
+  "optionsResetConfirm": {
+    "message": "再次点击以确认"
+  },
+  "optionsResetDescription": {
+    "message": "恢复本页的所有设置。此操作无法撤销。"
+  },
+  "optionsResetTitle": {
+    "message": "恢复默认设置"
+  },
+  "optionsSaveError": {
+    "message": "无法保存"
+  },
+  "optionsSaved": {
+    "message": "所有更改已保存"
+  },
+  "optionsSaving": {
+    "message": "保存中…"
+  },
+  "optionsSkip": {
+    "message": "跳到设置"
+  },
+  "optionsTitle": {
+    "message": "AI Usage Tracker 设置"
+  },
+  "percentageRemaining": {
+    "message": "剩余 $1%"
+  },
+  "planLabel": {
+    "message": "方案 · $1"
+  },
+  "planUsage": {
+    "message": "套餐用量"
+  },
+  "popupTitle": {
+    "message": "使用情况"
+  },
+  "refreshErrorPrefix": {
+    "message": "无法刷新"
+  },
+  "refreshFailed": {
+    "message": "刷新失败"
+  },
+  "refreshUsage": {
+    "message": "刷新使用情况"
+  },
+  "refreshUsageLimits": {
+    "message": "刷新使用限额"
+  },
+  "refreshing": {
+    "message": "正在刷新..."
+  },
+  "reportCancel": {
+    "message": "取消"
+  },
+  "reportDescription": {
+    "message": "描述出了什么问题。报告将直接发送给开发者。"
+  },
+  "reportFailed": {
+    "message": "无法发送报告。"
+  },
+  "reportOnGithub": {
+    "message": "在 GitHub 上提交 issue"
+  },
+  "reportPlaceholder": {
+    "message": "发生了什么？影响了哪个服务商？"
+  },
+  "reportPrivacy": {
+    "message": "会随消息一起发送扩展版本、语言以及已启用的服务商卡片。"
+  },
+  "reportProblem": {
+    "message": "报告问题"
+  },
+  "reportSend": {
+    "message": "发送"
+  },
+  "reportSending": {
+    "message": "发送中…"
+  },
+  "reportSent": {
+    "message": "谢谢！报告已发送。"
+  },
+  "reportTitle": {
+    "message": "报告问题"
+  },
+  "resetsLabel": {
+    "message": "$1 后重置"
+  },
+  "sessionExpired": {
+    "message": "会话已过期"
+  },
+  "sessionLimit": {
+    "message": "会话 · 5小时"
+  },
+  "showLimits": {
+    "message": "显示限额"
+  },
+  "sourceCode": {
+    "message": "源代码"
+  },
+  "timeAgo": {
+    "message": "$1前"
+  },
+  "timeDayShort": {
+    "message": "天"
+  },
+  "timeHourShort": {
+    "message": "小时"
+  },
+  "timeJustNow": {
+    "message": "刚刚"
+  },
+  "timeMinuteShort": {
+    "message": "分钟"
+  },
+  "timeNow": {
+    "message": "现在"
+  },
+  "timeUnknown": {
+    "message": "未知"
+  },
+  "tokenPlan": {
+    "message": "Token 套餐"
+  },
+  "updated": {
+    "message": "更新于 $1"
+  },
+  "waitingForSnapshot": {
+    "message": "等待数据"
+  },
+  "weeklyLimit": {
+    "message": "每周 · 7天"
+  },
+  "welcomeCta": {
+    "message": "开始使用"
+  },
+  "welcomeCtaHint": {
+    "message": "之后可以在 Chrome 中取消固定。"
+  },
+  "welcomeStepOpen": {
+    "message": "点击固定后的图标即可查看用量"
+  },
+  "welcomeStepPin": {
+    "message": "点击工具栏中的扩展程序图标 {icon}，然后固定 AI Usage Tracker"
+  },
+  "welcomeSubtitle": {
+    "message": "让用量随时一键可见 —— 弹窗直接从工具栏打开。"
+  },
+  "welcomeTitle": {
+    "message": "固定 AI Usage Tracker"
+  },
+  "optionsMetricCredits": {
+    "message": "积分余额"
+  },
+  "optionsMetricModelStatus": {
+    "message": "模型可用状态"
+  },
+  "optionsMetricQuotaStatus": {
+    "message": "额度状态"
+  },
+  "optionsMetricCodeReview": {
+    "message": "代码审查额度"
+  },
+  "optionsMetricSubscriptionTotal": {
+    "message": "订阅总用量"
+  },
+  "selectedMetricsUnavailable": {
+    "message": "所选项目暂无数据。"
+  },
+  "noMetricsSelected": {
+    "message": "未选择显示项目。"
+  },
+  "chatgptProviderTitle": {
+    "message": "ChatGPT 聊天"
+  },
+  "emptyChatGPT": {
+    "message": "请在已登录的 chatgpt.com 打开一个新聊天，以读取聊天限额。"
+  },
+  "optionsMetricChatModels": {
+    "message": "模型限额状态"
+  },
+  "optionsMetricChatFeatures": {
+    "message": "功能剩余次数"
+  }
+}

@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Стежте за лімітами сесії та тижня в Claude і ChatGPT (Codex) — у попапі та оверлеї. Без налаштування."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: ліміти Claude і Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Доступні скидання · $1"
+   },
+   "emptyClaude": {
+      "message": "Даних ще немає. Відкрийте claude.ai з активним входом і оновіть."
+   },
+   "emptyCodex": {
+      "message": "Даних ще немає. Відкрийте chatgpt.com з активним входом і оновіть."
+   },
+   "emptyCursor": {
+      "message": "Даних ще немає. Відкрийте cursor.com з активним входом і оновіть."
+   },
+   "emptyGlm": {
+      "message": "Даних ще немає. Відкрийте z.ai з активним входом і оновіть."
+   },
+   "emptyKimi": {
+      "message": "Даних ще немає. Відкрийте kimi.com/code з активним входом і оновіть."
+   },
+   "emptyMiMo": {
+      "message": "Даних ще немає. Відкрийте platform.xiaomimimo.com з активним входом і оновіть."
+   },
+   "emptyMiniMax": {
+      "message": "Даних ще немає. Відкрийте platform.minimax.io з активним входом і оновіть."
+   },
+   "emptyOverlay": {
+      "message": "Даних ще немає. Відкрийте попап і оновіть."
+   },
+   "emptyQwen": {
+      "message": "Даних ще немає. Відкрийте qwencloud.com з активним входом і оновіть."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Сховати ліміти"
+   },
+   "loadingSnapshot": {
+      "message": "завантаження"
+   },
+   "manualRefreshHint": {
+      "message": "Автоматичне оновлення вимкнено. Натисніть «Оновити», щоб завантажити дані."
+   },
+   "nextResetLabel": {
+      "message": "скидання $1"
+   },
+   "notConnected": {
+      "message": "немає зʼєднання"
+   },
+   "optionsBadgeDescription": {
+      "message": "Іконка розширення змінюється кроками по 10% на основі цього джерела."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Цей провайдер прихований у попапі, але його діапазон значка лишається активним."
+   },
+   "optionsBadgeHighest": {
+      "message": "Максимум серед видимих провайдерів"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Використовувати найбільший поточний відсоток серед показаних карток."
+   },
+   "optionsBadgeProvider": {
+      "message": "Провайдер"
+   },
+   "optionsBadgeSelected": {
+      "message": "Вибраний провайдер"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Використовувати одного провайдера незалежно від видимості інших карток."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Джерело значка"
+   },
+   "optionsBadgeSteps": {
+      "message": "Кроки іконки на панелі"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "округлення вниз до 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Діапазон значка"
+   },
+   "optionsBadgeWindow": {
+      "message": "Вікно використання"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Сесія"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Тиждень"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Необовʼязково. Використайте, якщо в цьому браузері немає входу в z.ai, або для акаунтів BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Ключ API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Мова браузера"
+   },
+   "optionsLanguageDescription": {
+      "message": "Виберіть мову попапа, цієї сторінки та оверлеїв на сайтах."
+   },
+   "optionsLanguageHint": {
+      "message": "Після зміни мови сторінка перезавантажиться."
+   },
+   "optionsLanguageTitle": {
+      "message": "Мова"
+   },
+   "optionsLayoutDescription": {
+      "message": "Виберіть, як розташувати видимі картки провайдерів у попапі."
+   },
+   "optionsLayoutGrid": {
+      "message": "Дві колонки"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Компактний огляд: дві картки в рядку."
+   },
+   "optionsLayoutSingle": {
+      "message": "Одна колонка"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Картка на всю ширину для кожного провайдера."
+   },
+   "optionsLayoutTitle": {
+      "message": "Розкладка попапа"
+   },
+   "optionsLoading": {
+      "message": "Завантаження налаштувань…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Доступні скидання"
+   },
+   "optionsMetricBalance": {
+      "message": "Баланс"
+   },
+   "optionsMetricModels": {
+      "message": "Розподіл за моделями"
+   },
+   "optionsMetricPlan": {
+      "message": "Тариф"
+   },
+   "optionsMetricReset": {
+      "message": "Час скидання"
+   },
+   "optionsMetricSession": {
+      "message": "Використання за сесію"
+   },
+   "optionsMetricSummary": {
+      "message": "Баланс / підсумок"
+   },
+   "optionsMetricWeekly": {
+      "message": "Використання за тиждень"
+   },
+   "optionsNavBadge": {
+      "message": "Значок на панелі"
+   },
+   "optionsNavLabel": {
+      "message": "Розділи налаштувань"
+   },
+   "optionsNavLayout": {
+      "message": "Розкладка"
+   },
+   "optionsNavOverlays": {
+      "message": "Оверлеї на сторінках"
+   },
+   "optionsNavProviders": {
+      "message": "Провайдери"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Увімкнути оверлей $1 на сторінці"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Показувати згортану капсулу з використанням поруч із полем вводу."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Оверлеї на сторінках"
+   },
+   "optionsPercentageDescription": {
+      "message": "Показувати, скільки кожного ліміту використано або залишилося."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Залишилося"
+   },
+   "optionsPercentageTitle": {
+      "message": "Відображення лімітів"
+   },
+   "optionsPercentageUsed": {
+      "message": "Використано"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 з $2 деталей"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Дані про використання $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Сховано в попапі"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Показувати $1 у попапі"
+   },
+   "optionsProvidersDescription": {
+      "message": "Сховайте картку або виберіть, які дані вона показує. Недоступні дані ховаються автоматично."
+   },
+   "optionsProvidersShown": {
+      "message": "показано $1 з $2"
+   },
+   "optionsProvidersTitle": {
+      "message": "Провайдери"
+   },
+   "optionsRefreshAuto": {
+      "message": "Автоматично"
+   },
+   "optionsRefreshDescription": {
+      "message": "Виберіть автоматичне або ручне оновлення."
+   },
+   "optionsRefreshInterval": {
+      "message": "Інтервал (хвилини, мінімум 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Лише кнопкою «Оновити»"
+   },
+   "optionsRefreshTitle": {
+      "message": "Оновлення даних"
+   },
+   "optionsResetAction": {
+      "message": "Скинути налаштування"
+   },
+   "optionsResetConfirm": {
+      "message": "Натисніть ще раз для підтвердження"
+   },
+   "optionsResetDescription": {
+      "message": "Відновлює всі налаштування на цій сторінці. Дію не можна скасувати."
+   },
+   "optionsResetTitle": {
+      "message": "Скинути до типових"
+   },
+   "optionsSaveError": {
+      "message": "Не вдалося зберегти"
+   },
+   "optionsSaved": {
+      "message": "Усі зміни збережено"
+   },
+   "optionsSaving": {
+      "message": "Збереження…"
+   },
+   "optionsSkip": {
+      "message": "Перейти до налаштувань"
+   },
+   "optionsTitle": {
+      "message": "Налаштування AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "Залишилося $1%"
+   },
+   "planLabel": {
+      "message": "Тариф · $1"
+   },
+   "planUsage": {
+      "message": "Використання тарифу"
+   },
+   "popupTitle": {
+      "message": "Використання"
+   },
+   "refreshErrorPrefix": {
+      "message": "Не вдалося оновити"
+   },
+   "refreshFailed": {
+      "message": "Помилка оновлення"
+   },
+   "refreshUsage": {
+      "message": "Оновити дані"
+   },
+   "refreshUsageLimits": {
+      "message": "Оновити ліміти"
+   },
+   "refreshing": {
+      "message": "оновлення..."
+   },
+   "reportCancel": {
+      "message": "Скасувати"
+   },
+   "reportDescription": {
+      "message": "Опишіть, що пішло не так. Повідомлення надійде безпосередньо розробникам."
+   },
+   "reportFailed": {
+      "message": "Не вдалося надіслати повідомлення."
+   },
+   "reportOnGithub": {
+      "message": "Відкрити issue на GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Що сталося? Якого провайдера це стосується?"
+   },
+   "reportPrivacy": {
+      "message": "Надсилає ваше повідомлення разом із версією розширення, мовою та переліком увімкнених карток провайдерів."
+   },
+   "reportProblem": {
+      "message": "Повідомити про проблему"
+   },
+   "reportSend": {
+      "message": "Надіслати"
+   },
+   "reportSending": {
+      "message": "Надсилаємо…"
+   },
+   "reportSent": {
+      "message": "Дякуємо! Повідомлення надіслано."
+   },
+   "reportTitle": {
+      "message": "Повідомити про проблему"
+   },
+   "resetsLabel": {
+      "message": "скидання $1"
+   },
+   "sessionExpired": {
+      "message": "сеанс завершився"
+   },
+   "sessionLimit": {
+      "message": "Сесія · 5 год"
+   },
+   "showLimits": {
+      "message": "Показати ліміти"
+   },
+   "sourceCode": {
+      "message": "Вихідний код"
+   },
+   "timeAgo": {
+      "message": "$1 тому"
+   },
+   "timeDayShort": {
+      "message": "дн"
+   },
+   "timeHourShort": {
+      "message": "год"
+   },
+   "timeJustNow": {
+      "message": "щойно"
+   },
+   "timeMinuteShort": {
+      "message": "хв"
+   },
+   "timeNow": {
+      "message": "зараз"
+   },
+   "timeUnknown": {
+      "message": "невідомо"
+   },
+   "tokenPlan": {
+      "message": "Токен-план"
+   },
+   "updated": {
+      "message": "оновлено $1"
+   },
+   "waitingForSnapshot": {
+      "message": "очікування даних"
+   },
+   "weeklyLimit": {
+      "message": "Тиждень · 7 дн"
+   },
+   "welcomeCta": {
+      "message": "Почати"
+   },
+   "welcomeCtaHint": {
+      "message": "Відкріпити можна пізніше в Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Натисніть закріплений значок, щоб побачити витрати"
+   },
+   "welcomeStepPin": {
+      "message": "Натисніть значок розширень {icon} на панелі й закріпіть AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Тримайте ліміти за один клік — вікно відкривається просто з панелі браузера."
+   },
+   "welcomeTitle": {
+      "message": "Закріпіть AI Usage Tracker"
+   }
+}

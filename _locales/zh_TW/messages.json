@@ -1,0 +1,422 @@
+{
+  "appDescription": {
+    "message": "在彈出視窗與頁面浮層中追蹤 Claude 和 ChatGPT（Codex）的工作階段與每週用量上限，免設定。"
+  },
+  "appName": {
+    "message": "AI Usage Tracker：Claude 與 Codex 用量上限"
+  },
+  "appShortName": {
+    "message": "AI Usage Tracker"
+  },
+  "availableResetsLabel": {
+    "message": "重設次數（總計）· $1"
+  },
+  "emptyClaude": {
+    "message": "尚無資料。登入後開啟 claude.ai，再重新整理。"
+  },
+  "emptyCodex": {
+    "message": "尚無資料。登入後開啟 chatgpt.com，再重新整理。"
+  },
+  "emptyCursor": {
+    "message": "尚無資料。登入後開啟 cursor.com，再重新整理。"
+  },
+  "emptyGlm": {
+    "message": "尚無資料。登入後開啟 z.ai，再重新整理。"
+  },
+  "emptyKimi": {
+    "message": "尚無資料。請保持已登入的 kimi.com 頁面開啟並重新整理，再重新整理擴充功能。"
+  },
+  "emptyMiMo": {
+    "message": "尚無資料。登入後開啟 platform.xiaomimimo.com，再重新整理。"
+  },
+  "emptyMiniMax": {
+    "message": "尚無資料。登入後開啟 platform.minimax.io，再重新整理。"
+  },
+  "emptyOverlay": {
+    "message": "尚無資料。開啟彈出視窗並重新整理。"
+  },
+  "emptyQwen": {
+    "message": "尚無資料。登入後開啟 qwencloud.com，再重新整理。"
+  },
+  "github": {
+    "message": "GitHub"
+  },
+  "hideLimits": {
+    "message": "隱藏上限"
+  },
+  "loadingSnapshot": {
+    "message": "載入中"
+  },
+  "manualRefreshHint": {
+    "message": "自動更新已關閉。點擊更新以載入用量。"
+  },
+  "nextResetLabel": {
+    "message": "$1後重設"
+  },
+  "notConnected": {
+    "message": "未連線"
+  },
+  "optionsBadgeDescription": {
+    "message": "擴充功能圖示依此來源以 10% 為級距變化。"
+  },
+  "optionsBadgeHiddenWarning": {
+    "message": "此供應商已在彈出視窗隱藏，但圖示區間仍會生效。"
+  },
+  "optionsBadgeHighest": {
+    "message": "顯示中供應商的最高值"
+  },
+  "optionsBadgeHighestDescription": {
+    "message": "採用顯示卡片中目前最高的百分比。"
+  },
+  "optionsBadgeProvider": {
+    "message": "供應商"
+  },
+  "optionsBadgeSelected": {
+    "message": "指定供應商"
+  },
+  "optionsBadgeSelectedDescription": {
+    "message": "不論其他卡片是否顯示，都採用同一個供應商。"
+  },
+  "optionsBadgeSourceLabel": {
+    "message": "圖示來源"
+  },
+  "optionsBadgeSteps": {
+    "message": "工具列圖示級距"
+  },
+  "optionsBadgeStepsHint": {
+    "message": "向下取整至 10%"
+  },
+  "optionsBadgeTitle": {
+    "message": "圖示區間"
+  },
+  "optionsBadgeWindow": {
+    "message": "用量區間"
+  },
+  "optionsBadgeWindowSession": {
+    "message": "工作階段"
+  },
+  "optionsBadgeWindowWeekly": {
+    "message": "每週"
+  },
+  "optionsGlmKeyHint": {
+    "message": "選填。當此瀏覽器未登入 z.ai，或使用 BigModel 帳號時填寫。"
+  },
+  "optionsGlmKeyLabel": {
+    "message": "GLM API 金鑰"
+  },
+  "optionsLanguageAuto": {
+    "message": "瀏覽器語言"
+  },
+  "optionsLanguageDescription": {
+    "message": "選擇彈出視窗、此頁面與頁面浮層使用的語言。"
+  },
+  "optionsLanguageHint": {
+    "message": "切換語言後會重新載入此頁面。"
+  },
+  "optionsLanguageTitle": {
+    "message": "語言"
+  },
+  "optionsLayoutDescription": {
+    "message": "選擇顯示中的供應商卡片排列方式。"
+  },
+  "optionsLayoutGrid": {
+    "message": "雙欄"
+  },
+  "optionsLayoutGridDescription": {
+    "message": "每列兩張卡片的精簡總覽。"
+  },
+  "optionsLayoutSingle": {
+    "message": "單欄"
+  },
+  "optionsLayoutSingleDescription": {
+    "message": "每個供應商一張全寬卡片。"
+  },
+  "optionsLayoutTitle": {
+    "message": "彈出視窗版面"
+  },
+  "optionsLoading": {
+    "message": "載入設定中…"
+  },
+  "optionsMetricAvailableResets": {
+    "message": "可用重設次數"
+  },
+  "optionsMetricBalance": {
+    "message": "餘額"
+  },
+  "optionsMetricModels": {
+    "message": "依模型細分"
+  },
+  "optionsMetricPlan": {
+    "message": "方案"
+  },
+  "optionsMetricReset": {
+    "message": "重設時間"
+  },
+  "optionsMetricSession": {
+    "message": "工作階段用量"
+  },
+  "optionsMetricSummary": {
+    "message": "餘額／摘要"
+  },
+  "optionsMetricWeekly": {
+    "message": "每週用量"
+  },
+  "optionsNavBadge": {
+    "message": "工具列圖示"
+  },
+  "optionsNavLabel": {
+    "message": "設定區段"
+  },
+  "optionsNavLayout": {
+    "message": "版面"
+  },
+  "optionsNavOverlays": {
+    "message": "頁面浮層"
+  },
+  "optionsNavProviders": {
+    "message": "服務供應商"
+  },
+  "optionsOverlayToggleLabel": {
+    "message": "啟用 $1 頁面浮層"
+  },
+  "optionsOverlaysDescription": {
+    "message": "在訊息輸入框旁顯示可收合的用量膠囊。"
+  },
+  "optionsOverlaysTitle": {
+    "message": "頁面浮層"
+  },
+  "optionsPercentageDescription": {
+    "message": "顯示每項額度的已用量或剩餘量。"
+  },
+  "optionsPercentageRemaining": {
+    "message": "剩餘"
+  },
+  "optionsPercentageTitle": {
+    "message": "額度顯示"
+  },
+  "optionsPercentageUsed": {
+    "message": "已用"
+  },
+  "optionsProviderDetails": {
+    "message": "$2 項中的 $1 項"
+  },
+  "optionsProviderDetailsLegend": {
+    "message": "$1 的用量細節"
+  },
+  "optionsProviderHidden": {
+    "message": "已在彈出視窗隱藏"
+  },
+  "optionsProviderToggleLabel": {
+    "message": "在彈出視窗顯示 $1"
+  },
+  "optionsProvidersDescription": {
+    "message": "隱藏卡片，或選擇卡片顯示哪些用量細節。無法取得的資料會自動隱藏。"
+  },
+  "optionsProvidersShown": {
+    "message": "顯示 $1／$2"
+  },
+  "optionsProvidersTitle": {
+    "message": "服務供應商"
+  },
+  "optionsRefreshAuto": {
+    "message": "自動"
+  },
+  "optionsRefreshDescription": {
+    "message": "選擇自動或手動更新。"
+  },
+  "optionsRefreshInterval": {
+    "message": "間隔（分鐘，最少 1）"
+  },
+  "optionsRefreshManual": {
+    "message": "僅點擊更新時"
+  },
+  "optionsRefreshTitle": {
+    "message": "用量更新"
+  },
+  "optionsResetAction": {
+    "message": "回復預設值"
+  },
+  "optionsResetConfirm": {
+    "message": "再按一次以確認"
+  },
+  "optionsResetDescription": {
+    "message": "回復本頁所有偏好設定，且無法復原。"
+  },
+  "optionsResetTitle": {
+    "message": "回復預設值"
+  },
+  "optionsSaveError": {
+    "message": "無法儲存"
+  },
+  "optionsSaved": {
+    "message": "所有變更已儲存"
+  },
+  "optionsSaving": {
+    "message": "儲存中…"
+  },
+  "optionsSkip": {
+    "message": "跳至設定"
+  },
+  "optionsTitle": {
+    "message": "AI Usage Tracker 設定"
+  },
+  "percentageRemaining": {
+    "message": "剩餘 $1%"
+  },
+  "planLabel": {
+    "message": "方案 · $1"
+  },
+  "planUsage": {
+    "message": "方案用量"
+  },
+  "popupTitle": {
+    "message": "使用量"
+  },
+  "refreshErrorPrefix": {
+    "message": "無法重新整理"
+  },
+  "refreshFailed": {
+    "message": "重新整理失敗"
+  },
+  "refreshUsage": {
+    "message": "重新整理使用量"
+  },
+  "refreshUsageLimits": {
+    "message": "重新整理上限"
+  },
+  "refreshing": {
+    "message": "重新整理中..."
+  },
+  "reportCancel": {
+    "message": "取消"
+  },
+  "reportDescription": {
+    "message": "描述出了什麼問題。回報會直接送給開發者。"
+  },
+  "reportFailed": {
+    "message": "無法送出回報。"
+  },
+  "reportOnGithub": {
+    "message": "在 GitHub 上開 issue"
+  },
+  "reportPlaceholder": {
+    "message": "發生了什麼事？影響了哪個服務商？"
+  },
+  "reportPrivacy": {
+    "message": "會隨訊息一起傳送擴充功能版本、語言以及已啟用的服務商卡片。"
+  },
+  "reportProblem": {
+    "message": "回報問題"
+  },
+  "reportSend": {
+    "message": "傳送"
+  },
+  "reportSending": {
+    "message": "傳送中…"
+  },
+  "reportSent": {
+    "message": "謝謝！回報已送出。"
+  },
+  "reportTitle": {
+    "message": "回報問題"
+  },
+  "resetsLabel": {
+    "message": "$1後重設"
+  },
+  "sessionExpired": {
+    "message": "工作階段已過期"
+  },
+  "sessionLimit": {
+    "message": "工作階段 · 5 小時"
+  },
+  "showLimits": {
+    "message": "顯示上限"
+  },
+  "sourceCode": {
+    "message": "原始碼"
+  },
+  "timeAgo": {
+    "message": "$1前"
+  },
+  "timeDayShort": {
+    "message": "天"
+  },
+  "timeHourShort": {
+    "message": "小時"
+  },
+  "timeJustNow": {
+    "message": "剛剛"
+  },
+  "timeMinuteShort": {
+    "message": "分"
+  },
+  "timeNow": {
+    "message": "現在"
+  },
+  "timeUnknown": {
+    "message": "未知"
+  },
+  "tokenPlan": {
+    "message": "權杖方案"
+  },
+  "updated": {
+    "message": "$1更新"
+  },
+  "waitingForSnapshot": {
+    "message": "等待資料"
+  },
+  "weeklyLimit": {
+    "message": "每週 · 7 天"
+  },
+  "welcomeCta": {
+    "message": "開始使用"
+  },
+  "welcomeCtaHint": {
+    "message": "之後可以在 Chrome 取消釘選。"
+  },
+  "welcomeStepOpen": {
+    "message": "點擊釘選後的圖示即可查看用量"
+  },
+  "welcomeStepPin": {
+    "message": "點擊工具列上的擴充功能圖示 {icon}，然後釘選 AI Usage Tracker"
+  },
+  "welcomeSubtitle": {
+    "message": "讓用量隨時一鍵可見 —— 彈出視窗直接從工具列開啟。"
+  },
+  "welcomeTitle": {
+    "message": "釘選 AI Usage Tracker"
+  },
+  "optionsMetricCredits": {
+    "message": "點數餘額"
+  },
+  "optionsMetricModelStatus": {
+    "message": "模型可用狀態"
+  },
+  "optionsMetricQuotaStatus": {
+    "message": "額度狀態"
+  },
+  "optionsMetricCodeReview": {
+    "message": "程式碼審查額度"
+  },
+  "optionsMetricSubscriptionTotal": {
+    "message": "訂閱總用量"
+  },
+  "selectedMetricsUnavailable": {
+    "message": "所選項目暫無資料。"
+  },
+  "noMetricsSelected": {
+    "message": "未選擇顯示項目。"
+  },
+  "chatgptProviderTitle": {
+    "message": "ChatGPT 聊天"
+  },
+  "emptyChatGPT": {
+    "message": "請在已登入的 chatgpt.com 開啟新聊天，以讀取聊天限額。"
+  },
+  "optionsMetricChatModels": {
+    "message": "模型限額狀態"
+  },
+  "optionsMetricChatFeatures": {
+    "message": "功能剩餘次數"
+  }
+}

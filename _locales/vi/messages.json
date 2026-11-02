@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Theo dõi giới hạn phiên và hằng tuần của Claude và ChatGPT (Codex) trong cửa sổ bật lên và lớp phủ trên trang."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: giới hạn Claude và Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Lần đặt lại khả dụng · $1"
+   },
+   "emptyClaude": {
+      "message": "Chưa có dữ liệu. Mở claude.ai khi đã đăng nhập rồi làm mới."
+   },
+   "emptyCodex": {
+      "message": "Chưa có dữ liệu. Mở chatgpt.com khi đã đăng nhập rồi làm mới."
+   },
+   "emptyCursor": {
+      "message": "Chưa có dữ liệu. Mở cursor.com khi đã đăng nhập rồi làm mới."
+   },
+   "emptyGlm": {
+      "message": "Chưa có dữ liệu. Mở z.ai khi đã đăng nhập rồi làm mới."
+   },
+   "emptyKimi": {
+      "message": "Chưa có dữ liệu. Mở kimi.com/code khi đã đăng nhập rồi làm mới."
+   },
+   "emptyMiMo": {
+      "message": "Chưa có dữ liệu. Mở platform.xiaomimimo.com khi đã đăng nhập rồi làm mới."
+   },
+   "emptyMiniMax": {
+      "message": "Chưa có dữ liệu. Mở platform.minimax.io khi đã đăng nhập rồi làm mới."
+   },
+   "emptyOverlay": {
+      "message": "Chưa có dữ liệu. Mở cửa sổ bật lên rồi làm mới."
+   },
+   "emptyQwen": {
+      "message": "Chưa có dữ liệu. Mở qwencloud.com khi đã đăng nhập rồi làm mới."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Ẩn giới hạn"
+   },
+   "loadingSnapshot": {
+      "message": "đang tải"
+   },
+   "manualRefreshHint": {
+      "message": "Cập nhật tự động đang tắt. Nhấn Làm mới để tải mức sử dụng."
+   },
+   "nextResetLabel": {
+      "message": "đặt lại sau $1"
+   },
+   "notConnected": {
+      "message": "chưa kết nối"
+   },
+   "optionsBadgeDescription": {
+      "message": "Biểu tượng tiện ích đổi theo từng mức 10% dựa trên nguồn này."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Nhà cung cấp này đang ẩn trong cửa sổ bật lên, nhưng dải biểu tượng vẫn hoạt động."
+   },
+   "optionsBadgeHighest": {
+      "message": "Cao nhất trong các nhà cung cấp đang hiện"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Dùng phần trăm hiện tại lớn nhất trong các thẻ đang hiển thị."
+   },
+   "optionsBadgeProvider": {
+      "message": "Nhà cung cấp"
+   },
+   "optionsBadgeSelected": {
+      "message": "Nhà cung cấp đã chọn"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Dùng một nhà cung cấp bất kể các thẻ khác có hiện hay không."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Nguồn biểu tượng"
+   },
+   "optionsBadgeSteps": {
+      "message": "Các mức biểu tượng"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "làm tròn xuống 10% gần nhất"
+   },
+   "optionsBadgeTitle": {
+      "message": "Dải biểu tượng"
+   },
+   "optionsBadgeWindow": {
+      "message": "Khung mức dùng"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Phiên"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Tuần"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Tùy chọn. Dùng khi trình duyệt này chưa đăng nhập z.ai, hoặc cho tài khoản BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Khóa API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Ngôn ngữ trình duyệt"
+   },
+   "optionsLanguageDescription": {
+      "message": "Chọn ngôn ngữ cho cửa sổ, trang này và lớp phủ trên trang."
+   },
+   "optionsLanguageHint": {
+      "message": "Đổi ngôn ngữ sẽ tải lại trang này."
+   },
+   "optionsLanguageTitle": {
+      "message": "Ngôn ngữ"
+   },
+   "optionsLayoutDescription": {
+      "message": "Chọn cách sắp xếp các thẻ nhà cung cấp đang hiện."
+   },
+   "optionsLayoutGrid": {
+      "message": "Hai cột"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Tổng quan gọn với hai thẻ mỗi hàng."
+   },
+   "optionsLayoutSingle": {
+      "message": "Một cột"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Thẻ rộng hết cỡ cho mỗi nhà cung cấp."
+   },
+   "optionsLayoutTitle": {
+      "message": "Bố cục cửa sổ bật lên"
+   },
+   "optionsLoading": {
+      "message": "Đang tải cài đặt…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Lần đặt lại khả dụng"
+   },
+   "optionsMetricBalance": {
+      "message": "Số dư"
+   },
+   "optionsMetricModels": {
+      "message": "Phân tách theo mô hình"
+   },
+   "optionsMetricPlan": {
+      "message": "Gói"
+   },
+   "optionsMetricReset": {
+      "message": "Thời điểm đặt lại"
+   },
+   "optionsMetricSession": {
+      "message": "Mức dùng theo phiên"
+   },
+   "optionsMetricSummary": {
+      "message": "Số dư / tóm tắt"
+   },
+   "optionsMetricWeekly": {
+      "message": "Mức dùng theo tuần"
+   },
+   "optionsNavBadge": {
+      "message": "Biểu tượng thanh công cụ"
+   },
+   "optionsNavLabel": {
+      "message": "Mục cài đặt"
+   },
+   "optionsNavLayout": {
+      "message": "Bố cục"
+   },
+   "optionsNavOverlays": {
+      "message": "Lớp phủ trên trang"
+   },
+   "optionsNavProviders": {
+      "message": "Nhà cung cấp"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Bật lớp phủ $1 trên trang"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Hiện viên nang mức dùng có thể thu gọn cạnh ô soạn tin."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Lớp phủ trên trang"
+   },
+   "optionsPercentageDescription": {
+      "message": "Hiển thị mức đã dùng hoặc còn lại của mỗi giới hạn."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Còn lại"
+   },
+   "optionsPercentageTitle": {
+      "message": "Hiển thị giới hạn"
+   },
+   "optionsPercentageUsed": {
+      "message": "Đã dùng"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 trong $2 mục"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Chi tiết mức dùng của $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Đang ẩn trong cửa sổ bật lên"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Hiện $1 trong cửa sổ bật lên"
+   },
+   "optionsProvidersDescription": {
+      "message": "Ẩn một thẻ hoặc chọn thông tin nó hiển thị. Dữ liệu không có sẽ tự động ẩn."
+   },
+   "optionsProvidersShown": {
+      "message": "hiện $1 trong $2"
+   },
+   "optionsProvidersTitle": {
+      "message": "Nhà cung cấp"
+   },
+   "optionsRefreshAuto": {
+      "message": "Tự động"
+   },
+   "optionsRefreshDescription": {
+      "message": "Chọn cập nhật tự động hoặc thủ công."
+   },
+   "optionsRefreshInterval": {
+      "message": "Khoảng thời gian (phút, tối thiểu 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Chỉ khi nhấn Làm mới"
+   },
+   "optionsRefreshTitle": {
+      "message": "Làm mới mức sử dụng"
+   },
+   "optionsResetAction": {
+      "message": "Đặt lại mặc định"
+   },
+   "optionsResetConfirm": {
+      "message": "Nhấp lần nữa để xác nhận"
+   },
+   "optionsResetDescription": {
+      "message": "Khôi phục mọi tùy chọn trên trang này. Không thể hoàn tác."
+   },
+   "optionsResetTitle": {
+      "message": "Đặt lại mặc định"
+   },
+   "optionsSaveError": {
+      "message": "Không lưu được"
+   },
+   "optionsSaved": {
+      "message": "Đã lưu mọi thay đổi"
+   },
+   "optionsSaving": {
+      "message": "Đang lưu…"
+   },
+   "optionsSkip": {
+      "message": "Tới phần cài đặt"
+   },
+   "optionsTitle": {
+      "message": "Cài đặt AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "Còn $1%"
+   },
+   "planLabel": {
+      "message": "Gói · $1"
+   },
+   "planUsage": {
+      "message": "Mức dùng của gói"
+   },
+   "popupTitle": {
+      "message": "Mức dùng"
+   },
+   "refreshErrorPrefix": {
+      "message": "Không làm mới được"
+   },
+   "refreshFailed": {
+      "message": "Làm mới thất bại"
+   },
+   "refreshUsage": {
+      "message": "Làm mới mức dùng"
+   },
+   "refreshUsageLimits": {
+      "message": "Làm mới giới hạn"
+   },
+   "refreshing": {
+      "message": "đang làm mới..."
+   },
+   "reportCancel": {
+      "message": "Hủy"
+   },
+   "reportDescription": {
+      "message": "Mô tả điều gì đã sai. Báo cáo sẽ gửi thẳng đến nhà phát triển."
+   },
+   "reportFailed": {
+      "message": "Không thể gửi báo cáo."
+   },
+   "reportOnGithub": {
+      "message": "Mở issue trên GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Chuyện gì đã xảy ra? Nhà cung cấp nào bị ảnh hưởng?"
+   },
+   "reportPrivacy": {
+      "message": "Gửi tin nhắn của bạn kèm phiên bản tiện ích, ngôn ngữ và các thẻ nhà cung cấp đang bật."
+   },
+   "reportProblem": {
+      "message": "Báo cáo sự cố"
+   },
+   "reportSend": {
+      "message": "Gửi"
+   },
+   "reportSending": {
+      "message": "Đang gửi…"
+   },
+   "reportSent": {
+      "message": "Cảm ơn! Báo cáo của bạn đã được gửi."
+   },
+   "reportTitle": {
+      "message": "Báo cáo sự cố"
+   },
+   "resetsLabel": {
+      "message": "đặt lại sau $1"
+   },
+   "sessionExpired": {
+      "message": "phiên đã hết hạn"
+   },
+   "sessionLimit": {
+      "message": "Phiên · 5 giờ"
+   },
+   "showLimits": {
+      "message": "Hiện giới hạn"
+   },
+   "sourceCode": {
+      "message": "Mã nguồn"
+   },
+   "timeAgo": {
+      "message": "$1 trước"
+   },
+   "timeDayShort": {
+      "message": "n"
+   },
+   "timeHourShort": {
+      "message": "g"
+   },
+   "timeJustNow": {
+      "message": "vừa xong"
+   },
+   "timeMinuteShort": {
+      "message": "p"
+   },
+   "timeNow": {
+      "message": "bây giờ"
+   },
+   "timeUnknown": {
+      "message": "không rõ"
+   },
+   "tokenPlan": {
+      "message": "Gói token"
+   },
+   "updated": {
+      "message": "cập nhật $1"
+   },
+   "waitingForSnapshot": {
+      "message": "đang chờ dữ liệu"
+   },
+   "weeklyLimit": {
+      "message": "Tuần · 7 ngày"
+   },
+   "welcomeCta": {
+      "message": "Bắt đầu"
+   },
+   "welcomeCtaHint": {
+      "message": "Bạn có thể bỏ ghim sau trong Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Nhấp vào biểu tượng đã ghim để xem mức sử dụng"
+   },
+   "welcomeStepPin": {
+      "message": "Nhấp vào biểu tượng tiện ích {icon} trên thanh công cụ rồi ghim AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Giữ giới hạn của bạn cách một cú nhấp — cửa sổ mở thẳng từ thanh công cụ."
+   },
+   "welcomeTitle": {
+      "message": "Ghim AI Usage Tracker"
+   }
+}

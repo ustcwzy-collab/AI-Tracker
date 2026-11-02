@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Jälgi Claude'i ja ChatGPT (Codex) sessiooni- ja nädalalimiite hüpikaknas ning lehe ülekattes. Ilma seadistamiseta."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude'i ja Codexi limiidid"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Saadaolevad lähtestused · $1"
+   },
+   "emptyClaude": {
+      "message": "Andmeid veel pole. Ava sisselogituna claude.ai ja värskenda."
+   },
+   "emptyCodex": {
+      "message": "Andmeid veel pole. Ava sisselogituna chatgpt.com ja värskenda."
+   },
+   "emptyCursor": {
+      "message": "Andmeid veel pole. Ava sisselogituna cursor.com ja värskenda."
+   },
+   "emptyGlm": {
+      "message": "Andmeid veel pole. Ava sisselogituna z.ai ja värskenda."
+   },
+   "emptyKimi": {
+      "message": "Andmeid veel pole. Ava sisselogituna kimi.com/code ja värskenda."
+   },
+   "emptyMiMo": {
+      "message": "Andmeid veel pole. Ava sisselogituna platform.xiaomimimo.com ja värskenda."
+   },
+   "emptyMiniMax": {
+      "message": "Andmeid veel pole. Ava sisselogituna platform.minimax.io ja värskenda."
+   },
+   "emptyOverlay": {
+      "message": "Andmeid veel pole. Ava hüpikaken ja värskenda."
+   },
+   "emptyQwen": {
+      "message": "Andmeid veel pole. Ava sisselogituna qwencloud.com ja värskenda."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Peida limiidid"
+   },
+   "loadingSnapshot": {
+      "message": "laadimine"
+   },
+   "manualRefreshHint": {
+      "message": "Automaatne värskendamine on välja lülitatud. Kasutuse laadimiseks vajutage Värskenda."
+   },
+   "nextResetLabel": {
+      "message": "lähtestub $1 pärast"
+   },
+   "notConnected": {
+      "message": "ühendus puudub"
+   },
+   "optionsBadgeDescription": {
+      "message": "Laienduse ikoon muutub 10% sammudega selle allika põhjal."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "See pakkuja on hüpikaknas peidetud, kuid ikooni vahemik jääb aktiivseks."
+   },
+   "optionsBadgeHighest": {
+      "message": "Kõrgeim nähtavatest pakkujatest"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Kasuta nähtavate kaartide suurimat praegust protsenti."
+   },
+   "optionsBadgeProvider": {
+      "message": "Pakkuja"
+   },
+   "optionsBadgeSelected": {
+      "message": "Valitud pakkuja"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Kasuta üht pakkujat sõltumata teiste kaartide nähtavusest."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Ikooni allikas"
+   },
+   "optionsBadgeSteps": {
+      "message": "Ikooni astmed"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "ümardatud alla 10%-ni"
+   },
+   "optionsBadgeTitle": {
+      "message": "Ikooni vahemik"
+   },
+   "optionsBadgeWindow": {
+      "message": "Kasutusaken"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sessioon"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Nädal"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Valikuline. Kasuta seda, kui see brauser pole z.ai-sse sisse logitud, või BigModeli kontode puhul."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM-i API-võti"
+   },
+   "optionsLanguageAuto": {
+      "message": "Brauseri keel"
+   },
+   "optionsLanguageDescription": {
+      "message": "Vali hüpikakna, selle lehe ja ülekatete keel."
+   },
+   "optionsLanguageHint": {
+      "message": "Keele vahetamine laadib lehe uuesti."
+   },
+   "optionsLanguageTitle": {
+      "message": "Keel"
+   },
+   "optionsLayoutDescription": {
+      "message": "Vali, kuidas nähtavad pakkujakaardid paigutatakse."
+   },
+   "optionsLayoutGrid": {
+      "message": "Kaks veergu"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompaktne ülevaade, kaks kaarti reas."
+   },
+   "optionsLayoutSingle": {
+      "message": "Üks veerg"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Täislaiuses kaart iga pakkuja kohta."
+   },
+   "optionsLayoutTitle": {
+      "message": "Hüpikakna paigutus"
+   },
+   "optionsLoading": {
+      "message": "Laadin seadeid…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Saadaolevad lähtestused"
+   },
+   "optionsMetricBalance": {
+      "message": "Jääk"
+   },
+   "optionsMetricModels": {
+      "message": "Jaotus mudelite kaupa"
+   },
+   "optionsMetricPlan": {
+      "message": "Pakett"
+   },
+   "optionsMetricReset": {
+      "message": "Lähtestamise aeg"
+   },
+   "optionsMetricSession": {
+      "message": "Sessiooni kasutus"
+   },
+   "optionsMetricSummary": {
+      "message": "Jääk / kokkuvõte"
+   },
+   "optionsMetricWeekly": {
+      "message": "Nädala kasutus"
+   },
+   "optionsNavBadge": {
+      "message": "Tööriistariba ikoon"
+   },
+   "optionsNavLabel": {
+      "message": "Seadete jaotised"
+   },
+   "optionsNavLayout": {
+      "message": "Paigutus"
+   },
+   "optionsNavOverlays": {
+      "message": "Ülekatted lehel"
+   },
+   "optionsNavProviders": {
+      "message": "Teenusepakkujad"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Luba $1 ülekate lehel"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Näita kokkupandavat kasutuskapslit sõnumivälja kõrval."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Ülekatted lehel"
+   },
+   "optionsPercentageDescription": {
+      "message": "Näidake, kui palju igast limiidist on kasutatud või alles."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Alles"
+   },
+   "optionsPercentageTitle": {
+      "message": "Limiitide kuvamine"
+   },
+   "optionsPercentageUsed": {
+      "message": "Kasutatud"
+   },
+   "optionsProviderDetails": {
+      "message": "$1/$2 üksikasja"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 kasutusandmed"
+   },
+   "optionsProviderHidden": {
+      "message": "Peidetud hüpikaknas"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Näita $1 hüpikaknas"
+   },
+   "optionsProvidersDescription": {
+      "message": "Peida kaart või vali, milliseid andmeid see näitab. Puuduvad andmed peidetakse automaatselt."
+   },
+   "optionsProvidersShown": {
+      "message": "nähtaval $1/$2"
+   },
+   "optionsProvidersTitle": {
+      "message": "Teenusepakkujad"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automaatne"
+   },
+   "optionsRefreshDescription": {
+      "message": "Valige automaatne või käsitsi värskendamine."
+   },
+   "optionsRefreshInterval": {
+      "message": "Intervall (minutites, vähemalt 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Ainult nupuga Värskenda"
+   },
+   "optionsRefreshTitle": {
+      "message": "Kasutuse värskendamine"
+   },
+   "optionsResetAction": {
+      "message": "Taasta vaikeseaded"
+   },
+   "optionsResetConfirm": {
+      "message": "Kinnitamiseks klõpsa uuesti"
+   },
+   "optionsResetDescription": {
+      "message": "Taastab kõik selle lehe eelistused. Seda ei saa tagasi võtta."
+   },
+   "optionsResetTitle": {
+      "message": "Taasta vaikeseaded"
+   },
+   "optionsSaveError": {
+      "message": "Salvestamine ebaõnnestus"
+   },
+   "optionsSaved": {
+      "message": "Kõik muudatused salvestatud"
+   },
+   "optionsSaving": {
+      "message": "Salvestan…"
+   },
+   "optionsSkip": {
+      "message": "Liigu seadetesse"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Trackeri seaded"
+   },
+   "percentageRemaining": {
+      "message": "$1% alles"
+   },
+   "planLabel": {
+      "message": "Pakett · $1"
+   },
+   "planUsage": {
+      "message": "Paketi kasutus"
+   },
+   "popupTitle": {
+      "message": "Kasutus"
+   },
+   "refreshErrorPrefix": {
+      "message": "Värskendamine ebaõnnestus"
+   },
+   "refreshFailed": {
+      "message": "Värskendamine ebaõnnestus"
+   },
+   "refreshUsage": {
+      "message": "Värskenda kasutust"
+   },
+   "refreshUsageLimits": {
+      "message": "Värskenda limiite"
+   },
+   "refreshing": {
+      "message": "värskendan..."
+   },
+   "reportCancel": {
+      "message": "Loobu"
+   },
+   "reportDescription": {
+      "message": "Kirjelda, mis läks valesti. Teade jõuab otse arendajateni."
+   },
+   "reportFailed": {
+      "message": "Teadet ei õnnestunud saata."
+   },
+   "reportOnGithub": {
+      "message": "Ava GitHubis issue"
+   },
+   "reportPlaceholder": {
+      "message": "Mis juhtus? Milline teenusepakkuja on mõjutatud?"
+   },
+   "reportPrivacy": {
+      "message": "Saadab su sõnumi koos laienduse versiooni, keele ja sisselülitatud teenusepakkujate kaartidega."
+   },
+   "reportProblem": {
+      "message": "Teata probleemist"
+   },
+   "reportSend": {
+      "message": "Saada"
+   },
+   "reportSending": {
+      "message": "Saadan…"
+   },
+   "reportSent": {
+      "message": "Aitäh! Teade saadeti."
+   },
+   "reportTitle": {
+      "message": "Teata probleemist"
+   },
+   "resetsLabel": {
+      "message": "lähtestub $1 pärast"
+   },
+   "sessionExpired": {
+      "message": "seanss aegunud"
+   },
+   "sessionLimit": {
+      "message": "Sessioon · 5 h"
+   },
+   "showLimits": {
+      "message": "Näita limiite"
+   },
+   "sourceCode": {
+      "message": "Lähtekood"
+   },
+   "timeAgo": {
+      "message": "$1 tagasi"
+   },
+   "timeDayShort": {
+      "message": "p"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "just praegu"
+   },
+   "timeMinuteShort": {
+      "message": "min"
+   },
+   "timeNow": {
+      "message": "nüüd"
+   },
+   "timeUnknown": {
+      "message": "teadmata"
+   },
+   "tokenPlan": {
+      "message": "Tokenipakett"
+   },
+   "updated": {
+      "message": "värskendatud $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ootan andmeid"
+   },
+   "weeklyLimit": {
+      "message": "Nädal · 7 p"
+   },
+   "welcomeCta": {
+      "message": "Alusta"
+   },
+   "welcomeCtaHint": {
+      "message": "Hiljem saad selle Chrome’is lahti võtta."
+   },
+   "welcomeStepOpen": {
+      "message": "Klõpsa kinnitatud ikoonil, et näha oma kasutust"
+   },
+   "welcomeStepPin": {
+      "message": "Klõpsa tööriistaribal laienduste ikoonil {icon} ja kinnita AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Hoia oma piirid ühe klõpsu kaugusel — aken avaneb otse tööriistaribalt."
+   },
+   "welcomeTitle": {
+      "message": "Kinnita AI Usage Tracker"
+   }
+}

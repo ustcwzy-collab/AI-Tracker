@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude અને ChatGPT (Codex) ની સત્ર તથા સાપ્તાહિક મર્યાદા પોપઅપ અને પેજ ઓવરલેમાં જુઓ. સેટઅપની જરૂર નથી."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude અને Codex મર્યાદા"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "ઉપલબ્ધ રીસેટ · $1"
+   },
+   "emptyClaude": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે claude.ai ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyCodex": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે chatgpt.com ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyCursor": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે cursor.com ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyGlm": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે z.ai ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyKimi": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે kimi.com/code ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyMiMo": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે platform.xiaomimimo.com ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyMiniMax": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે platform.minimax.io ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyOverlay": {
+      "message": "હજુ ડેટા નથી. પોપઅપ ખોલો અને રિફ્રેશ કરો."
+   },
+   "emptyQwen": {
+      "message": "હજુ ડેટા નથી. સાઇન ઇન હોય ત્યારે qwencloud.com ખોલો અને રિફ્રેશ કરો."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "મર્યાદા છુપાવો"
+   },
+   "loadingSnapshot": {
+      "message": "લોડ થઈ રહ્યું છે"
+   },
+   "manualRefreshHint": {
+      "message": "આપમેળે અપડેટ બંધ છે. વપરાશ લોડ કરવા માટે રિફ્રેશ દબાવો."
+   },
+   "nextResetLabel": {
+      "message": "$1 પછી રીસેટ"
+   },
+   "notConnected": {
+      "message": "કનેક્ટ નથી"
+   },
+   "optionsBadgeDescription": {
+      "message": "આ સ્રોત મુજબ એક્સ્ટેન્શન આઇકન ૧૦% ના તબક્કે બદલાય છે."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "આ પ્રોવાઇડર પોપઅપમાં છુપાયેલ છે, પણ તેની આઇકન રેન્જ ચાલુ રહે છે."
+   },
+   "optionsBadgeHighest": {
+      "message": "દેખાતા પ્રોવાઇડરમાં સૌથી વધુ"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "બતાવેલા કાર્ડમાંથી હાલની સૌથી મોટી ટકાવારી વાપરો."
+   },
+   "optionsBadgeProvider": {
+      "message": "પ્રોવાઇડર"
+   },
+   "optionsBadgeSelected": {
+      "message": "પસંદ કરેલ પ્રોવાઇડર"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "બીજાં કાર્ડ દેખાય કે નહીં, એક જ પ્રોવાઇડર વાપરો."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "આઇકનનો સ્રોત"
+   },
+   "optionsBadgeSteps": {
+      "message": "આઇકનના તબક્કા"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "નજીકના ૧૦% સુધી નીચે"
+   },
+   "optionsBadgeTitle": {
+      "message": "આઇકન રેન્જ"
+   },
+   "optionsBadgeWindow": {
+      "message": "વપરાશ વિન્ડો"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "સત્ર"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "સાપ્તાહિક"
+   },
+   "optionsGlmKeyHint": {
+      "message": "વૈકલ્પિક. આ બ્રાઉઝર z.ai માં સાઇન ઇન ન હોય ત્યારે, અથવા BigModel એકાઉન્ટ માટે વાપરો."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API કી"
+   },
+   "optionsLanguageAuto": {
+      "message": "બ્રાઉઝરની ભાષા"
+   },
+   "optionsLanguageDescription": {
+      "message": "પોપઅપ, આ પેજ અને પેજ ઓવરલે માટે ભાષા પસંદ કરો."
+   },
+   "optionsLanguageHint": {
+      "message": "ભાષા બદલતાં આ પેજ ફરી લોડ થશે."
+   },
+   "optionsLanguageTitle": {
+      "message": "ભાષા"
+   },
+   "optionsLayoutDescription": {
+      "message": "દેખાતાં પ્રોવાઇડર કાર્ડ કેવી રીતે ગોઠવાય તે પસંદ કરો."
+   },
+   "optionsLayoutGrid": {
+      "message": "બે કૉલમ"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "દર હરોળમાં બે કાર્ડ સાથે સંક્ષિપ્ત દૃશ્ય."
+   },
+   "optionsLayoutSingle": {
+      "message": "એક કૉલમ"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "દરેક પ્રોવાઇડર માટે પૂર્ણ પહોળાઈનું કાર્ડ."
+   },
+   "optionsLayoutTitle": {
+      "message": "પોપઅપ લેઆઉટ"
+   },
+   "optionsLoading": {
+      "message": "સેટિંગ્સ લોડ થઈ રહી છે…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "ઉપલબ્ધ રીસેટ"
+   },
+   "optionsMetricBalance": {
+      "message": "બેલેન્સ"
+   },
+   "optionsMetricModels": {
+      "message": "મોડેલ પ્રમાણે વિભાજન"
+   },
+   "optionsMetricPlan": {
+      "message": "પ્લાન"
+   },
+   "optionsMetricReset": {
+      "message": "રીસેટ સમય"
+   },
+   "optionsMetricSession": {
+      "message": "સત્ર વપરાશ"
+   },
+   "optionsMetricSummary": {
+      "message": "બેલેન્સ / સારાંશ"
+   },
+   "optionsMetricWeekly": {
+      "message": "સાપ્તાહિક વપરાશ"
+   },
+   "optionsNavBadge": {
+      "message": "ટૂલબાર આઇકન"
+   },
+   "optionsNavLabel": {
+      "message": "સેટિંગ્સ વિભાગો"
+   },
+   "optionsNavLayout": {
+      "message": "લેઆઉટ"
+   },
+   "optionsNavOverlays": {
+      "message": "પેજ પરના ઓવરલે"
+   },
+   "optionsNavProviders": {
+      "message": "પ્રોવાઇડર"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 નું પેજ ઓવરલે ચાલુ કરો"
+   },
+   "optionsOverlaysDescription": {
+      "message": "મેસેજ બોક્સ પાસે સંકેલી શકાય તેવું વપરાશ કેપ્સ્યુલ બતાવો."
+   },
+   "optionsOverlaysTitle": {
+      "message": "પેજ પરના ઓવરલે"
+   },
+   "optionsPercentageDescription": {
+      "message": "દરેક મર્યાદામાંથી કેટલું વપરાયું છે અથવા બાકી છે તે બતાવો."
+   },
+   "optionsPercentageRemaining": {
+      "message": "બાકી"
+   },
+   "optionsPercentageTitle": {
+      "message": "મર્યાદા પ્રદર્શન"
+   },
+   "optionsPercentageUsed": {
+      "message": "વપરાયેલ"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 માંથી $1 વિગતો"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 ની વપરાશ વિગતો"
+   },
+   "optionsProviderHidden": {
+      "message": "પોપઅપમાં છુપાયેલ"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "પોપઅપમાં $1 બતાવો"
+   },
+   "optionsProvidersDescription": {
+      "message": "કાર્ડ છુપાવો અથવા તે કઈ વિગતો બતાવે તે પસંદ કરો. અનુપલબ્ધ ડેટા આપોઆપ છુપાય છે."
+   },
+   "optionsProvidersShown": {
+      "message": "$2 માંથી $1 દેખાય છે"
+   },
+   "optionsProvidersTitle": {
+      "message": "પ્રોવાઇડર"
+   },
+   "optionsRefreshAuto": {
+      "message": "આપમેળે"
+   },
+   "optionsRefreshDescription": {
+      "message": "આપમેળે અથવા જાતે અપડેટ પસંદ કરો."
+   },
+   "optionsRefreshInterval": {
+      "message": "અંતરાલ (મિનિટ, ઓછામાં ઓછું 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "ફક્ત રિફ્રેશ બટન દબાવવાથી"
+   },
+   "optionsRefreshTitle": {
+      "message": "વપરાશ રિફ્રેશ"
+   },
+   "optionsResetAction": {
+      "message": "ડિફોલ્ટ પુનઃસ્થાપિત"
+   },
+   "optionsResetConfirm": {
+      "message": "પુષ્ટિ માટે ફરી ક્લિક કરો"
+   },
+   "optionsResetDescription": {
+      "message": "આ પેજની બધી પસંદગીઓ પુનઃસ્થાપિત કરે છે. આ પાછું લઈ શકાતું નથી."
+   },
+   "optionsResetTitle": {
+      "message": "ડિફોલ્ટ પર રીસેટ"
+   },
+   "optionsSaveError": {
+      "message": "સાચવી શકાયું નહીં"
+   },
+   "optionsSaved": {
+      "message": "બધા ફેરફાર સાચવ્યા"
+   },
+   "optionsSaving": {
+      "message": "સાચવી રહ્યું છે…"
+   },
+   "optionsSkip": {
+      "message": "સેટિંગ્સ પર જાઓ"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker સેટિંગ્સ"
+   },
+   "percentageRemaining": {
+      "message": "$1% બાકી"
+   },
+   "planLabel": {
+      "message": "પ્લાન · $1"
+   },
+   "planUsage": {
+      "message": "પ્લાન વપરાશ"
+   },
+   "popupTitle": {
+      "message": "વપરાશ"
+   },
+   "refreshErrorPrefix": {
+      "message": "રિફ્રેશ થઈ શક્યું નહીં"
+   },
+   "refreshFailed": {
+      "message": "રિફ્રેશ નિષ્ફળ"
+   },
+   "refreshUsage": {
+      "message": "વપરાશ રિફ્રેશ કરો"
+   },
+   "refreshUsageLimits": {
+      "message": "મર્યાદા રિફ્રેશ કરો"
+   },
+   "refreshing": {
+      "message": "રિફ્રેશ થઈ રહ્યું છે..."
+   },
+   "reportCancel": {
+      "message": "રદ કરો"
+   },
+   "reportDescription": {
+      "message": "શું ખોટું થયું તે જણાવો. રિપોર્ટ સીધો ડેવલપર્સ સુધી પહોંચે છે."
+   },
+   "reportFailed": {
+      "message": "રિપોર્ટ મોકલી શકાયો નથી."
+   },
+   "reportOnGithub": {
+      "message": "GitHub પર issue ખોલો"
+   },
+   "reportPlaceholder": {
+      "message": "શું થયું? કયો પ્રોવાઇડર અસરગ્રસ્ત છે?"
+   },
+   "reportPrivacy": {
+      "message": "તમારો સંદેશ એક્સટેન્શન સંસ્કરણ, ભાષા અને ચાલુ પ્રોવાઇડર કાર્ડ સાથે મોકલાય છે."
+   },
+   "reportProblem": {
+      "message": "સમસ્યાની જાણ કરો"
+   },
+   "reportSend": {
+      "message": "મોકલો"
+   },
+   "reportSending": {
+      "message": "મોકલાઈ રહ્યું છે…"
+   },
+   "reportSent": {
+      "message": "આભાર! તમારો રિપોર્ટ મોકલાયો."
+   },
+   "reportTitle": {
+      "message": "સમસ્યાની જાણ કરો"
+   },
+   "resetsLabel": {
+      "message": "$1 પછી રીસેટ"
+   },
+   "sessionExpired": {
+      "message": "સત્ર સમાપ્ત"
+   },
+   "sessionLimit": {
+      "message": "સત્ર · ૫ કલાક"
+   },
+   "showLimits": {
+      "message": "મર્યાદા બતાવો"
+   },
+   "sourceCode": {
+      "message": "સોર્સ કોડ"
+   },
+   "timeAgo": {
+      "message": "$1 પહેલાં"
+   },
+   "timeDayShort": {
+      "message": "દિ"
+   },
+   "timeHourShort": {
+      "message": "ક"
+   },
+   "timeJustNow": {
+      "message": "હમણાં જ"
+   },
+   "timeMinuteShort": {
+      "message": "મિ"
+   },
+   "timeNow": {
+      "message": "હમણાં"
+   },
+   "timeUnknown": {
+      "message": "અજ્ઞાત"
+   },
+   "tokenPlan": {
+      "message": "ટોકન પ્લાન"
+   },
+   "updated": {
+      "message": "અપડેટ $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ડેટાની રાહ"
+   },
+   "weeklyLimit": {
+      "message": "સાપ્તાહિક · ૭ દિવસ"
+   },
+   "welcomeCta": {
+      "message": "શરૂ કરો"
+   },
+   "welcomeCtaHint": {
+      "message": "તમે પછીથી Chrome માંથી અનપિન કરી શકો છો."
+   },
+   "welcomeStepOpen": {
+      "message": "તમારો વપરાશ જોવા પિન કરેલા આઇકન પર ક્લિક કરો"
+   },
+   "welcomeStepPin": {
+      "message": "ટૂલબારમાં એક્સટેન્શન આઇકન {icon} પર ક્લિક કરો, પછી AI Usage Tracker પિન કરો"
+   },
+   "welcomeSubtitle": {
+      "message": "તમારી મર્યાદા એક ક્લિક દૂર રાખો — પોપઅપ સીધું ટૂલબારમાંથી ખૂલે છે."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker પિન કરો"
+   }
+}

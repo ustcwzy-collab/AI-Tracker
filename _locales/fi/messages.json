@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Seuraa Clauden ja ChatGPT:n (Codex) istunto- ja viikkorajoja ponnahdusikkunassa ja sivun peittokuvassa."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Clauden ja Codexin rajat"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Käytettävissä olevat nollaukset · $1"
+   },
+   "emptyClaude": {
+      "message": "Ei vielä tietoja. Avaa claude.ai kirjautuneena ja päivitä."
+   },
+   "emptyCodex": {
+      "message": "Ei vielä tietoja. Avaa chatgpt.com kirjautuneena ja päivitä."
+   },
+   "emptyCursor": {
+      "message": "Ei vielä tietoja. Avaa cursor.com kirjautuneena ja päivitä."
+   },
+   "emptyGlm": {
+      "message": "Ei vielä tietoja. Avaa z.ai kirjautuneena ja päivitä."
+   },
+   "emptyKimi": {
+      "message": "Ei vielä tietoja. Avaa kimi.com/code kirjautuneena ja päivitä."
+   },
+   "emptyMiMo": {
+      "message": "Ei vielä tietoja. Avaa platform.xiaomimimo.com kirjautuneena ja päivitä."
+   },
+   "emptyMiniMax": {
+      "message": "Ei vielä tietoja. Avaa platform.minimax.io kirjautuneena ja päivitä."
+   },
+   "emptyOverlay": {
+      "message": "Ei vielä tietoja. Avaa ponnahdusikkuna ja päivitä."
+   },
+   "emptyQwen": {
+      "message": "Ei vielä tietoja. Avaa qwencloud.com kirjautuneena ja päivitä."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Piilota rajat"
+   },
+   "loadingSnapshot": {
+      "message": "ladataan"
+   },
+   "manualRefreshHint": {
+      "message": "Automaattinen päivitys on pois päältä. Lataa käyttö Päivitä-painikkeella."
+   },
+   "nextResetLabel": {
+      "message": "nollautuu $1"
+   },
+   "notConnected": {
+      "message": "ei yhteyttä"
+   },
+   "optionsBadgeDescription": {
+      "message": "Laajennuksen kuvake muuttuu 10 %:n välein tämän lähteen mukaan."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Palvelu on piilotettu ponnahdusikkunassa, mutta sen kuvaketaso on yhä käytössä."
+   },
+   "optionsBadgeHighest": {
+      "message": "Korkein näkyvistä palveluista"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Käytä suurinta nykyistä prosenttia näkyvistä korteista."
+   },
+   "optionsBadgeProvider": {
+      "message": "Palvelu"
+   },
+   "optionsBadgeSelected": {
+      "message": "Valittu palvelu"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Käytä yhtä palvelua riippumatta muiden korttien näkyvyydestä."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Kuvakkeen lähde"
+   },
+   "optionsBadgeSteps": {
+      "message": "Kuvakkeen tasot"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "pyöristetty alaspäin 10 %:iin"
+   },
+   "optionsBadgeTitle": {
+      "message": "Kuvakkeen taso"
+   },
+   "optionsBadgeWindow": {
+      "message": "Käyttöjakso"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Istunto"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Viikko"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Valinnainen. Käytä sitä, jos tällä selaimella ei ole kirjauduttu z.ai-palveluun, tai BigModel-tileille."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API -avain"
+   },
+   "optionsLanguageAuto": {
+      "message": "Selaimen kieli"
+   },
+   "optionsLanguageDescription": {
+      "message": "Valitse kieli ponnahdusikkunalle, tälle sivulle ja peittokuville."
+   },
+   "optionsLanguageHint": {
+      "message": "Kielen vaihto lataa sivun uudelleen."
+   },
+   "optionsLanguageTitle": {
+      "message": "Kieli"
+   },
+   "optionsLayoutDescription": {
+      "message": "Valitse, miten näkyvät palvelukortit järjestetään."
+   },
+   "optionsLayoutGrid": {
+      "message": "Kaksi saraketta"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Tiivis yleiskuva, kaksi korttia rivillä."
+   },
+   "optionsLayoutSingle": {
+      "message": "Yksi sarake"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Koko leveyden kortti jokaiselle palvelulle."
+   },
+   "optionsLayoutTitle": {
+      "message": "Ponnahdusikkunan asettelu"
+   },
+   "optionsLoading": {
+      "message": "Ladataan asetuksia…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Käytettävissä olevat nollaukset"
+   },
+   "optionsMetricBalance": {
+      "message": "Saldo"
+   },
+   "optionsMetricModels": {
+      "message": "Erittely malleittain"
+   },
+   "optionsMetricPlan": {
+      "message": "Tilaus"
+   },
+   "optionsMetricReset": {
+      "message": "Nollausaika"
+   },
+   "optionsMetricSession": {
+      "message": "Istunnon käyttö"
+   },
+   "optionsMetricSummary": {
+      "message": "Saldo / yhteenveto"
+   },
+   "optionsMetricWeekly": {
+      "message": "Viikkokäyttö"
+   },
+   "optionsNavBadge": {
+      "message": "Työkalurivin kuvake"
+   },
+   "optionsNavLabel": {
+      "message": "Asetusosiot"
+   },
+   "optionsNavLayout": {
+      "message": "Asettelu"
+   },
+   "optionsNavOverlays": {
+      "message": "Peittokuvat sivulla"
+   },
+   "optionsNavProviders": {
+      "message": "Palveluntarjoajat"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Ota $1-peittokuva käyttöön sivulla"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Näytä kokoon taittuva käyttökapseli viestikentän vieressä."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Peittokuvat sivulla"
+   },
+   "optionsPercentageDescription": {
+      "message": "Näytä, kuinka paljon kustakin rajasta on käytetty tai jäljellä."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Jäljellä"
+   },
+   "optionsPercentageTitle": {
+      "message": "Rajojen näyttö"
+   },
+   "optionsPercentageUsed": {
+      "message": "Käytetty"
+   },
+   "optionsProviderDetails": {
+      "message": "$1/$2 tietoa"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Palvelun $1 käyttötiedot"
+   },
+   "optionsProviderHidden": {
+      "message": "Piilotettu ponnahdusikkunassa"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Näytä $1 ponnahdusikkunassa"
+   },
+   "optionsProvidersDescription": {
+      "message": "Piilota kortti tai valitse, mitä tietoja se näyttää. Puuttuvat tiedot piilotetaan automaattisesti."
+   },
+   "optionsProvidersShown": {
+      "message": "$1/$2 näkyvissä"
+   },
+   "optionsProvidersTitle": {
+      "message": "Palveluntarjoajat"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automaattinen"
+   },
+   "optionsRefreshDescription": {
+      "message": "Valitse automaattinen tai manuaalinen päivitys."
+   },
+   "optionsRefreshInterval": {
+      "message": "Aikaväli (minuuttia, vähintään 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Vain Päivitä-painikkeella"
+   },
+   "optionsRefreshTitle": {
+      "message": "Käytön päivitys"
+   },
+   "optionsResetAction": {
+      "message": "Palauta oletukset"
+   },
+   "optionsResetConfirm": {
+      "message": "Vahvista napsauttamalla uudelleen"
+   },
+   "optionsResetDescription": {
+      "message": "Palauttaa kaikki tämän sivun asetukset. Toimintoa ei voi kumota."
+   },
+   "optionsResetTitle": {
+      "message": "Palauta oletukset"
+   },
+   "optionsSaveError": {
+      "message": "Tallennus ei onnistunut"
+   },
+   "optionsSaved": {
+      "message": "Kaikki muutokset tallennettu"
+   },
+   "optionsSaving": {
+      "message": "Tallennetaan…"
+   },
+   "optionsSkip": {
+      "message": "Siirry asetuksiin"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Trackerin asetukset"
+   },
+   "percentageRemaining": {
+      "message": "$1% jäljellä"
+   },
+   "planLabel": {
+      "message": "Tilaus · $1"
+   },
+   "planUsage": {
+      "message": "Tilauksen käyttö"
+   },
+   "popupTitle": {
+      "message": "Käyttö"
+   },
+   "refreshErrorPrefix": {
+      "message": "Päivitys ei onnistunut"
+   },
+   "refreshFailed": {
+      "message": "Päivitys epäonnistui"
+   },
+   "refreshUsage": {
+      "message": "Päivitä käyttö"
+   },
+   "refreshUsageLimits": {
+      "message": "Päivitä rajat"
+   },
+   "refreshing": {
+      "message": "päivitetään..."
+   },
+   "reportCancel": {
+      "message": "Peruuta"
+   },
+   "reportDescription": {
+      "message": "Kuvaile, mikä meni pieleen. Ilmoitus menee suoraan kehittäjille."
+   },
+   "reportFailed": {
+      "message": "Ilmoitusta ei voitu lähettää."
+   },
+   "reportOnGithub": {
+      "message": "Avaa GitHub-issue"
+   },
+   "reportPlaceholder": {
+      "message": "Mitä tapahtui? Mitä palveluntarjoajaa asia koskee?"
+   },
+   "reportPrivacy": {
+      "message": "Lähettää viestisi laajennuksen version, kielen ja käytössä olevien palvelukorttien kanssa."
+   },
+   "reportProblem": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "reportSend": {
+      "message": "Lähetä"
+   },
+   "reportSending": {
+      "message": "Lähetetään…"
+   },
+   "reportSent": {
+      "message": "Kiitos! Ilmoitus lähetettiin."
+   },
+   "reportTitle": {
+      "message": "Ilmoita ongelmasta"
+   },
+   "resetsLabel": {
+      "message": "nollautuu $1"
+   },
+   "sessionExpired": {
+      "message": "istunto vanhentui"
+   },
+   "sessionLimit": {
+      "message": "Istunto · 5 h"
+   },
+   "showLimits": {
+      "message": "Näytä rajat"
+   },
+   "sourceCode": {
+      "message": "Lähdekoodi"
+   },
+   "timeAgo": {
+      "message": "$1 sitten"
+   },
+   "timeDayShort": {
+      "message": "pv"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "juuri nyt"
+   },
+   "timeMinuteShort": {
+      "message": "min"
+   },
+   "timeNow": {
+      "message": "nyt"
+   },
+   "timeUnknown": {
+      "message": "tuntematon"
+   },
+   "tokenPlan": {
+      "message": "Token-tilaus"
+   },
+   "updated": {
+      "message": "päivitetty $1"
+   },
+   "waitingForSnapshot": {
+      "message": "odotetaan tietoja"
+   },
+   "weeklyLimit": {
+      "message": "Viikko · 7 pv"
+   },
+   "welcomeCta": {
+      "message": "Aloita"
+   },
+   "welcomeCtaHint": {
+      "message": "Voit irrottaa sen myöhemmin Chromessa."
+   },
+   "welcomeStepOpen": {
+      "message": "Napsauta kiinnitettyä kuvaketta nähdäksesi käyttösi"
+   },
+   "welcomeStepPin": {
+      "message": "Napsauta laajennuskuvaketta {icon} työkalupalkissa ja kiinnitä AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Pidä rajasi yhden klikkauksen päässä — ponnahdusikkuna avautuu suoraan työkalupalkista."
+   },
+   "welcomeTitle": {
+      "message": "Kiinnitä AI Usage Tracker"
+   }
+}

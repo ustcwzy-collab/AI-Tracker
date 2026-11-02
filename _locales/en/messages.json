@@ -1,0 +1,422 @@
+{
+  "appDescription": {
+    "message": "Track Claude and ChatGPT (Codex) session & weekly usage limits at a glance in a popup and on-page overlay. Privacy-first, no setup."
+  },
+  "appName": {
+    "message": "AI Usage Tracker: Claude & Codex Limits"
+  },
+  "appShortName": {
+    "message": "AI Usage Tracker"
+  },
+  "availableResetsLabel": {
+    "message": "Reset credits (total) · $1"
+  },
+  "emptyClaude": {
+    "message": "No data yet. Open claude.ai while signed in, then refresh."
+  },
+  "emptyCodex": {
+    "message": "No data yet. Open chatgpt.com while signed in, then refresh."
+  },
+  "emptyCursor": {
+    "message": "No data yet. Open cursor.com while signed in, then refresh."
+  },
+  "emptyGlm": {
+    "message": "No data yet. Open z.ai while signed in, then refresh."
+  },
+  "emptyKimi": {
+    "message": "No data yet. Keep a signed-in kimi.com tab open, reload that tab, then refresh here."
+  },
+  "emptyMiMo": {
+    "message": "No data yet. Open platform.xiaomimimo.com while signed in, then refresh."
+  },
+  "emptyMiniMax": {
+    "message": "No data yet. Open platform.minimax.io while signed in, then refresh."
+  },
+  "emptyOverlay": {
+    "message": "No data yet. Open the popup and refresh."
+  },
+  "emptyQwen": {
+    "message": "No data yet. Open qwencloud.com while signed in, then refresh."
+  },
+  "github": {
+    "message": "GitHub"
+  },
+  "hideLimits": {
+    "message": "Hide limits"
+  },
+  "loadingSnapshot": {
+    "message": "loading snapshot"
+  },
+  "manualRefreshHint": {
+    "message": "Automatic updates are off. Press Refresh to load usage."
+  },
+  "nextResetLabel": {
+    "message": "resets $1"
+  },
+  "notConnected": {
+    "message": "not connected"
+  },
+  "optionsBadgeDescription": {
+    "message": "The extension icon changes by 10% ranges based on this source."
+  },
+  "optionsBadgeHiddenWarning": {
+    "message": "This provider is hidden in the popup, but its badge range remains active."
+  },
+  "optionsBadgeHighest": {
+    "message": "Highest of visible providers"
+  },
+  "optionsBadgeHighestDescription": {
+    "message": "Use the largest current percentage among shown provider cards."
+  },
+  "optionsBadgeProvider": {
+    "message": "Provider"
+  },
+  "optionsBadgeSelected": {
+    "message": "Selected provider"
+  },
+  "optionsBadgeSelectedDescription": {
+    "message": "Use one provider regardless of the popup visibility of other cards."
+  },
+  "optionsBadgeSourceLabel": {
+    "message": "Badge source"
+  },
+  "optionsBadgeSteps": {
+    "message": "Toolbar icon steps"
+  },
+  "optionsBadgeStepsHint": {
+    "message": "rounded down to the nearest 10%"
+  },
+  "optionsBadgeTitle": {
+    "message": "Badge range"
+  },
+  "optionsBadgeWindow": {
+    "message": "Usage window"
+  },
+  "optionsBadgeWindowSession": {
+    "message": "Session"
+  },
+  "optionsBadgeWindowWeekly": {
+    "message": "Weekly"
+  },
+  "optionsGlmKeyHint": {
+    "message": "Optional. Use it when this browser is not signed in to z.ai, or for BigModel accounts."
+  },
+  "optionsGlmKeyLabel": {
+    "message": "GLM API key"
+  },
+  "optionsLanguageAuto": {
+    "message": "Browser language"
+  },
+  "optionsLanguageDescription": {
+    "message": "Choose the language for the popup, this page, and the on-page overlays."
+  },
+  "optionsLanguageHint": {
+    "message": "Switching the language reloads this page."
+  },
+  "optionsLanguageTitle": {
+    "message": "Language"
+  },
+  "optionsLayoutDescription": {
+    "message": "Choose how visible provider cards are arranged in the popup."
+  },
+  "optionsLayoutGrid": {
+    "message": "Two columns"
+  },
+  "optionsLayoutGridDescription": {
+    "message": "A compact overview with two cards per row."
+  },
+  "optionsLayoutSingle": {
+    "message": "One column"
+  },
+  "optionsLayoutSingleDescription": {
+    "message": "A full-width card for each provider."
+  },
+  "optionsLayoutTitle": {
+    "message": "Popup layout"
+  },
+  "optionsLoading": {
+    "message": "Loading settings…"
+  },
+  "optionsMetricAvailableResets": {
+    "message": "Available resets"
+  },
+  "optionsMetricBalance": {
+    "message": "Balance"
+  },
+  "optionsMetricModels": {
+    "message": "Model breakdown"
+  },
+  "optionsMetricPlan": {
+    "message": "Plan"
+  },
+  "optionsMetricReset": {
+    "message": "Reset time"
+  },
+  "optionsMetricSession": {
+    "message": "Session usage"
+  },
+  "optionsMetricSummary": {
+    "message": "Balance / summary"
+  },
+  "optionsMetricWeekly": {
+    "message": "Weekly usage"
+  },
+  "optionsNavBadge": {
+    "message": "Toolbar badge"
+  },
+  "optionsNavLabel": {
+    "message": "Settings sections"
+  },
+  "optionsNavLayout": {
+    "message": "Layout"
+  },
+  "optionsNavOverlays": {
+    "message": "On-page overlays"
+  },
+  "optionsNavProviders": {
+    "message": "Providers"
+  },
+  "optionsOverlayToggleLabel": {
+    "message": "Enable $1 on-page overlay"
+  },
+  "optionsOverlaysDescription": {
+    "message": "Show the collapsible usage capsule next to the message composer."
+  },
+  "optionsOverlaysTitle": {
+    "message": "On-page overlays"
+  },
+  "optionsPercentageDescription": {
+    "message": "Show how much of each limit is used or left."
+  },
+  "optionsPercentageRemaining": {
+    "message": "Remaining"
+  },
+  "optionsPercentageTitle": {
+    "message": "Limit display"
+  },
+  "optionsPercentageUsed": {
+    "message": "Used"
+  },
+  "optionsProviderDetails": {
+    "message": "$1 of $2 details"
+  },
+  "optionsProviderDetailsLegend": {
+    "message": "$1 usage details"
+  },
+  "optionsProviderHidden": {
+    "message": "Hidden in popup"
+  },
+  "optionsProviderToggleLabel": {
+    "message": "Show $1 in popup"
+  },
+  "optionsProvidersDescription": {
+    "message": "Hide a card or choose the usage details it can display. Unavailable data stays hidden automatically."
+  },
+  "optionsProvidersShown": {
+    "message": "$1 of $2 shown"
+  },
+  "optionsProvidersTitle": {
+    "message": "Providers"
+  },
+  "optionsRefreshAuto": {
+    "message": "Automatic"
+  },
+  "optionsRefreshDescription": {
+    "message": "Choose automatic or manual updates."
+  },
+  "optionsRefreshInterval": {
+    "message": "Interval (minutes, minimum 1)"
+  },
+  "optionsRefreshManual": {
+    "message": "Only on Refresh"
+  },
+  "optionsRefreshTitle": {
+    "message": "Usage refresh"
+  },
+  "optionsResetAction": {
+    "message": "Reset defaults"
+  },
+  "optionsResetConfirm": {
+    "message": "Click again to confirm"
+  },
+  "optionsResetDescription": {
+    "message": "Restores every preference on this page. This cannot be undone."
+  },
+  "optionsResetTitle": {
+    "message": "Reset to defaults"
+  },
+  "optionsSaveError": {
+    "message": "Could not save"
+  },
+  "optionsSaved": {
+    "message": "All changes saved"
+  },
+  "optionsSaving": {
+    "message": "Saving…"
+  },
+  "optionsSkip": {
+    "message": "Skip to settings"
+  },
+  "optionsTitle": {
+    "message": "AI Usage Tracker settings"
+  },
+  "percentageRemaining": {
+    "message": "$1% left"
+  },
+  "planLabel": {
+    "message": "Plan · $1"
+  },
+  "planUsage": {
+    "message": "Plan usage"
+  },
+  "popupTitle": {
+    "message": "Usage"
+  },
+  "refreshErrorPrefix": {
+    "message": "Couldn’t refresh"
+  },
+  "refreshFailed": {
+    "message": "Refresh failed"
+  },
+  "refreshUsage": {
+    "message": "Refresh usage"
+  },
+  "refreshUsageLimits": {
+    "message": "Refresh usage limits"
+  },
+  "refreshing": {
+    "message": "refreshing..."
+  },
+  "reportCancel": {
+    "message": "Cancel"
+  },
+  "reportDescription": {
+    "message": "Describe what went wrong. The report goes straight to the maintainers."
+  },
+  "reportFailed": {
+    "message": "Could not send the report."
+  },
+  "reportOnGithub": {
+    "message": "Open a GitHub issue"
+  },
+  "reportPlaceholder": {
+    "message": "What happened? Which provider is affected?"
+  },
+  "reportPrivacy": {
+    "message": "Sends your message with the extension version, language, and which provider cards are enabled."
+  },
+  "reportProblem": {
+    "message": "Report a problem"
+  },
+  "reportSend": {
+    "message": "Send"
+  },
+  "reportSending": {
+    "message": "Sending…"
+  },
+  "reportSent": {
+    "message": "Thanks! Your report was sent."
+  },
+  "reportTitle": {
+    "message": "Report a problem"
+  },
+  "resetsLabel": {
+    "message": "resets $1"
+  },
+  "sessionExpired": {
+    "message": "session expired"
+  },
+  "sessionLimit": {
+    "message": "Session · 5h"
+  },
+  "showLimits": {
+    "message": "Show limits"
+  },
+  "sourceCode": {
+    "message": "Source code"
+  },
+  "timeAgo": {
+    "message": "$1 ago"
+  },
+  "timeDayShort": {
+    "message": "d"
+  },
+  "timeHourShort": {
+    "message": "h"
+  },
+  "timeJustNow": {
+    "message": "just now"
+  },
+  "timeMinuteShort": {
+    "message": "m"
+  },
+  "timeNow": {
+    "message": "now"
+  },
+  "timeUnknown": {
+    "message": "unknown"
+  },
+  "tokenPlan": {
+    "message": "Token plan"
+  },
+  "updated": {
+    "message": "updated $1"
+  },
+  "waitingForSnapshot": {
+    "message": "waiting for snapshot"
+  },
+  "weeklyLimit": {
+    "message": "Weekly · 7d"
+  },
+  "welcomeCta": {
+    "message": "Get started"
+  },
+  "welcomeCtaHint": {
+    "message": "You can unpin it later from Chrome."
+  },
+  "welcomeStepOpen": {
+    "message": "Click the pinned icon to see your usage"
+  },
+  "welcomeStepPin": {
+    "message": "Click the extensions icon {icon} in the toolbar, then pin AI Usage Tracker"
+  },
+  "welcomeSubtitle": {
+    "message": "Keep your limits one click away — the popup opens straight from the browser toolbar."
+  },
+  "welcomeTitle": {
+    "message": "Pin AI Usage Tracker"
+  },
+  "optionsMetricCredits": {
+    "message": "Credits"
+  },
+  "optionsMetricModelStatus": {
+    "message": "Model availability"
+  },
+  "optionsMetricQuotaStatus": {
+    "message": "Quota status"
+  },
+  "optionsMetricCodeReview": {
+    "message": "Code review quota"
+  },
+  "optionsMetricSubscriptionTotal": {
+    "message": "Subscription total"
+  },
+  "selectedMetricsUnavailable": {
+    "message": "No data for the selected items yet."
+  },
+  "noMetricsSelected": {
+    "message": "No display items selected."
+  },
+  "chatgptProviderTitle": {
+    "message": "ChatGPT chat"
+  },
+  "emptyChatGPT": {
+    "message": "Open a new chat while signed in at chatgpt.com to read chat limits."
+  },
+  "optionsMetricChatModels": {
+    "message": "Model limit status"
+  },
+  "optionsMetricChatFeatures": {
+    "message": "Feature uses remaining"
+  }
+}

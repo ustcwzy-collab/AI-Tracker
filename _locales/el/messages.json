@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Παρακολουθήστε τα όρια συνεδρίας και εβδομάδας για Claude και ChatGPT (Codex) σε αναδυόμενο παράθυρο και επικάλυψη."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: όρια Claude και Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Διαθέσιμες επαναφορές · $1"
+   },
+   "emptyClaude": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το claude.ai συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyCodex": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το chatgpt.com συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyCursor": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το cursor.com συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyGlm": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το z.ai συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyKimi": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το kimi.com/code συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyMiMo": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το platform.xiaomimimo.com συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyMiniMax": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το platform.minimax.io συνδεδεμένοι και ανανεώστε."
+   },
+   "emptyOverlay": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το αναδυόμενο παράθυρο και ανανεώστε."
+   },
+   "emptyQwen": {
+      "message": "Δεν υπάρχουν δεδομένα. Ανοίξτε το qwencloud.com συνδεδεμένοι και ανανεώστε."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Απόκρυψη ορίων"
+   },
+   "loadingSnapshot": {
+      "message": "φόρτωση"
+   },
+   "manualRefreshHint": {
+      "message": "Η αυτόματη ανανέωση είναι απενεργοποιημένη. Πατήστε Ανανέωση για να φορτωθεί η χρήση."
+   },
+   "nextResetLabel": {
+      "message": "επαναφορά σε $1"
+   },
+   "notConnected": {
+      "message": "χωρίς σύνδεση"
+   },
+   "optionsBadgeDescription": {
+      "message": "Το εικονίδιο αλλάζει ανά 10% βάσει αυτής της πηγής."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Ο πάροχος είναι κρυμμένος στο αναδυόμενο, αλλά το εύρος του εικονιδίου παραμένει ενεργό."
+   },
+   "optionsBadgeHighest": {
+      "message": "Υψηλότερο των ορατών παρόχων"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Χρήση του μεγαλύτερου τρέχοντος ποσοστού από τις εμφανιζόμενες κάρτες."
+   },
+   "optionsBadgeProvider": {
+      "message": "Πάροχος"
+   },
+   "optionsBadgeSelected": {
+      "message": "Επιλεγμένος πάροχος"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Χρήση ενός παρόχου ανεξάρτητα από την ορατότητα των άλλων καρτών."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Πηγή εικονιδίου"
+   },
+   "optionsBadgeSteps": {
+      "message": "Βήματα εικονιδίου"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "στρογγυλοποίηση προς τα κάτω στο 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Εύρος εικονιδίου"
+   },
+   "optionsBadgeWindow": {
+      "message": "Παράθυρο χρήσης"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Συνεδρία"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Εβδομάδα"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Προαιρετικό. Χρησιμοποιήστε το αν αυτό το πρόγραμμα περιήγησης δεν είναι συνδεδεμένο στο z.ai ή για λογαριασμούς BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Κλειδί API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Γλώσσα προγράμματος περιήγησης"
+   },
+   "optionsLanguageDescription": {
+      "message": "Επιλέξτε τη γλώσσα για το αναδυόμενο, τη σελίδα και τις επικαλύψεις."
+   },
+   "optionsLanguageHint": {
+      "message": "Η αλλαγή γλώσσας φορτώνει ξανά τη σελίδα."
+   },
+   "optionsLanguageTitle": {
+      "message": "Γλώσσα"
+   },
+   "optionsLayoutDescription": {
+      "message": "Επιλέξτε πώς διατάσσονται οι ορατές κάρτες παρόχων."
+   },
+   "optionsLayoutGrid": {
+      "message": "Δύο στήλες"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Συμπαγής εικόνα με δύο κάρτες ανά σειρά."
+   },
+   "optionsLayoutSingle": {
+      "message": "Μία στήλη"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Κάρτα πλήρους πλάτους για κάθε πάροχο."
+   },
+   "optionsLayoutTitle": {
+      "message": "Διάταξη αναδυόμενου"
+   },
+   "optionsLoading": {
+      "message": "Φόρτωση ρυθμίσεων…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Διαθέσιμες επαναφορές"
+   },
+   "optionsMetricBalance": {
+      "message": "Υπόλοιπο"
+   },
+   "optionsMetricModels": {
+      "message": "Ανάλυση κατά μοντέλο"
+   },
+   "optionsMetricPlan": {
+      "message": "Πλάνο"
+   },
+   "optionsMetricReset": {
+      "message": "Ώρα επαναφοράς"
+   },
+   "optionsMetricSession": {
+      "message": "Χρήση συνεδρίας"
+   },
+   "optionsMetricSummary": {
+      "message": "Υπόλοιπο / σύνοψη"
+   },
+   "optionsMetricWeekly": {
+      "message": "Εβδομαδιαία χρήση"
+   },
+   "optionsNavBadge": {
+      "message": "Εικονίδιο γραμμής"
+   },
+   "optionsNavLabel": {
+      "message": "Ενότητες ρυθμίσεων"
+   },
+   "optionsNavLayout": {
+      "message": "Διάταξη"
+   },
+   "optionsNavOverlays": {
+      "message": "Επικαλύψεις στη σελίδα"
+   },
+   "optionsNavProviders": {
+      "message": "Πάροχοι"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Ενεργοποίηση επικάλυψης $1 στη σελίδα"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Εμφάνιση της αναδιπλούμενης κάψουλας χρήσης δίπλα στο πεδίο μηνύματος."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Επικαλύψεις στη σελίδα"
+   },
+   "optionsPercentageDescription": {
+      "message": "Εμφανίστε πόσο από κάθε όριο έχει χρησιμοποιηθεί ή απομένει."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Υπόλοιπο"
+   },
+   "optionsPercentageTitle": {
+      "message": "Εμφάνιση ορίων"
+   },
+   "optionsPercentageUsed": {
+      "message": "Χρησιμοποιημένο"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 από $2 στοιχεία"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Στοιχεία χρήσης $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Κρυφό στο αναδυόμενο"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Εμφάνιση $1 στο αναδυόμενο"
+   },
+   "optionsProvidersDescription": {
+      "message": "Κρύψτε μια κάρτα ή επιλέξτε ποια στοιχεία δείχνει. Τα μη διαθέσιμα δεδομένα κρύβονται αυτόματα."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 από $2 εμφανίζονται"
+   },
+   "optionsProvidersTitle": {
+      "message": "Πάροχοι"
+   },
+   "optionsRefreshAuto": {
+      "message": "Αυτόματα"
+   },
+   "optionsRefreshDescription": {
+      "message": "Επιλέξτε αυτόματη ή μη αυτόματη ανανέωση."
+   },
+   "optionsRefreshInterval": {
+      "message": "Διάστημα (λεπτά, τουλάχιστον 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Μόνο με το κουμπί Ανανέωση"
+   },
+   "optionsRefreshTitle": {
+      "message": "Ανανέωση χρήσης"
+   },
+   "optionsResetAction": {
+      "message": "Επαναφορά"
+   },
+   "optionsResetConfirm": {
+      "message": "Κάντε κλικ ξανά για επιβεβαίωση"
+   },
+   "optionsResetDescription": {
+      "message": "Επαναφέρει όλες τις προτιμήσεις αυτής της σελίδας. Δεν αναστρέφεται."
+   },
+   "optionsResetTitle": {
+      "message": "Επαναφορά προεπιλογών"
+   },
+   "optionsSaveError": {
+      "message": "Αποτυχία αποθήκευσης"
+   },
+   "optionsSaved": {
+      "message": "Όλες οι αλλαγές αποθηκεύτηκαν"
+   },
+   "optionsSaving": {
+      "message": "Αποθήκευση…"
+   },
+   "optionsSkip": {
+      "message": "Μετάβαση στις ρυθμίσεις"
+   },
+   "optionsTitle": {
+      "message": "Ρυθμίσεις AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% απομένει"
+   },
+   "planLabel": {
+      "message": "Πλάνο · $1"
+   },
+   "planUsage": {
+      "message": "Χρήση πλάνου"
+   },
+   "popupTitle": {
+      "message": "Χρήση"
+   },
+   "refreshErrorPrefix": {
+      "message": "Αποτυχία ανανέωσης"
+   },
+   "refreshFailed": {
+      "message": "Η ανανέωση απέτυχε"
+   },
+   "refreshUsage": {
+      "message": "Ανανέωση χρήσης"
+   },
+   "refreshUsageLimits": {
+      "message": "Ανανέωση ορίων"
+   },
+   "refreshing": {
+      "message": "ανανέωση..."
+   },
+   "reportCancel": {
+      "message": "Άκυρο"
+   },
+   "reportDescription": {
+      "message": "Περιγράψτε τι πήγε στραβά. Η αναφορά πηγαίνει απευθείας στους προγραμματιστές."
+   },
+   "reportFailed": {
+      "message": "Δεν ήταν δυνατή η αποστολή της αναφοράς."
+   },
+   "reportOnGithub": {
+      "message": "Άνοιγμα issue στο GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Τι συνέβη; Ποιος πάροχος επηρεάζεται;"
+   },
+   "reportPrivacy": {
+      "message": "Στέλνει το μήνυμά σας μαζί με την έκδοση της επέκτασης, τη γλώσσα και τις ενεργές κάρτες παρόχων."
+   },
+   "reportProblem": {
+      "message": "Αναφορά προβλήματος"
+   },
+   "reportSend": {
+      "message": "Αποστολή"
+   },
+   "reportSending": {
+      "message": "Αποστολή…"
+   },
+   "reportSent": {
+      "message": "Ευχαριστούμε! Η αναφορά στάλθηκε."
+   },
+   "reportTitle": {
+      "message": "Αναφορά προβλήματος"
+   },
+   "resetsLabel": {
+      "message": "επαναφορά σε $1"
+   },
+   "sessionExpired": {
+      "message": "η συνεδρία έληξε"
+   },
+   "sessionLimit": {
+      "message": "Συνεδρία · 5 ώ"
+   },
+   "showLimits": {
+      "message": "Εμφάνιση ορίων"
+   },
+   "sourceCode": {
+      "message": "Πηγαίος κώδικας"
+   },
+   "timeAgo": {
+      "message": "$1 πριν"
+   },
+   "timeDayShort": {
+      "message": "ημ"
+   },
+   "timeHourShort": {
+      "message": "ώ"
+   },
+   "timeJustNow": {
+      "message": "μόλις τώρα"
+   },
+   "timeMinuteShort": {
+      "message": "λ"
+   },
+   "timeNow": {
+      "message": "τώρα"
+   },
+   "timeUnknown": {
+      "message": "άγνωστο"
+   },
+   "tokenPlan": {
+      "message": "Πλάνο tokens"
+   },
+   "updated": {
+      "message": "ενημερώθηκε $1"
+   },
+   "waitingForSnapshot": {
+      "message": "αναμονή δεδομένων"
+   },
+   "weeklyLimit": {
+      "message": "Εβδομάδα · 7 ημ"
+   },
+   "welcomeCta": {
+      "message": "Ξεκινήστε"
+   },
+   "welcomeCtaHint": {
+      "message": "Μπορείτε να το ξεκαρφιτσώσετε αργότερα από το Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Κάντε κλικ στο καρφιτσωμένο εικονίδιο για να δείτε τη χρήση σας"
+   },
+   "welcomeStepPin": {
+      "message": "Κάντε κλικ στο εικονίδιο επεκτάσεων {icon} στη γραμμή και καρφιτσώστε το AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Κρατήστε τα όριά σας ένα κλικ μακριά — το παράθυρο ανοίγει απευθείας από τη γραμμή εργαλείων."
+   },
+   "welcomeTitle": {
+      "message": "Καρφιτσώστε το AI Usage Tracker"
+   }
+}

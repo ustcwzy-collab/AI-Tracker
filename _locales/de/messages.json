@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Verfolge Claude- und ChatGPT-(Codex)-Limits pro Sitzung und Woche in Popup, Badge und Overlay. Privat, ohne Einrichtung."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude- & Codex-Limits"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Verfügbare Resets · $1"
+   },
+   "emptyClaude": {
+      "message": "Noch keine Daten. Öffne claude.ai angemeldet und aktualisiere."
+   },
+   "emptyCodex": {
+      "message": "Noch keine Daten. Öffne chatgpt.com angemeldet und aktualisiere."
+   },
+   "emptyCursor": {
+      "message": "Noch keine Daten. Öffne cursor.com angemeldet und aktualisiere."
+   },
+   "emptyGlm": {
+      "message": "Noch keine Daten. Öffne z.ai angemeldet und aktualisiere."
+   },
+   "emptyKimi": {
+      "message": "Noch keine Daten. Öffne kimi.com/code angemeldet und aktualisiere."
+   },
+   "emptyMiMo": {
+      "message": "Noch keine Daten. Öffne platform.xiaomimimo.com angemeldet und aktualisiere."
+   },
+   "emptyMiniMax": {
+      "message": "Noch keine Daten. Öffne platform.minimax.io angemeldet und aktualisiere."
+   },
+   "emptyOverlay": {
+      "message": "Noch keine Daten. Öffne das Popup und aktualisiere."
+   },
+   "emptyQwen": {
+      "message": "Noch keine Daten. Öffne qwencloud.com angemeldet und aktualisiere."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Limits ausblenden"
+   },
+   "loadingSnapshot": {
+      "message": "Daten werden geladen"
+   },
+   "manualRefreshHint": {
+      "message": "Automatische Aktualisierung ist aus. Auf Aktualisieren klicken, um die Nutzung zu laden."
+   },
+   "nextResetLabel": {
+      "message": "Reset $1"
+   },
+   "notConnected": {
+      "message": "nicht verbunden"
+   },
+   "optionsBadgeDescription": {
+      "message": "Das Symbol der Erweiterung wechselt in 10-%-Schritten auf Basis dieser Quelle."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Dieser Anbieter ist im Popup ausgeblendet, sein Symbolbereich bleibt aber aktiv."
+   },
+   "optionsBadgeHighest": {
+      "message": "Höchster Wert sichtbarer Anbieter"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Nutzt den höchsten aktuellen Prozentwert der angezeigten Karten."
+   },
+   "optionsBadgeProvider": {
+      "message": "Anbieter"
+   },
+   "optionsBadgeSelected": {
+      "message": "Ausgewählter Anbieter"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Nutzt einen Anbieter, unabhängig von der Sichtbarkeit anderer Karten."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Quelle des Symbols"
+   },
+   "optionsBadgeSteps": {
+      "message": "Symbolstufen"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "auf volle 10 % abgerundet"
+   },
+   "optionsBadgeTitle": {
+      "message": "Symbolbereich"
+   },
+   "optionsBadgeWindow": {
+      "message": "Nutzungsfenster"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sitzung"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Woche"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Optional. Nutze ihn, wenn dieser Browser nicht bei z.ai angemeldet ist, oder für BigModel-Konten."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM-API-Schlüssel"
+   },
+   "optionsLanguageAuto": {
+      "message": "Browsersprache"
+   },
+   "optionsLanguageDescription": {
+      "message": "Sprache für das Popup, diese Seite und die Overlays auf den Seiten wählen."
+   },
+   "optionsLanguageHint": {
+      "message": "Beim Sprachwechsel wird diese Seite neu geladen."
+   },
+   "optionsLanguageTitle": {
+      "message": "Sprache"
+   },
+   "optionsLayoutDescription": {
+      "message": "Lege fest, wie sichtbare Anbieterkarten im Popup angeordnet werden."
+   },
+   "optionsLayoutGrid": {
+      "message": "Zwei Spalten"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompakte Übersicht mit zwei Karten pro Zeile."
+   },
+   "optionsLayoutSingle": {
+      "message": "Eine Spalte"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Eine Karte über die volle Breite pro Anbieter."
+   },
+   "optionsLayoutTitle": {
+      "message": "Popup-Layout"
+   },
+   "optionsLoading": {
+      "message": "Einstellungen werden geladen…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Verfügbare Zurücksetzungen"
+   },
+   "optionsMetricBalance": {
+      "message": "Guthaben"
+   },
+   "optionsMetricModels": {
+      "message": "Aufschlüsselung nach Modell"
+   },
+   "optionsMetricPlan": {
+      "message": "Tarif"
+   },
+   "optionsMetricReset": {
+      "message": "Zurücksetzung"
+   },
+   "optionsMetricSession": {
+      "message": "Sitzungsnutzung"
+   },
+   "optionsMetricSummary": {
+      "message": "Guthaben / Übersicht"
+   },
+   "optionsMetricWeekly": {
+      "message": "Wochennutzung"
+   },
+   "optionsNavBadge": {
+      "message": "Symbol in der Leiste"
+   },
+   "optionsNavLabel": {
+      "message": "Einstellungsbereiche"
+   },
+   "optionsNavLayout": {
+      "message": "Layout"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlays auf der Seite"
+   },
+   "optionsNavProviders": {
+      "message": "Anbieter"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1-Overlay auf der Seite aktivieren"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Zeigt die einklappbare Nutzungskapsel neben dem Eingabefeld."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlays auf der Seite"
+   },
+   "optionsPercentageDescription": {
+      "message": "Zeigen, wie viel von jedem Limit genutzt oder übrig ist."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Verbleibend"
+   },
+   "optionsPercentageTitle": {
+      "message": "Limitanzeige"
+   },
+   "optionsPercentageUsed": {
+      "message": "Genutzt"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 von $2 Details"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Nutzungsdetails von $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Im Popup ausgeblendet"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "$1 im Popup anzeigen"
+   },
+   "optionsProvidersDescription": {
+      "message": "Blende eine Karte aus oder wähle, welche Nutzungsdetails sie zeigen darf. Nicht verfügbare Daten bleiben automatisch ausgeblendet."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 von $2 sichtbar"
+   },
+   "optionsProvidersTitle": {
+      "message": "Anbieter"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatisch"
+   },
+   "optionsRefreshDescription": {
+      "message": "Automatische oder manuelle Aktualisierung wählen."
+   },
+   "optionsRefreshInterval": {
+      "message": "Intervall (Minuten, mindestens 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Nur über Aktualisieren"
+   },
+   "optionsRefreshTitle": {
+      "message": "Nutzungsdaten aktualisieren"
+   },
+   "optionsResetAction": {
+      "message": "Zurücksetzen"
+   },
+   "optionsResetConfirm": {
+      "message": "Zum Bestätigen erneut klicken"
+   },
+   "optionsResetDescription": {
+      "message": "Setzt alle Einstellungen dieser Seite zurück. Das lässt sich nicht rückgängig machen."
+   },
+   "optionsResetTitle": {
+      "message": "Auf Standard zurücksetzen"
+   },
+   "optionsSaveError": {
+      "message": "Speichern fehlgeschlagen"
+   },
+   "optionsSaved": {
+      "message": "Alle Änderungen gespeichert"
+   },
+   "optionsSaving": {
+      "message": "Wird gespeichert…"
+   },
+   "optionsSkip": {
+      "message": "Zu den Einstellungen"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker – Einstellungen"
+   },
+   "percentageRemaining": {
+      "message": "$1% übrig"
+   },
+   "planLabel": {
+      "message": "Plan · $1"
+   },
+   "planUsage": {
+      "message": "Tarifnutzung"
+   },
+   "popupTitle": {
+      "message": "Nutzung"
+   },
+   "refreshErrorPrefix": {
+      "message": "Aktualisierung fehlgeschlagen"
+   },
+   "refreshFailed": {
+      "message": "Aktualisierung fehlgeschlagen"
+   },
+   "refreshUsage": {
+      "message": "Nutzung aktualisieren"
+   },
+   "refreshUsageLimits": {
+      "message": "Limits aktualisieren"
+   },
+   "refreshing": {
+      "message": "aktualisiere..."
+   },
+   "reportCancel": {
+      "message": "Abbrechen"
+   },
+   "reportDescription": {
+      "message": "Beschreibe, was schiefgelaufen ist. Die Meldung geht direkt an die Entwickler."
+   },
+   "reportFailed": {
+      "message": "Meldung konnte nicht gesendet werden."
+   },
+   "reportOnGithub": {
+      "message": "GitHub-Issue öffnen"
+   },
+   "reportPlaceholder": {
+      "message": "Was ist passiert? Welcher Anbieter ist betroffen?"
+   },
+   "reportPrivacy": {
+      "message": "Sendet deine Nachricht mit Erweiterungsversion, Sprache und den aktivierten Anbieterkarten."
+   },
+   "reportProblem": {
+      "message": "Problem melden"
+   },
+   "reportSend": {
+      "message": "Senden"
+   },
+   "reportSending": {
+      "message": "Wird gesendet…"
+   },
+   "reportSent": {
+      "message": "Danke! Deine Meldung wurde gesendet."
+   },
+   "reportTitle": {
+      "message": "Problem melden"
+   },
+   "resetsLabel": {
+      "message": "Reset $1"
+   },
+   "sessionExpired": {
+      "message": "Sitzung abgelaufen"
+   },
+   "sessionLimit": {
+      "message": "Sitzung · 5 h"
+   },
+   "showLimits": {
+      "message": "Limits anzeigen"
+   },
+   "sourceCode": {
+      "message": "Quellcode"
+   },
+   "timeAgo": {
+      "message": "vor $1"
+   },
+   "timeDayShort": {
+      "message": "T"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "gerade eben"
+   },
+   "timeMinuteShort": {
+      "message": "min"
+   },
+   "timeNow": {
+      "message": "jetzt"
+   },
+   "timeUnknown": {
+      "message": "unbekannt"
+   },
+   "tokenPlan": {
+      "message": "Token-Tarif"
+   },
+   "updated": {
+      "message": "aktualisiert $1"
+   },
+   "waitingForSnapshot": {
+      "message": "warte auf Daten"
+   },
+   "weeklyLimit": {
+      "message": "Woche · 7 T"
+   },
+   "welcomeCta": {
+      "message": "Los geht’s"
+   },
+   "welcomeCtaHint": {
+      "message": "Du kannst es später in Chrome wieder lösen."
+   },
+   "welcomeStepOpen": {
+      "message": "Klicke auf das angeheftete Symbol, um deine Nutzung zu sehen"
+   },
+   "welcomeStepPin": {
+      "message": "Klicke auf das Erweiterungssymbol {icon} in der Symbolleiste und hefte AI Usage Tracker an"
+   },
+   "welcomeSubtitle": {
+      "message": "Halte deine Limits einen Klick entfernt — das Popup öffnet sich direkt aus der Symbolleiste."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker anheften"
+   }
+}

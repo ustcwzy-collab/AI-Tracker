@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Sledujte limity relace a týdne u Claude a ChatGPT (Codex) v popupu i v překryvu na stránce. Bez nastavování."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: limity Claude a Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Dostupné resety · $1"
+   },
+   "emptyClaude": {
+      "message": "Zatím žádná data. Otevřete claude.ai přihlášeni a obnovte."
+   },
+   "emptyCodex": {
+      "message": "Zatím žádná data. Otevřete chatgpt.com přihlášeni a obnovte."
+   },
+   "emptyCursor": {
+      "message": "Zatím žádná data. Otevřete cursor.com přihlášeni a obnovte."
+   },
+   "emptyGlm": {
+      "message": "Zatím žádná data. Otevřete z.ai přihlášeni a obnovte."
+   },
+   "emptyKimi": {
+      "message": "Zatím žádná data. Otevřete kimi.com/code přihlášeni a obnovte."
+   },
+   "emptyMiMo": {
+      "message": "Zatím žádná data. Otevřete platform.xiaomimimo.com přihlášeni a obnovte."
+   },
+   "emptyMiniMax": {
+      "message": "Zatím žádná data. Otevřete platform.minimax.io přihlášeni a obnovte."
+   },
+   "emptyOverlay": {
+      "message": "Zatím žádná data. Otevřete popup a obnovte."
+   },
+   "emptyQwen": {
+      "message": "Zatím žádná data. Otevřete qwencloud.com přihlášeni a obnovte."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Skrýt limity"
+   },
+   "loadingSnapshot": {
+      "message": "načítání"
+   },
+   "manualRefreshHint": {
+      "message": "Automatické obnovení je vypnuté. Využití načtete tlačítkem Obnovit."
+   },
+   "nextResetLabel": {
+      "message": "reset za $1"
+   },
+   "notConnected": {
+      "message": "nepřipojeno"
+   },
+   "optionsBadgeDescription": {
+      "message": "Ikona rozšíření se mění po 10 % podle tohoto zdroje."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Tento poskytovatel je v popupu skrytý, ale jeho rozsah ikony zůstává aktivní."
+   },
+   "optionsBadgeHighest": {
+      "message": "Nejvyšší z viditelných poskytovatelů"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Použít nejvyšší aktuální procento mezi zobrazenými kartami."
+   },
+   "optionsBadgeProvider": {
+      "message": "Poskytovatel"
+   },
+   "optionsBadgeSelected": {
+      "message": "Vybraný poskytovatel"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Použít jednoho poskytovatele bez ohledu na viditelnost ostatních karet."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Zdroj ikony"
+   },
+   "optionsBadgeSteps": {
+      "message": "Stupně ikony na liště"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "zaokrouhleno dolů na 10 %"
+   },
+   "optionsBadgeTitle": {
+      "message": "Rozsah ikony"
+   },
+   "optionsBadgeWindow": {
+      "message": "Okno využití"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Relace"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Týden"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Volitelné. Použijte, když tento prohlížeč není přihlášen k z.ai, nebo pro účty BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "API klíč GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Jazyk prohlížeče"
+   },
+   "optionsLanguageDescription": {
+      "message": "Vyberte jazyk popupu, této stránky a překryvů na stránkách."
+   },
+   "optionsLanguageHint": {
+      "message": "Změna jazyka znovu načte tuto stránku."
+   },
+   "optionsLanguageTitle": {
+      "message": "Jazyk"
+   },
+   "optionsLayoutDescription": {
+      "message": "Vyberte, jak uspořádat viditelné karty poskytovatelů v popupu."
+   },
+   "optionsLayoutGrid": {
+      "message": "Dva sloupce"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompaktní přehled se dvěma kartami v řádku."
+   },
+   "optionsLayoutSingle": {
+      "message": "Jeden sloupec"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Karta přes celou šířku pro každého poskytovatele."
+   },
+   "optionsLayoutTitle": {
+      "message": "Rozvržení popupu"
+   },
+   "optionsLoading": {
+      "message": "Načítání nastavení…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Dostupné resety"
+   },
+   "optionsMetricBalance": {
+      "message": "Zůstatek"
+   },
+   "optionsMetricModels": {
+      "message": "Rozpad podle modelů"
+   },
+   "optionsMetricPlan": {
+      "message": "Tarif"
+   },
+   "optionsMetricReset": {
+      "message": "Čas resetu"
+   },
+   "optionsMetricSession": {
+      "message": "Využití relace"
+   },
+   "optionsMetricSummary": {
+      "message": "Zůstatek / souhrn"
+   },
+   "optionsMetricWeekly": {
+      "message": "Týdenní využití"
+   },
+   "optionsNavBadge": {
+      "message": "Ikona na liště"
+   },
+   "optionsNavLabel": {
+      "message": "Sekce nastavení"
+   },
+   "optionsNavLayout": {
+      "message": "Rozvržení"
+   },
+   "optionsNavOverlays": {
+      "message": "Překryvy na stránce"
+   },
+   "optionsNavProviders": {
+      "message": "Poskytovatelé"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Zapnout překryv $1 na stránce"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Zobrazit sbalitelnou kapsli s využitím vedle pole zprávy."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Překryvy na stránce"
+   },
+   "optionsPercentageDescription": {
+      "message": "Zobrazte, kolik z každého limitu je využito nebo zbývá."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Zbývá"
+   },
+   "optionsPercentageTitle": {
+      "message": "Zobrazení limitů"
+   },
+   "optionsPercentageUsed": {
+      "message": "Využito"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 z $2 údajů"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Údaje o využití: $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Skryto v popupu"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Zobrazit $1 v popupu"
+   },
+   "optionsProvidersDescription": {
+      "message": "Skryjte kartu nebo vyberte, jaké údaje zobrazuje. Nedostupná data se skryjí automaticky."
+   },
+   "optionsProvidersShown": {
+      "message": "zobrazeno $1 z $2"
+   },
+   "optionsProvidersTitle": {
+      "message": "Poskytovatelé"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automaticky"
+   },
+   "optionsRefreshDescription": {
+      "message": "Vyberte automatické nebo ruční obnovení."
+   },
+   "optionsRefreshInterval": {
+      "message": "Interval (minuty, nejméně 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Pouze tlačítkem Obnovit"
+   },
+   "optionsRefreshTitle": {
+      "message": "Obnovení využití"
+   },
+   "optionsResetAction": {
+      "message": "Obnovit výchozí"
+   },
+   "optionsResetConfirm": {
+      "message": "Potvrďte dalším kliknutím"
+   },
+   "optionsResetDescription": {
+      "message": "Obnoví všechna nastavení na této stránce. Akci nelze vrátit zpět."
+   },
+   "optionsResetTitle": {
+      "message": "Obnovit výchozí"
+   },
+   "optionsSaveError": {
+      "message": "Nelze uložit"
+   },
+   "optionsSaved": {
+      "message": "Všechny změny uloženy"
+   },
+   "optionsSaving": {
+      "message": "Ukládání…"
+   },
+   "optionsSkip": {
+      "message": "Přejít na nastavení"
+   },
+   "optionsTitle": {
+      "message": "Nastavení AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% zbývá"
+   },
+   "planLabel": {
+      "message": "Tarif · $1"
+   },
+   "planUsage": {
+      "message": "Využití tarifu"
+   },
+   "popupTitle": {
+      "message": "Využití"
+   },
+   "refreshErrorPrefix": {
+      "message": "Nepodařilo se obnovit"
+   },
+   "refreshFailed": {
+      "message": "Obnovení selhalo"
+   },
+   "refreshUsage": {
+      "message": "Obnovit využití"
+   },
+   "refreshUsageLimits": {
+      "message": "Obnovit limity"
+   },
+   "refreshing": {
+      "message": "obnovování..."
+   },
+   "reportCancel": {
+      "message": "Zrušit"
+   },
+   "reportDescription": {
+      "message": "Popište, co se pokazilo. Hlášení míří přímo vývojářům."
+   },
+   "reportFailed": {
+      "message": "Hlášení se nepodařilo odeslat."
+   },
+   "reportOnGithub": {
+      "message": "Otevřít issue na GitHubu"
+   },
+   "reportPlaceholder": {
+      "message": "Co se stalo? Kterého poskytovatele se to týká?"
+   },
+   "reportPrivacy": {
+      "message": "Odešle vaši zprávu spolu s verzí rozšíření, jazykem a zapnutými kartami poskytovatelů."
+   },
+   "reportProblem": {
+      "message": "Nahlásit problém"
+   },
+   "reportSend": {
+      "message": "Odeslat"
+   },
+   "reportSending": {
+      "message": "Odesílání…"
+   },
+   "reportSent": {
+      "message": "Díky! Hlášení bylo odesláno."
+   },
+   "reportTitle": {
+      "message": "Nahlásit problém"
+   },
+   "resetsLabel": {
+      "message": "reset za $1"
+   },
+   "sessionExpired": {
+      "message": "relace vypršela"
+   },
+   "sessionLimit": {
+      "message": "Relace · 5 h"
+   },
+   "showLimits": {
+      "message": "Zobrazit limity"
+   },
+   "sourceCode": {
+      "message": "Zdrojový kód"
+   },
+   "timeAgo": {
+      "message": "před $1"
+   },
+   "timeDayShort": {
+      "message": "d"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "právě teď"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "teď"
+   },
+   "timeUnknown": {
+      "message": "neznámé"
+   },
+   "tokenPlan": {
+      "message": "Tokenový tarif"
+   },
+   "updated": {
+      "message": "aktualizováno $1"
+   },
+   "waitingForSnapshot": {
+      "message": "čekání na data"
+   },
+   "weeklyLimit": {
+      "message": "Týden · 7 d"
+   },
+   "welcomeCta": {
+      "message": "Začít"
+   },
+   "welcomeCtaHint": {
+      "message": "Později ho můžete v Chromu odepnout."
+   },
+   "welcomeStepOpen": {
+      "message": "Kliknutím na připnutou ikonu zobrazíte své využití"
+   },
+   "welcomeStepPin": {
+      "message": "Klikněte na ikonu rozšíření {icon} na liště a připněte AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Mějte limity na jedno kliknutí — okno se otevře přímo z lišty prohlížeče."
+   },
+   "welcomeTitle": {
+      "message": "Připnout AI Usage Tracker"
+   }
+}

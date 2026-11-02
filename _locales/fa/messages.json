@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "محدودیت‌های نشست و هفتگی Claude و ChatGPT (Codex) را در پنجره بازشو و لایه روی صفحه دنبال کنید."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: محدودیت‌های Claude و Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "بازنشانی‌های موجود · $1"
+   },
+   "emptyClaude": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده claude.ai را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyCodex": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده chatgpt.com را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyCursor": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده cursor.com را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyGlm": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده z.ai را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyKimi": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده kimi.com/code را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyMiMo": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده platform.xiaomimimo.com را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyMiniMax": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده platform.minimax.io را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyOverlay": {
+      "message": "هنوز داده‌ای نیست. پنجره بازشو را باز کنید و به‌روزرسانی کنید."
+   },
+   "emptyQwen": {
+      "message": "هنوز داده‌ای نیست. با حساب واردشده qwencloud.com را باز کنید و به‌روزرسانی کنید."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "پنهان کردن محدودیت‌ها"
+   },
+   "loadingSnapshot": {
+      "message": "در حال بارگذاری"
+   },
+   "manualRefreshHint": {
+      "message": "تازه‌سازی خودکار خاموش است. برای بارگیری مصرف، تازه‌سازی را بزنید."
+   },
+   "nextResetLabel": {
+      "message": "بازنشانی تا $1"
+   },
+   "notConnected": {
+      "message": "متصل نیست"
+   },
+   "optionsBadgeDescription": {
+      "message": "نماد افزونه بر اساس این منبع در گام‌های ۱۰٪ تغییر می‌کند."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "این ارائه‌دهنده در پنجره بازشو پنهان است، اما بازه نماد آن فعال می‌ماند."
+   },
+   "optionsBadgeHighest": {
+      "message": "بیشترین بین ارائه‌دهندگان قابل مشاهده"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "بیشترین درصد فعلی میان کارت‌های نمایش‌داده‌شده استفاده شود."
+   },
+   "optionsBadgeProvider": {
+      "message": "ارائه‌دهنده"
+   },
+   "optionsBadgeSelected": {
+      "message": "ارائه‌دهنده انتخاب‌شده"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "یک ارائه‌دهنده بدون توجه به نمایش سایر کارت‌ها استفاده شود."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "منبع نماد"
+   },
+   "optionsBadgeSteps": {
+      "message": "گام‌های نماد"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "به پایین تا ۱۰٪ گرد می‌شود"
+   },
+   "optionsBadgeTitle": {
+      "message": "بازه نماد"
+   },
+   "optionsBadgeWindow": {
+      "message": "بازه مصرف"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "نشست"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "هفتگی"
+   },
+   "optionsGlmKeyHint": {
+      "message": "اختیاری. اگر در این مرورگر به z.ai وارد نشده‌اید یا برای حساب‌های BigModel از آن استفاده کنید."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "کلید API جی‌ال‌ام"
+   },
+   "optionsLanguageAuto": {
+      "message": "زبان مرورگر"
+   },
+   "optionsLanguageDescription": {
+      "message": "زبان پنجره بازشو، این صفحه و لایه‌های روی صفحه را انتخاب کنید."
+   },
+   "optionsLanguageHint": {
+      "message": "تغییر زبان این صفحه را دوباره بارگذاری می‌کند."
+   },
+   "optionsLanguageTitle": {
+      "message": "زبان"
+   },
+   "optionsLayoutDescription": {
+      "message": "انتخاب کنید کارت‌های قابل مشاهده چگونه چیده شوند."
+   },
+   "optionsLayoutGrid": {
+      "message": "دو ستون"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "نمای فشرده با دو کارت در هر ردیف."
+   },
+   "optionsLayoutSingle": {
+      "message": "یک ستون"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "یک کارت تمام‌عرض برای هر ارائه‌دهنده."
+   },
+   "optionsLayoutTitle": {
+      "message": "چیدمان پنجره بازشو"
+   },
+   "optionsLoading": {
+      "message": "در حال بارگذاری تنظیمات…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "بازنشانی‌های موجود"
+   },
+   "optionsMetricBalance": {
+      "message": "موجودی"
+   },
+   "optionsMetricModels": {
+      "message": "تفکیک بر اساس مدل"
+   },
+   "optionsMetricPlan": {
+      "message": "طرح"
+   },
+   "optionsMetricReset": {
+      "message": "زمان بازنشانی"
+   },
+   "optionsMetricSession": {
+      "message": "مصرف نشست"
+   },
+   "optionsMetricSummary": {
+      "message": "موجودی / خلاصه"
+   },
+   "optionsMetricWeekly": {
+      "message": "مصرف هفتگی"
+   },
+   "optionsNavBadge": {
+      "message": "نماد نوار ابزار"
+   },
+   "optionsNavLabel": {
+      "message": "بخش‌های تنظیمات"
+   },
+   "optionsNavLayout": {
+      "message": "چیدمان"
+   },
+   "optionsNavOverlays": {
+      "message": "لایه‌های روی صفحه"
+   },
+   "optionsNavProviders": {
+      "message": "ارائه‌دهندگان"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "فعال‌سازی لایه $1 روی صفحه"
+   },
+   "optionsOverlaysDescription": {
+      "message": "نمایش کپسول جمع‌شونده مصرف کنار کادر پیام."
+   },
+   "optionsOverlaysTitle": {
+      "message": "لایه‌های روی صفحه"
+   },
+   "optionsPercentageDescription": {
+      "message": "نشان دهید چه مقدار از هر محدودیت مصرف شده یا باقی مانده است."
+   },
+   "optionsPercentageRemaining": {
+      "message": "باقی‌مانده"
+   },
+   "optionsPercentageTitle": {
+      "message": "نمایش محدودیت‌ها"
+   },
+   "optionsPercentageUsed": {
+      "message": "استفاده‌شده"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 از $2 جزئیات"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "جزئیات مصرف $1"
+   },
+   "optionsProviderHidden": {
+      "message": "پنهان در پنجره بازشو"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "نمایش $1 در پنجره بازشو"
+   },
+   "optionsProvidersDescription": {
+      "message": "کارتی را پنهان کنید یا جزئیات نمایش آن را انتخاب کنید. داده‌های در دسترس نبودن خودکار پنهان می‌شوند."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 از $2 نمایش داده می‌شود"
+   },
+   "optionsProvidersTitle": {
+      "message": "ارائه‌دهندگان"
+   },
+   "optionsRefreshAuto": {
+      "message": "خودکار"
+   },
+   "optionsRefreshDescription": {
+      "message": "تازه‌سازی خودکار یا دستی را انتخاب کنید."
+   },
+   "optionsRefreshInterval": {
+      "message": "فاصله (دقیقه، حداقل 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "فقط با دکمهٔ تازه‌سازی"
+   },
+   "optionsRefreshTitle": {
+      "message": "تازه‌سازی مصرف"
+   },
+   "optionsResetAction": {
+      "message": "بازنشانی"
+   },
+   "optionsResetConfirm": {
+      "message": "برای تأیید دوباره کلیک کنید"
+   },
+   "optionsResetDescription": {
+      "message": "همه تنظیمات این صفحه را بازمی‌گرداند. قابل بازگشت نیست."
+   },
+   "optionsResetTitle": {
+      "message": "بازگشت به پیش‌فرض"
+   },
+   "optionsSaveError": {
+      "message": "ذخیره نشد"
+   },
+   "optionsSaved": {
+      "message": "همه تغییرات ذخیره شد"
+   },
+   "optionsSaving": {
+      "message": "در حال ذخیره…"
+   },
+   "optionsSkip": {
+      "message": "رفتن به تنظیمات"
+   },
+   "optionsTitle": {
+      "message": "تنظیمات AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% باقی‌مانده"
+   },
+   "planLabel": {
+      "message": "طرح · $1"
+   },
+   "planUsage": {
+      "message": "مصرف طرح"
+   },
+   "popupTitle": {
+      "message": "مصرف"
+   },
+   "refreshErrorPrefix": {
+      "message": "به‌روزرسانی نشد"
+   },
+   "refreshFailed": {
+      "message": "به‌روزرسانی ناموفق"
+   },
+   "refreshUsage": {
+      "message": "به‌روزرسانی مصرف"
+   },
+   "refreshUsageLimits": {
+      "message": "به‌روزرسانی محدودیت‌ها"
+   },
+   "refreshing": {
+      "message": "در حال به‌روزرسانی..."
+   },
+   "reportCancel": {
+      "message": "انصراف"
+   },
+   "reportDescription": {
+      "message": "توضیح دهید چه اشکالی پیش آمد. گزارش مستقیم به توسعه‌دهندگان می‌رسد."
+   },
+   "reportFailed": {
+      "message": "ارسال گزارش ممکن نشد."
+   },
+   "reportOnGithub": {
+      "message": "باز کردن issue در GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "چه اتفاقی افتاد؟ کدام ارائه‌دهنده تحت تأثیر است؟"
+   },
+   "reportPrivacy": {
+      "message": "پیام شما همراه با نسخهٔ افزونه، زبان و کارت‌های ارائه‌دهندهٔ فعال ارسال می‌شود."
+   },
+   "reportProblem": {
+      "message": "گزارش مشکل"
+   },
+   "reportSend": {
+      "message": "ارسال"
+   },
+   "reportSending": {
+      "message": "در حال ارسال…"
+   },
+   "reportSent": {
+      "message": "ممنون! گزارش شما ارسال شد."
+   },
+   "reportTitle": {
+      "message": "گزارش مشکل"
+   },
+   "resetsLabel": {
+      "message": "بازنشانی تا $1"
+   },
+   "sessionExpired": {
+      "message": "نشست منقضی شد"
+   },
+   "sessionLimit": {
+      "message": "نشست · ۵ ساعت"
+   },
+   "showLimits": {
+      "message": "نمایش محدودیت‌ها"
+   },
+   "sourceCode": {
+      "message": "کد منبع"
+   },
+   "timeAgo": {
+      "message": "$1 پیش"
+   },
+   "timeDayShort": {
+      "message": "روز"
+   },
+   "timeHourShort": {
+      "message": "س"
+   },
+   "timeJustNow": {
+      "message": "همین حالا"
+   },
+   "timeMinuteShort": {
+      "message": "د"
+   },
+   "timeNow": {
+      "message": "اکنون"
+   },
+   "timeUnknown": {
+      "message": "نامشخص"
+   },
+   "tokenPlan": {
+      "message": "طرح توکن"
+   },
+   "updated": {
+      "message": "به‌روزرسانی $1"
+   },
+   "waitingForSnapshot": {
+      "message": "در انتظار داده"
+   },
+   "weeklyLimit": {
+      "message": "هفته · ۷ روز"
+   },
+   "welcomeCta": {
+      "message": "شروع کنید"
+   },
+   "welcomeCtaHint": {
+      "message": "بعداً می‌توانید در Chrome آن را بردارید."
+   },
+   "welcomeStepOpen": {
+      "message": "برای دیدن مصرف خود روی نماد سنجاق‌شده کلیک کنید"
+   },
+   "welcomeStepPin": {
+      "message": "روی نماد افزونه‌ها {icon} در نوار ابزار کلیک کنید و AI Usage Tracker را سنجاق کنید"
+   },
+   "welcomeSubtitle": {
+      "message": "محدودیت‌هایتان یک کلیک فاصله دارد — پنجره مستقیم از نوار ابزار باز می‌شود."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker را سنجاق کنید"
+   }
+}

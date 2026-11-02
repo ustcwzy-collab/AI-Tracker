@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["App.css"])))=>i.map(i=>d[i]);
+import{e,_ as n,f as s,j as t,r as i,w as c}from"../language.js";const o=document.getElementById("root");if(!o)throw new Error("Sidepanel root container not found");const d=async()=>{await e();const{App:a}=await n(async()=>{const{App:r}=await import("../App.js");return{App:r}},__vite__mapDeps([0]));s.createRoot(o).render(t.jsx(i.StrictMode,{children:t.jsx(a,{})})),c(()=>window.location.reload())};d();

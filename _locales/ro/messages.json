@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Urmărește limitele de sesiune și săptămânale pentru Claude și ChatGPT (Codex) în popup și overlay. Fără configurare."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: limite Claude și Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Resetări disponibile · $1"
+   },
+   "emptyClaude": {
+      "message": "Încă nu există date. Deschide claude.ai autentificat, apoi reîmprospătează."
+   },
+   "emptyCodex": {
+      "message": "Încă nu există date. Deschide chatgpt.com autentificat, apoi reîmprospătează."
+   },
+   "emptyCursor": {
+      "message": "Încă nu există date. Deschide cursor.com autentificat, apoi reîmprospătează."
+   },
+   "emptyGlm": {
+      "message": "Încă nu există date. Deschide z.ai autentificat, apoi reîmprospătează."
+   },
+   "emptyKimi": {
+      "message": "Încă nu există date. Deschide kimi.com/code autentificat, apoi reîmprospătează."
+   },
+   "emptyMiMo": {
+      "message": "Încă nu există date. Deschide platform.xiaomimimo.com autentificat, apoi reîmprospătează."
+   },
+   "emptyMiniMax": {
+      "message": "Încă nu există date. Deschide platform.minimax.io autentificat, apoi reîmprospătează."
+   },
+   "emptyOverlay": {
+      "message": "Încă nu există date. Deschide popupul și reîmprospătează."
+   },
+   "emptyQwen": {
+      "message": "Încă nu există date. Deschide qwencloud.com autentificat, apoi reîmprospătează."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Ascunde limitele"
+   },
+   "loadingSnapshot": {
+      "message": "se încarcă"
+   },
+   "manualRefreshHint": {
+      "message": "Actualizările automate sunt dezactivate. Apăsați Actualizează pentru a încărca utilizarea."
+   },
+   "nextResetLabel": {
+      "message": "resetare în $1"
+   },
+   "notConnected": {
+      "message": "neconectat"
+   },
+   "optionsBadgeDescription": {
+      "message": "Iconița extensiei se schimbă în trepte de 10% pe baza acestei surse."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Acest furnizor este ascuns în popup, dar intervalul iconiței rămâne activ."
+   },
+   "optionsBadgeHighest": {
+      "message": "Cel mai mare dintre furnizorii vizibili"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Folosește cel mai mare procent curent dintre cardurile afișate."
+   },
+   "optionsBadgeProvider": {
+      "message": "Furnizor"
+   },
+   "optionsBadgeSelected": {
+      "message": "Furnizor selectat"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Folosește un singur furnizor, indiferent de vizibilitatea celorlalte carduri."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Sursa iconiței"
+   },
+   "optionsBadgeSteps": {
+      "message": "Trepte ale iconiței"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "rotunjit în jos la 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Intervalul iconiței"
+   },
+   "optionsBadgeWindow": {
+      "message": "Fereastră de utilizare"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sesiune"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Săptămânal"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Opțional. Folosește-o dacă acest browser nu este autentificat pe z.ai sau pentru conturi BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Cheie API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Limba browserului"
+   },
+   "optionsLanguageDescription": {
+      "message": "Alege limba pentru popup, această pagină și overlay-uri."
+   },
+   "optionsLanguageHint": {
+      "message": "Schimbarea limbii reîncarcă pagina."
+   },
+   "optionsLanguageTitle": {
+      "message": "Limbă"
+   },
+   "optionsLayoutDescription": {
+      "message": "Alege cum sunt aranjate cardurile vizibile ale furnizorilor."
+   },
+   "optionsLayoutGrid": {
+      "message": "Două coloane"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Privire compactă, cu două carduri pe rând."
+   },
+   "optionsLayoutSingle": {
+      "message": "O coloană"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Un card pe toată lățimea pentru fiecare furnizor."
+   },
+   "optionsLayoutTitle": {
+      "message": "Aspectul popupului"
+   },
+   "optionsLoading": {
+      "message": "Se încarcă setările…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Resetări disponibile"
+   },
+   "optionsMetricBalance": {
+      "message": "Sold"
+   },
+   "optionsMetricModels": {
+      "message": "Defalcare pe modele"
+   },
+   "optionsMetricPlan": {
+      "message": "Plan"
+   },
+   "optionsMetricReset": {
+      "message": "Ora resetării"
+   },
+   "optionsMetricSession": {
+      "message": "Utilizare pe sesiune"
+   },
+   "optionsMetricSummary": {
+      "message": "Sold / rezumat"
+   },
+   "optionsMetricWeekly": {
+      "message": "Utilizare săptămânală"
+   },
+   "optionsNavBadge": {
+      "message": "Iconiță în bara de instrumente"
+   },
+   "optionsNavLabel": {
+      "message": "Secțiuni de setări"
+   },
+   "optionsNavLayout": {
+      "message": "Aspect"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlay-uri pe pagină"
+   },
+   "optionsNavProviders": {
+      "message": "Furnizori"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Activează overlay-ul $1 pe pagină"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Afișează capsula pliabilă de utilizare lângă câmpul de mesaj."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlay-uri pe pagină"
+   },
+   "optionsPercentageDescription": {
+      "message": "Afișați cât s-a folosit sau cât a rămas din fiecare limită."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Rămas"
+   },
+   "optionsPercentageTitle": {
+      "message": "Afișarea limitelor"
+   },
+   "optionsPercentageUsed": {
+      "message": "Utilizat"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 din $2 detalii"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Detalii de utilizare: $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Ascuns în popup"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Arată $1 în popup"
+   },
+   "optionsProvidersDescription": {
+      "message": "Ascunde un card sau alege ce detalii afișează. Datele indisponibile rămân ascunse automat."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 din $2 afișate"
+   },
+   "optionsProvidersTitle": {
+      "message": "Furnizori"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automat"
+   },
+   "optionsRefreshDescription": {
+      "message": "Alegeți actualizări automate sau manuale."
+   },
+   "optionsRefreshInterval": {
+      "message": "Interval (minute, minimum 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Doar prin butonul Actualizează"
+   },
+   "optionsRefreshTitle": {
+      "message": "Actualizarea utilizării"
+   },
+   "optionsResetAction": {
+      "message": "Resetează"
+   },
+   "optionsResetConfirm": {
+      "message": "Apasă din nou pentru confirmare"
+   },
+   "optionsResetDescription": {
+      "message": "Restabilește toate preferințele de pe această pagină. Acțiunea nu poate fi anulată."
+   },
+   "optionsResetTitle": {
+      "message": "Revenire la valorile implicite"
+   },
+   "optionsSaveError": {
+      "message": "Nu s-a putut salva"
+   },
+   "optionsSaved": {
+      "message": "Toate modificările au fost salvate"
+   },
+   "optionsSaving": {
+      "message": "Se salvează…"
+   },
+   "optionsSkip": {
+      "message": "Sari la setări"
+   },
+   "optionsTitle": {
+      "message": "Setări AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% rămas"
+   },
+   "planLabel": {
+      "message": "Plan · $1"
+   },
+   "planUsage": {
+      "message": "Utilizarea planului"
+   },
+   "popupTitle": {
+      "message": "Utilizare"
+   },
+   "refreshErrorPrefix": {
+      "message": "Nu s-a putut reîmprospăta"
+   },
+   "refreshFailed": {
+      "message": "Reîmprospătare eșuată"
+   },
+   "refreshUsage": {
+      "message": "Reîmprospătează utilizarea"
+   },
+   "refreshUsageLimits": {
+      "message": "Reîmprospătează limitele"
+   },
+   "refreshing": {
+      "message": "se reîmprospătează..."
+   },
+   "reportCancel": {
+      "message": "Anulează"
+   },
+   "reportDescription": {
+      "message": "Descrie ce nu a funcționat. Raportul ajunge direct la dezvoltatori."
+   },
+   "reportFailed": {
+      "message": "Raportul nu a putut fi trimis."
+   },
+   "reportOnGithub": {
+      "message": "Deschide un issue pe GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Ce s-a întâmplat? Ce furnizor este afectat?"
+   },
+   "reportPrivacy": {
+      "message": "Trimite mesajul tău împreună cu versiunea extensiei, limba și cardurile de furnizori activate."
+   },
+   "reportProblem": {
+      "message": "Raportează o problemă"
+   },
+   "reportSend": {
+      "message": "Trimite"
+   },
+   "reportSending": {
+      "message": "Se trimite…"
+   },
+   "reportSent": {
+      "message": "Mulțumim! Raportul a fost trimis."
+   },
+   "reportTitle": {
+      "message": "Raportează o problemă"
+   },
+   "resetsLabel": {
+      "message": "resetare în $1"
+   },
+   "sessionExpired": {
+      "message": "sesiune expirată"
+   },
+   "sessionLimit": {
+      "message": "Sesiune · 5 h"
+   },
+   "showLimits": {
+      "message": "Arată limitele"
+   },
+   "sourceCode": {
+      "message": "Cod sursă"
+   },
+   "timeAgo": {
+      "message": "acum $1"
+   },
+   "timeDayShort": {
+      "message": "z"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "chiar acum"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "acum"
+   },
+   "timeUnknown": {
+      "message": "necunoscut"
+   },
+   "tokenPlan": {
+      "message": "Plan de tokenuri"
+   },
+   "updated": {
+      "message": "actualizat $1"
+   },
+   "waitingForSnapshot": {
+      "message": "se așteaptă datele"
+   },
+   "weeklyLimit": {
+      "message": "Săptămână · 7 z"
+   },
+   "welcomeCta": {
+      "message": "Începe"
+   },
+   "welcomeCtaHint": {
+      "message": "O poți desprinde mai târziu din Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Dă clic pe pictograma fixată ca să-ți vezi consumul"
+   },
+   "welcomeStepPin": {
+      "message": "Dă clic pe pictograma extensiilor {icon} din bară și fixează AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Ține-ți limitele la un clic distanță — fereastra se deschide direct din bara de instrumente."
+   },
+   "welcomeTitle": {
+      "message": "Fixează AI Usage Tracker"
+   }
+}

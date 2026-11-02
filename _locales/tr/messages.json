@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude ve ChatGPT (Codex) oturum ve haftalık kullanım limitlerini açılır pencerede ve sayfa katmanında izleyin."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude ve Codex limitleri"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Kullanılabilir sıfırlamalar · $1"
+   },
+   "emptyClaude": {
+      "message": "Henüz veri yok. Oturum açıkken claude.ai'yi açın, sonra yenileyin."
+   },
+   "emptyCodex": {
+      "message": "Henüz veri yok. Oturum açıkken chatgpt.com'u açın, sonra yenileyin."
+   },
+   "emptyCursor": {
+      "message": "Henüz veri yok. Oturum açıkken cursor.com'u açın, sonra yenileyin."
+   },
+   "emptyGlm": {
+      "message": "Henüz veri yok. Oturum açıkken z.ai'yi açın, sonra yenileyin."
+   },
+   "emptyKimi": {
+      "message": "Henüz veri yok. Oturum açıkken kimi.com/code'u açın, sonra yenileyin."
+   },
+   "emptyMiMo": {
+      "message": "Henüz veri yok. Oturum açıkken platform.xiaomimimo.com'u açın, sonra yenileyin."
+   },
+   "emptyMiniMax": {
+      "message": "Henüz veri yok. Oturum açıkken platform.minimax.io'yu açın, sonra yenileyin."
+   },
+   "emptyOverlay": {
+      "message": "Henüz veri yok. Açılır pencereyi açıp yenileyin."
+   },
+   "emptyQwen": {
+      "message": "Henüz veri yok. Oturum açıkken qwencloud.com'u açın, sonra yenileyin."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Limitleri gizle"
+   },
+   "loadingSnapshot": {
+      "message": "yükleniyor"
+   },
+   "manualRefreshHint": {
+      "message": "Otomatik yenileme kapalı. Kullanımı yüklemek için Yenile'ye basın."
+   },
+   "nextResetLabel": {
+      "message": "$1 sonra sıfırlanır"
+   },
+   "notConnected": {
+      "message": "bağlı değil"
+   },
+   "optionsBadgeDescription": {
+      "message": "Uzantı simgesi bu kaynağa göre %10'luk adımlarla değişir."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Bu sağlayıcı açılır pencerede gizli, ancak simge aralığı etkin kalır."
+   },
+   "optionsBadgeHighest": {
+      "message": "Görünür sağlayıcıların en yükseği"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Gösterilen kartlar arasındaki en yüksek güncel yüzdeyi kullan."
+   },
+   "optionsBadgeProvider": {
+      "message": "Sağlayıcı"
+   },
+   "optionsBadgeSelected": {
+      "message": "Seçili sağlayıcı"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Diğer kartların görünürlüğünden bağımsız olarak tek sağlayıcı kullan."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Simge kaynağı"
+   },
+   "optionsBadgeSteps": {
+      "message": "Araç çubuğu simge adımları"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "en yakın %10'a aşağı yuvarlanır"
+   },
+   "optionsBadgeTitle": {
+      "message": "Simge aralığı"
+   },
+   "optionsBadgeWindow": {
+      "message": "Kullanım penceresi"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Oturum"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Haftalık"
+   },
+   "optionsGlmKeyHint": {
+      "message": "İsteğe bağlı. Bu tarayıcıda z.ai oturumu açık değilse veya BigModel hesapları için kullanın."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API anahtarı"
+   },
+   "optionsLanguageAuto": {
+      "message": "Tarayıcı dili"
+   },
+   "optionsLanguageDescription": {
+      "message": "Popup, bu sayfa ve sayfa katmanları için dili seçin."
+   },
+   "optionsLanguageHint": {
+      "message": "Dili değiştirmek bu sayfayı yeniden yükler."
+   },
+   "optionsLanguageTitle": {
+      "message": "Dil"
+   },
+   "optionsLayoutDescription": {
+      "message": "Görünür sağlayıcı kartlarının nasıl dizileceğini seçin."
+   },
+   "optionsLayoutGrid": {
+      "message": "İki sütun"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Satırda iki kartla derli toplu görünüm."
+   },
+   "optionsLayoutSingle": {
+      "message": "Tek sütun"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Her sağlayıcı için tam genişlikte kart."
+   },
+   "optionsLayoutTitle": {
+      "message": "Açılır pencere düzeni"
+   },
+   "optionsLoading": {
+      "message": "Ayarlar yükleniyor…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Kullanılabilir sıfırlamalar"
+   },
+   "optionsMetricBalance": {
+      "message": "Bakiye"
+   },
+   "optionsMetricModels": {
+      "message": "Modele göre dağılım"
+   },
+   "optionsMetricPlan": {
+      "message": "Plan"
+   },
+   "optionsMetricReset": {
+      "message": "Sıfırlama zamanı"
+   },
+   "optionsMetricSession": {
+      "message": "Oturum kullanımı"
+   },
+   "optionsMetricSummary": {
+      "message": "Bakiye / özet"
+   },
+   "optionsMetricWeekly": {
+      "message": "Haftalık kullanım"
+   },
+   "optionsNavBadge": {
+      "message": "Araç çubuğu simgesi"
+   },
+   "optionsNavLabel": {
+      "message": "Ayar bölümleri"
+   },
+   "optionsNavLayout": {
+      "message": "Düzen"
+   },
+   "optionsNavOverlays": {
+      "message": "Sayfa katmanları"
+   },
+   "optionsNavProviders": {
+      "message": "Sağlayıcılar"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 sayfa katmanını etkinleştir"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Mesaj alanının yanında katlanabilir kullanım kapsülünü göster."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Sayfa katmanları"
+   },
+   "optionsPercentageDescription": {
+      "message": "Her limitin ne kadarının kullanıldığını veya kaldığını gösterin."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Kalan"
+   },
+   "optionsPercentageTitle": {
+      "message": "Limit gösterimi"
+   },
+   "optionsPercentageUsed": {
+      "message": "Kullanılan"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 ayrıntıdan $1 tanesi"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 kullanım ayrıntıları"
+   },
+   "optionsProviderHidden": {
+      "message": "Açılır pencerede gizli"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "$1 sağlayıcısını açılır pencerede göster"
+   },
+   "optionsProvidersDescription": {
+      "message": "Bir kartı gizleyin ya da hangi ayrıntıları göstereceğini seçin. Erişilemeyen veriler otomatik gizlenir."
+   },
+   "optionsProvidersShown": {
+      "message": "$2 sağlayıcıdan $1 tanesi görünür"
+   },
+   "optionsProvidersTitle": {
+      "message": "Sağlayıcılar"
+   },
+   "optionsRefreshAuto": {
+      "message": "Otomatik"
+   },
+   "optionsRefreshDescription": {
+      "message": "Otomatik veya elle yenilemeyi seçin."
+   },
+   "optionsRefreshInterval": {
+      "message": "Aralık (dakika, en az 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Yalnızca Yenile düğmesiyle"
+   },
+   "optionsRefreshTitle": {
+      "message": "Kullanım yenileme"
+   },
+   "optionsResetAction": {
+      "message": "Varsayılanlara dön"
+   },
+   "optionsResetConfirm": {
+      "message": "Onaylamak için yeniden tıklayın"
+   },
+   "optionsResetDescription": {
+      "message": "Bu sayfadaki tüm tercihleri geri yükler. Bu geri alınamaz."
+   },
+   "optionsResetTitle": {
+      "message": "Varsayılanlara sıfırla"
+   },
+   "optionsSaveError": {
+      "message": "Kaydedilemedi"
+   },
+   "optionsSaved": {
+      "message": "Tüm değişiklikler kaydedildi"
+   },
+   "optionsSaving": {
+      "message": "Kaydediliyor…"
+   },
+   "optionsSkip": {
+      "message": "Ayarlara geç"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker ayarları"
+   },
+   "percentageRemaining": {
+      "message": "$1% kaldı"
+   },
+   "planLabel": {
+      "message": "Plan · $1"
+   },
+   "planUsage": {
+      "message": "Plan kullanımı"
+   },
+   "popupTitle": {
+      "message": "Kullanım"
+   },
+   "refreshErrorPrefix": {
+      "message": "Yenilenemedi"
+   },
+   "refreshFailed": {
+      "message": "Yenileme başarısız"
+   },
+   "refreshUsage": {
+      "message": "Kullanımı yenile"
+   },
+   "refreshUsageLimits": {
+      "message": "Limitleri yenile"
+   },
+   "refreshing": {
+      "message": "yenileniyor..."
+   },
+   "reportCancel": {
+      "message": "İptal"
+   },
+   "reportDescription": {
+      "message": "Neyin yanlış gittiğini anlatın. Bildirim doğrudan geliştiricilere ulaşır."
+   },
+   "reportFailed": {
+      "message": "Bildirim gönderilemedi."
+   },
+   "reportOnGithub": {
+      "message": "GitHub’da issue aç"
+   },
+   "reportPlaceholder": {
+      "message": "Ne oldu? Hangi sağlayıcı etkilendi?"
+   },
+   "reportPrivacy": {
+      "message": "Mesajınızı uzantı sürümü, dil ve açık sağlayıcı kartlarıyla birlikte gönderir."
+   },
+   "reportProblem": {
+      "message": "Sorun bildir"
+   },
+   "reportSend": {
+      "message": "Gönder"
+   },
+   "reportSending": {
+      "message": "Gönderiliyor…"
+   },
+   "reportSent": {
+      "message": "Teşekkürler! Bildiriminiz gönderildi."
+   },
+   "reportTitle": {
+      "message": "Sorun bildir"
+   },
+   "resetsLabel": {
+      "message": "$1 sonra sıfırlanır"
+   },
+   "sessionExpired": {
+      "message": "oturum sona erdi"
+   },
+   "sessionLimit": {
+      "message": "Oturum · 5 sa"
+   },
+   "showLimits": {
+      "message": "Limitleri göster"
+   },
+   "sourceCode": {
+      "message": "Kaynak kodu"
+   },
+   "timeAgo": {
+      "message": "$1 önce"
+   },
+   "timeDayShort": {
+      "message": "g"
+   },
+   "timeHourShort": {
+      "message": "sa"
+   },
+   "timeJustNow": {
+      "message": "az önce"
+   },
+   "timeMinuteShort": {
+      "message": "dk"
+   },
+   "timeNow": {
+      "message": "şimdi"
+   },
+   "timeUnknown": {
+      "message": "bilinmiyor"
+   },
+   "tokenPlan": {
+      "message": "Token planı"
+   },
+   "updated": {
+      "message": "güncellendi $1"
+   },
+   "waitingForSnapshot": {
+      "message": "veri bekleniyor"
+   },
+   "weeklyLimit": {
+      "message": "Hafta · 7 g"
+   },
+   "welcomeCta": {
+      "message": "Başla"
+   },
+   "welcomeCtaHint": {
+      "message": "Daha sonra Chrome’dan sabitlemeyi kaldırabilirsiniz."
+   },
+   "welcomeStepOpen": {
+      "message": "Kullanımınızı görmek için sabitlenmiş simgeye tıklayın"
+   },
+   "welcomeStepPin": {
+      "message": "Araç çubuğundaki uzantılar simgesine {icon} tıklayın ve AI Usage Tracker’ı sabitleyin"
+   },
+   "welcomeSubtitle": {
+      "message": "Limitleriniz tek tık uzağınızda olsun — pencere doğrudan araç çubuğundan açılır."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker’ı sabitleyin"
+   }
+}

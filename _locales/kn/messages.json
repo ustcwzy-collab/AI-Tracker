@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Claude ಮತ್ತು ChatGPT (Codex) ಸೆಷನ್ ಹಾಗೂ ವಾರದ ಮಿತಿಗಳನ್ನು ಪಾಪ್‌ಅಪ್ ಮತ್ತು ಪುಟದ ಓವರ್‌ಲೇಯಲ್ಲಿ ನೋಡಿ."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: Claude ಮತ್ತು Codex ಮಿತಿಗಳು"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "ಲಭ್ಯ ಮರುಹೊಂದಿಕೆಗಳು · $1"
+   },
+   "emptyClaude": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ claude.ai ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyCodex": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ chatgpt.com ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyCursor": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ cursor.com ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyGlm": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ z.ai ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyKimi": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ kimi.com/code ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyMiMo": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ platform.xiaomimimo.com ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyMiniMax": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ platform.minimax.io ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyOverlay": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಪಾಪ್‌ಅಪ್ ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "emptyQwen": {
+      "message": "ಇನ್ನೂ ಡೇಟಾ ಇಲ್ಲ. ಸೈನ್ ಇನ್ ಆಗಿ qwencloud.com ತೆರೆದು ರಿಫ್ರೆಶ್ ಮಾಡಿ."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "ಮಿತಿಗಳನ್ನು ಮರೆಮಾಡು"
+   },
+   "loadingSnapshot": {
+      "message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+   },
+   "manualRefreshHint": {
+      "message": "ಸ್ವಯಂಚಾಲಿತ ನವೀಕರಣ ಆಫ್ ಆಗಿದೆ. ಬಳಕೆಯನ್ನು ಲೋಡ್ ಮಾಡಲು ರಿಫ್ರೆಶ್ ಒತ್ತಿ."
+   },
+   "nextResetLabel": {
+      "message": "$1 ನಂತರ ಮರುಹೊಂದಿಕೆ"
+   },
+   "notConnected": {
+      "message": "ಸಂಪರ್ಕವಿಲ್ಲ"
+   },
+   "optionsBadgeDescription": {
+      "message": "ಈ ಮೂಲದ ಆಧಾರದಲ್ಲಿ ವಿಸ್ತರಣೆಯ ಐಕಾನ್ 10% ಹಂತಗಳಲ್ಲಿ ಬದಲಾಗುತ್ತದೆ."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "ಈ ಪೂರೈಕೆದಾರ ಪಾಪ್‌ಅಪ್‌ನಲ್ಲಿ ಮರೆಯಾಗಿದ್ದಾರೆ, ಆದರೆ ಐಕಾನ್ ವ್ಯಾಪ್ತಿ ಸಕ್ರಿಯವಾಗಿರುತ್ತದೆ."
+   },
+   "optionsBadgeHighest": {
+      "message": "ಕಾಣುವ ಪೂರೈಕೆದಾರರಲ್ಲಿ ಗರಿಷ್ಠ"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "ತೋರಿಸಲಾದ ಕಾರ್ಡ್‌ಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ಗರಿಷ್ಠ ಶೇಕಡಾವನ್ನು ಬಳಸಿ."
+   },
+   "optionsBadgeProvider": {
+      "message": "ಪೂರೈಕೆದಾರ"
+   },
+   "optionsBadgeSelected": {
+      "message": "ಆಯ್ದ ಪೂರೈಕೆದಾರ"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "ಇತರ ಕಾರ್ಡ್‌ಗಳು ಕಾಣಲಿ ಬಿಡಲಿ, ಒಬ್ಬ ಪೂರೈಕೆದಾರರನ್ನೇ ಬಳಸಿ."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "ಐಕಾನ್ ಮೂಲ"
+   },
+   "optionsBadgeSteps": {
+      "message": "ಐಕಾನ್ ಹಂತಗಳು"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "ಹತ್ತಿರದ 10% ಗೆ ಇಳಿಸಲಾಗಿದೆ"
+   },
+   "optionsBadgeTitle": {
+      "message": "ಐಕಾನ್ ವ್ಯಾಪ್ತಿ"
+   },
+   "optionsBadgeWindow": {
+      "message": "ಬಳಕೆಯ ಅವಧಿ"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "ಸೆಷನ್"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "ವಾರ"
+   },
+   "optionsGlmKeyHint": {
+      "message": "ಐಚ್ಛಿಕ. ಈ ಬ್ರೌಸರ್ z.ai ಗೆ ಸೈನ್ ಇನ್ ಆಗಿಲ್ಲದಿದ್ದರೆ ಅಥವಾ BigModel ಖಾತೆಗಳಿಗೆ ಬಳಸಿ."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API ಕೀ"
+   },
+   "optionsLanguageAuto": {
+      "message": "ಬ್ರೌಸರ್ ಭಾಷೆ"
+   },
+   "optionsLanguageDescription": {
+      "message": "ಪಾಪ್‌ಅಪ್, ಈ ಪುಟ ಮತ್ತು ಪುಟದ ಓವರ್‌ಲೇಗಳ ಭಾಷೆಯನ್ನು ಆರಿಸಿ."
+   },
+   "optionsLanguageHint": {
+      "message": "ಭಾಷೆ ಬದಲಾಯಿಸಿದರೆ ಈ ಪುಟ ಮತ್ತೆ ಲೋಡ್ ಆಗುತ್ತದೆ."
+   },
+   "optionsLanguageTitle": {
+      "message": "ಭಾಷೆ"
+   },
+   "optionsLayoutDescription": {
+      "message": "ಕಾಣುವ ಪೂರೈಕೆದಾರ ಕಾರ್ಡ್‌ಗಳ ಜೋಡಣೆಯನ್ನು ಆರಿಸಿ."
+   },
+   "optionsLayoutGrid": {
+      "message": "ಎರಡು ಕಾಲಂ"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "ಸಾಲಿಗೆ ಎರಡು ಕಾರ್ಡ್‌ಗಳ ಸಂಕ್ಷಿಪ್ತ ನೋಟ."
+   },
+   "optionsLayoutSingle": {
+      "message": "ಒಂದು ಕಾಲಂ"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "ಪ್ರತಿ ಪೂರೈಕೆದಾರರಿಗೆ ಪೂರ್ಣ ಅಗಲದ ಕಾರ್ಡ್."
+   },
+   "optionsLayoutTitle": {
+      "message": "ಪಾಪ್‌ಅಪ್ ವಿನ್ಯಾಸ"
+   },
+   "optionsLoading": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "ಲಭ್ಯ ಮರುಹೊಂದಿಕೆಗಳು"
+   },
+   "optionsMetricBalance": {
+      "message": "ಬಾಕಿ"
+   },
+   "optionsMetricModels": {
+      "message": "ಮಾದರಿವಾರು ವಿಭಜನೆ"
+   },
+   "optionsMetricPlan": {
+      "message": "ಯೋಜನೆ"
+   },
+   "optionsMetricReset": {
+      "message": "ಮರುಹೊಂದಿಕೆ ಸಮಯ"
+   },
+   "optionsMetricSession": {
+      "message": "ಸೆಷನ್ ಬಳಕೆ"
+   },
+   "optionsMetricSummary": {
+      "message": "ಬಾಕಿ / ಸಾರಾಂಶ"
+   },
+   "optionsMetricWeekly": {
+      "message": "ವಾರದ ಬಳಕೆ"
+   },
+   "optionsNavBadge": {
+      "message": "ಟೂಲ್‌ಬಾರ್ ಐಕಾನ್"
+   },
+   "optionsNavLabel": {
+      "message": "ಸೆಟ್ಟಿಂಗ್ ವಿಭಾಗಗಳು"
+   },
+   "optionsNavLayout": {
+      "message": "ವಿನ್ಯಾಸ"
+   },
+   "optionsNavOverlays": {
+      "message": "ಪುಟದ ಓವರ್‌ಲೇಗಳು"
+   },
+   "optionsNavProviders": {
+      "message": "ಪೂರೈಕೆದಾರರು"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "$1 ಪುಟದ ಓವರ್‌ಲೇ ಆನ್ ಮಾಡಿ"
+   },
+   "optionsOverlaysDescription": {
+      "message": "ಸಂದೇಶ ಪೆಟ್ಟಿಗೆಯ ಪಕ್ಕದಲ್ಲಿ ಮಡಚಬಹುದಾದ ಬಳಕೆ ಕ್ಯಾಪ್ಸೂಲ್ ತೋರಿಸಿ."
+   },
+   "optionsOverlaysTitle": {
+      "message": "ಪುಟದ ಓವರ್‌ಲೇಗಳು"
+   },
+   "optionsPercentageDescription": {
+      "message": "ಪ್ರತಿ ಮಿತಿಯಲ್ಲಿ ಎಷ್ಟು ಬಳಸಲಾಗಿದೆ ಅಥವಾ ಉಳಿದಿದೆ ಎಂಬುದನ್ನು ತೋರಿಸಿ."
+   },
+   "optionsPercentageRemaining": {
+      "message": "ಉಳಿದಿದೆ"
+   },
+   "optionsPercentageTitle": {
+      "message": "ಮಿತಿ ಪ್ರದರ್ಶನ"
+   },
+   "optionsPercentageUsed": {
+      "message": "ಬಳಸಲಾಗಿದೆ"
+   },
+   "optionsProviderDetails": {
+      "message": "$2 ರಲ್ಲಿ $1 ವಿವರಗಳು"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "$1 ಬಳಕೆಯ ವಿವರಗಳು"
+   },
+   "optionsProviderHidden": {
+      "message": "ಪಾಪ್‌ಅಪ್‌ನಲ್ಲಿ ಮರೆ"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "ಪಾಪ್‌ಅಪ್‌ನಲ್ಲಿ $1 ತೋರಿಸು"
+   },
+   "optionsProvidersDescription": {
+      "message": "ಕಾರ್ಡ್ ಮರೆಮಾಡಿ ಅಥವಾ ಯಾವ ವಿವರಗಳು ಕಾಣಬೇಕೆಂದು ಆರಿಸಿ. ಲಭ್ಯವಿಲ್ಲದ ಡೇಟಾ ತಾನಾಗಿಯೇ ಮರೆಯಾಗುತ್ತದೆ."
+   },
+   "optionsProvidersShown": {
+      "message": "$2 ರಲ್ಲಿ $1 ಕಾಣಿಸುತ್ತಿವೆ"
+   },
+   "optionsProvidersTitle": {
+      "message": "ಪೂರೈಕೆದಾರರು"
+   },
+   "optionsRefreshAuto": {
+      "message": "ಸ್ವಯಂಚಾಲಿತ"
+   },
+   "optionsRefreshDescription": {
+      "message": "ಸ್ವಯಂಚಾಲಿತ ಅಥವಾ ಹಸ್ತಚಾಲಿತ ನವೀಕರಣ ಆಯ್ಕೆಮಾಡಿ."
+   },
+   "optionsRefreshInterval": {
+      "message": "ಮಧ್ಯಂತರ (ನಿಮಿಷ, ಕನಿಷ್ಠ 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "ರಿಫ್ರೆಶ್ ಬಟನ್ ಒತ್ತಿದಾಗ ಮಾತ್ರ"
+   },
+   "optionsRefreshTitle": {
+      "message": "ಬಳಕೆ ರಿಫ್ರೆಶ್"
+   },
+   "optionsResetAction": {
+      "message": "ಡೀಫಾಲ್ಟ್"
+   },
+   "optionsResetConfirm": {
+      "message": "ದೃಢೀಕರಿಸಲು ಮತ್ತೆ ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "optionsResetDescription": {
+      "message": "ಈ ಪುಟದ ಎಲ್ಲ ಆದ್ಯತೆಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸುತ್ತದೆ. ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗದು."
+   },
+   "optionsResetTitle": {
+      "message": "ಡೀಫಾಲ್ಟ್‌ಗೆ ಮರುಹೊಂದಿಸಿ"
+   },
+   "optionsSaveError": {
+      "message": "ಉಳಿಸಲಾಗಲಿಲ್ಲ"
+   },
+   "optionsSaved": {
+      "message": "ಎಲ್ಲ ಬದಲಾವಣೆಗಳು ಉಳಿಸಲ್ಪಟ್ಟಿವೆ"
+   },
+   "optionsSaving": {
+      "message": "ಉಳಿಸಲಾಗುತ್ತಿದೆ…"
+   },
+   "optionsSkip": {
+      "message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ"
+   },
+   "optionsTitle": {
+      "message": "AI Usage Tracker ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
+   },
+   "percentageRemaining": {
+      "message": "$1% ಉಳಿದಿದೆ"
+   },
+   "planLabel": {
+      "message": "ಯೋಜನೆ · $1"
+   },
+   "planUsage": {
+      "message": "ಯೋಜನೆಯ ಬಳಕೆ"
+   },
+   "popupTitle": {
+      "message": "ಬಳಕೆ"
+   },
+   "refreshErrorPrefix": {
+      "message": "ರಿಫ್ರೆಶ್ ಮಾಡಲಾಗಲಿಲ್ಲ"
+   },
+   "refreshFailed": {
+      "message": "ರಿಫ್ರೆಶ್ ವಿಫಲವಾಯಿತು"
+   },
+   "refreshUsage": {
+      "message": "ಬಳಕೆಯನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+   },
+   "refreshUsageLimits": {
+      "message": "ಮಿತಿಗಳನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಿ"
+   },
+   "refreshing": {
+      "message": "ರಿಫ್ರೆಶ್ ಆಗುತ್ತಿದೆ..."
+   },
+   "reportCancel": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "reportDescription": {
+      "message": "ಏನು ತಪ್ಪಾಯಿತು ಎಂದು ವಿವರಿಸಿ. ವರದಿ ನೇರವಾಗಿ ಡೆವಲಪರ್‌ಗಳಿಗೆ ತಲುಪುತ್ತದೆ."
+   },
+   "reportFailed": {
+      "message": "ವರದಿ ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+   },
+   "reportOnGithub": {
+      "message": "GitHub ನಲ್ಲಿ issue ತೆರೆಯಿರಿ"
+   },
+   "reportPlaceholder": {
+      "message": "ಏನಾಯಿತು? ಯಾವ ಪೂರೈಕೆದಾರ ಬಾಧಿತವಾಗಿದೆ?"
+   },
+   "reportPrivacy": {
+      "message": "ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ವಿಸ್ತರಣೆ ಆವೃತ್ತಿ, ಭಾಷೆ ಮತ್ತು ಸಕ್ರಿಯ ಪೂರೈಕೆದಾರ ಕಾರ್ಡ್‌ಗಳ ಜೊತೆ ಕಳುಹಿಸುತ್ತದೆ."
+   },
+   "reportProblem": {
+      "message": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ"
+   },
+   "reportSend": {
+      "message": "ಕಳುಹಿಸಿ"
+   },
+   "reportSending": {
+      "message": "ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ…"
+   },
+   "reportSent": {
+      "message": "ಧನ್ಯವಾದಗಳು! ನಿಮ್ಮ ವರದಿ ಕಳುಹಿಸಲಾಗಿದೆ."
+   },
+   "reportTitle": {
+      "message": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ"
+   },
+   "resetsLabel": {
+      "message": "$1 ನಂತರ ಮರುಹೊಂದಿಕೆ"
+   },
+   "sessionExpired": {
+      "message": "ಅವಧಿ ಮುಗಿದಿದೆ"
+   },
+   "sessionLimit": {
+      "message": "ಸೆಷನ್ · 5 ಗಂ"
+   },
+   "showLimits": {
+      "message": "ಮಿತಿಗಳನ್ನು ತೋರಿಸು"
+   },
+   "sourceCode": {
+      "message": "ಮೂಲ ಕೋಡ್"
+   },
+   "timeAgo": {
+      "message": "$1 ಹಿಂದೆ"
+   },
+   "timeDayShort": {
+      "message": "ದಿ"
+   },
+   "timeHourShort": {
+      "message": "ಗಂ"
+   },
+   "timeJustNow": {
+      "message": "ಈಗಷ್ಟೇ"
+   },
+   "timeMinuteShort": {
+      "message": "ನಿ"
+   },
+   "timeNow": {
+      "message": "ಈಗ"
+   },
+   "timeUnknown": {
+      "message": "ಗೊತ್ತಿಲ್ಲ"
+   },
+   "tokenPlan": {
+      "message": "ಟೋಕನ್ ಯೋಜನೆ"
+   },
+   "updated": {
+      "message": "ನವೀಕರಣ $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ಡೇಟಾಗಾಗಿ ಕಾಯಲಾಗುತ್ತಿದೆ"
+   },
+   "weeklyLimit": {
+      "message": "ವಾರ · 7 ದಿ"
+   },
+   "welcomeCta": {
+      "message": "ಪ್ರಾರಂಭಿಸಿ"
+   },
+   "welcomeCtaHint": {
+      "message": "ನಂತರ Chrome ನಲ್ಲಿ ಅನ್‌ಪಿನ್ ಮಾಡಬಹುದು."
+   },
+   "welcomeStepOpen": {
+      "message": "ನಿಮ್ಮ ಬಳಕೆ ನೋಡಲು ಪಿನ್ ಮಾಡಿದ ಐಕಾನ್ ಕ್ಲಿಕ್ ಮಾಡಿ"
+   },
+   "welcomeStepPin": {
+      "message": "ಟೂಲ್‌ಬಾರ್‌ನಲ್ಲಿ ವಿಸ್ತರಣೆ ಐಕಾನ್ {icon} ಕ್ಲಿಕ್ ಮಾಡಿ, ನಂತರ AI Usage Tracker ಪಿನ್ ಮಾಡಿ"
+   },
+   "welcomeSubtitle": {
+      "message": "ನಿಮ್ಮ ಮಿತಿಗಳು ಒಂದೇ ಕ್ಲಿಕ್‌ನಲ್ಲಿ — ಪಾಪ್‌ಅಪ್ ನೇರವಾಗಿ ಟೂಲ್‌ಬಾರ್‌ನಿಂದ ತೆರೆಯುತ್ತದೆ."
+   },
+   "welcomeTitle": {
+      "message": "AI Usage Tracker ಪಿನ್ ಮಾಡಿ"
+   }
+}

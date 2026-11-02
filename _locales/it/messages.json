@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Monitora i limiti di Claude e ChatGPT (Codex) per sessione e settimana in popup, badge e overlay. Privato, senza setup."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: limiti Claude e Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Ripristini disponibili · $1"
+   },
+   "emptyClaude": {
+      "message": "Ancora nessun dato. Apri claude.ai con accesso effettuato e aggiorna."
+   },
+   "emptyCodex": {
+      "message": "Ancora nessun dato. Apri chatgpt.com con accesso effettuato e aggiorna."
+   },
+   "emptyCursor": {
+      "message": "Ancora nessun dato. Apri cursor.com con accesso effettuato e aggiorna."
+   },
+   "emptyGlm": {
+      "message": "Ancora nessun dato. Apri z.ai con accesso effettuato e aggiorna."
+   },
+   "emptyKimi": {
+      "message": "Ancora nessun dato. Apri kimi.com/code con accesso effettuato e aggiorna."
+   },
+   "emptyMiMo": {
+      "message": "Ancora nessun dato. Apri platform.xiaomimimo.com con accesso effettuato e aggiorna."
+   },
+   "emptyMiniMax": {
+      "message": "Ancora nessun dato. Apri platform.minimax.io con accesso effettuato e aggiorna."
+   },
+   "emptyOverlay": {
+      "message": "Ancora nessun dato. Apri il popup e aggiorna."
+   },
+   "emptyQwen": {
+      "message": "Ancora nessun dato. Apri qwencloud.com con accesso effettuato e aggiorna."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Nascondi limiti"
+   },
+   "loadingSnapshot": {
+      "message": "caricamento dati"
+   },
+   "manualRefreshHint": {
+      "message": "Gli aggiornamenti automatici sono disattivati. Premi Aggiorna per caricare l'utilizzo."
+   },
+   "nextResetLabel": {
+      "message": "reset $1"
+   },
+   "notConnected": {
+      "message": "non connesso"
+   },
+   "optionsBadgeDescription": {
+      "message": "L’icona dell’estensione cambia a intervalli del 10% in base a questa fonte."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Questo provider è nascosto nel popup, ma il suo intervallo dell’icona resta attivo."
+   },
+   "optionsBadgeHighest": {
+      "message": "Il più alto tra i provider visibili"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Usa la percentuale attuale più alta tra le schede mostrate."
+   },
+   "optionsBadgeProvider": {
+      "message": "Provider"
+   },
+   "optionsBadgeSelected": {
+      "message": "Provider selezionato"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Usa un solo provider, indipendentemente dalla visibilità delle altre schede."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Fonte dell’icona"
+   },
+   "optionsBadgeSteps": {
+      "message": "Passi dell’icona"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "arrotondato per difetto al 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Intervallo dell’icona"
+   },
+   "optionsBadgeWindow": {
+      "message": "Finestra di utilizzo"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Sessione"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Settimana"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Facoltativa. Usala se questo browser non ha l'accesso a z.ai, o per gli account BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "Chiave API GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Lingua del browser"
+   },
+   "optionsLanguageDescription": {
+      "message": "Scegli la lingua del popup, di questa pagina e degli overlay."
+   },
+   "optionsLanguageHint": {
+      "message": "Cambiando lingua la pagina si ricarica."
+   },
+   "optionsLanguageTitle": {
+      "message": "Lingua"
+   },
+   "optionsLayoutDescription": {
+      "message": "Scegli come disporre le schede dei provider visibili nel popup."
+   },
+   "optionsLayoutGrid": {
+      "message": "Due colonne"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Panoramica compatta con due schede per riga."
+   },
+   "optionsLayoutSingle": {
+      "message": "Una colonna"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Una scheda a tutta larghezza per ogni provider."
+   },
+   "optionsLayoutTitle": {
+      "message": "Layout del popup"
+   },
+   "optionsLoading": {
+      "message": "Caricamento impostazioni…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Reimpostazioni disponibili"
+   },
+   "optionsMetricBalance": {
+      "message": "Saldo"
+   },
+   "optionsMetricModels": {
+      "message": "Dettaglio per modello"
+   },
+   "optionsMetricPlan": {
+      "message": "Piano"
+   },
+   "optionsMetricReset": {
+      "message": "Orario di reset"
+   },
+   "optionsMetricSession": {
+      "message": "Utilizzo della sessione"
+   },
+   "optionsMetricSummary": {
+      "message": "Saldo / riepilogo"
+   },
+   "optionsMetricWeekly": {
+      "message": "Utilizzo settimanale"
+   },
+   "optionsNavBadge": {
+      "message": "Icona nella barra"
+   },
+   "optionsNavLabel": {
+      "message": "Sezioni delle impostazioni"
+   },
+   "optionsNavLayout": {
+      "message": "Layout"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlay nella pagina"
+   },
+   "optionsNavProviders": {
+      "message": "Provider"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Attiva l’overlay di $1 nella pagina"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Mostra la capsula di utilizzo comprimibile accanto al campo del messaggio."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlay nella pagina"
+   },
+   "optionsPercentageDescription": {
+      "message": "Mostra quanto di ogni limite è stato usato o rimane."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Rimanente"
+   },
+   "optionsPercentageTitle": {
+      "message": "Visualizzazione dei limiti"
+   },
+   "optionsPercentageUsed": {
+      "message": "Utilizzato"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 di $2 dettagli"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Dettagli di utilizzo di $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Nascosto nel popup"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Mostra $1 nel popup"
+   },
+   "optionsProvidersDescription": {
+      "message": "Nascondi una scheda o scegli i dettagli di utilizzo che può mostrare. I dati non disponibili restano nascosti automaticamente."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 di $2 visibili"
+   },
+   "optionsProvidersTitle": {
+      "message": "Provider"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatico"
+   },
+   "optionsRefreshDescription": {
+      "message": "Scegli aggiornamenti automatici o manuali."
+   },
+   "optionsRefreshInterval": {
+      "message": "Intervallo (minuti, minimo 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Solo premendo Aggiorna"
+   },
+   "optionsRefreshTitle": {
+      "message": "Aggiornamento utilizzo"
+   },
+   "optionsResetAction": {
+      "message": "Ripristina"
+   },
+   "optionsResetConfirm": {
+      "message": "Fai clic di nuovo per confermare"
+   },
+   "optionsResetDescription": {
+      "message": "Ripristina tutte le preferenze di questa pagina. L’azione è irreversibile."
+   },
+   "optionsResetTitle": {
+      "message": "Ripristina i valori predefiniti"
+   },
+   "optionsSaveError": {
+      "message": "Impossibile salvare"
+   },
+   "optionsSaved": {
+      "message": "Tutte le modifiche salvate"
+   },
+   "optionsSaving": {
+      "message": "Salvataggio…"
+   },
+   "optionsSkip": {
+      "message": "Vai alle impostazioni"
+   },
+   "optionsTitle": {
+      "message": "Impostazioni di AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% rimanente"
+   },
+   "planLabel": {
+      "message": "Piano · $1"
+   },
+   "planUsage": {
+      "message": "Utilizzo del piano"
+   },
+   "popupTitle": {
+      "message": "Utilizzo"
+   },
+   "refreshErrorPrefix": {
+      "message": "Impossibile aggiornare"
+   },
+   "refreshFailed": {
+      "message": "Aggiornamento non riuscito"
+   },
+   "refreshUsage": {
+      "message": "Aggiorna utilizzo"
+   },
+   "refreshUsageLimits": {
+      "message": "Aggiorna limiti"
+   },
+   "refreshing": {
+      "message": "aggiornamento..."
+   },
+   "reportCancel": {
+      "message": "Annulla"
+   },
+   "reportDescription": {
+      "message": "Descrivi cosa non ha funzionato. La segnalazione arriva direttamente agli sviluppatori."
+   },
+   "reportFailed": {
+      "message": "Impossibile inviare la segnalazione."
+   },
+   "reportOnGithub": {
+      "message": "Apri una issue su GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Cosa è successo? Quale provider è coinvolto?"
+   },
+   "reportPrivacy": {
+      "message": "Invia il messaggio con versione dell’estensione, lingua e schede provider attive."
+   },
+   "reportProblem": {
+      "message": "Segnala un problema"
+   },
+   "reportSend": {
+      "message": "Invia"
+   },
+   "reportSending": {
+      "message": "Invio…"
+   },
+   "reportSent": {
+      "message": "Grazie! La segnalazione è stata inviata."
+   },
+   "reportTitle": {
+      "message": "Segnala un problema"
+   },
+   "resetsLabel": {
+      "message": "reset $1"
+   },
+   "sessionExpired": {
+      "message": "sessione scaduta"
+   },
+   "sessionLimit": {
+      "message": "Sessione · 5 h"
+   },
+   "showLimits": {
+      "message": "Mostra limiti"
+   },
+   "sourceCode": {
+      "message": "Codice sorgente"
+   },
+   "timeAgo": {
+      "message": "$1 fa"
+   },
+   "timeDayShort": {
+      "message": "g"
+   },
+   "timeHourShort": {
+      "message": "h"
+   },
+   "timeJustNow": {
+      "message": "proprio ora"
+   },
+   "timeMinuteShort": {
+      "message": "min"
+   },
+   "timeNow": {
+      "message": "ora"
+   },
+   "timeUnknown": {
+      "message": "sconosciuto"
+   },
+   "tokenPlan": {
+      "message": "Piano token"
+   },
+   "updated": {
+      "message": "aggiornato $1"
+   },
+   "waitingForSnapshot": {
+      "message": "in attesa dei dati"
+   },
+   "weeklyLimit": {
+      "message": "Settimana · 7 g"
+   },
+   "welcomeCta": {
+      "message": "Inizia"
+   },
+   "welcomeCtaHint": {
+      "message": "Potrai rimuoverla più tardi da Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Fai clic sull’icona fissata per vedere il tuo utilizzo"
+   },
+   "welcomeStepPin": {
+      "message": "Fai clic sull’icona delle estensioni {icon} nella barra, poi fissa AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Tieni i tuoi limiti a un clic: il popup si apre direttamente dalla barra degli strumenti."
+   },
+   "welcomeTitle": {
+      "message": "Fissa AI Usage Tracker"
+   }
+}

@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Отслеживайте лимиты Claude и ChatGPT (Codex) за сессию и неделю в попапе, бейдже и оверлее. Приватно, без настройки."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: лимиты Claude и Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Доступно сбросов · $1"
+   },
+   "emptyClaude": {
+      "message": "Данных пока нет. Откройте claude.ai под своим аккаунтом и обновите."
+   },
+   "emptyCodex": {
+      "message": "Данных пока нет. Откройте chatgpt.com под своим аккаунтом и обновите."
+   },
+   "emptyCursor": {
+      "message": "Данных пока нет. Откройте cursor.com под своим аккаунтом и обновите."
+   },
+   "emptyGlm": {
+      "message": "Данных пока нет. Откройте z.ai под своим аккаунтом и обновите."
+   },
+   "emptyKimi": {
+      "message": "Данных пока нет. Откройте kimi.com/code под своим аккаунтом и обновите."
+   },
+   "emptyMiMo": {
+      "message": "Данных пока нет. Откройте platform.xiaomimimo.com под своим аккаунтом и обновите."
+   },
+   "emptyMiniMax": {
+      "message": "Данных пока нет. Откройте platform.minimax.io под своим аккаунтом и обновите."
+   },
+   "emptyOverlay": {
+      "message": "Данных пока нет. Откройте попап и обновите."
+   },
+   "emptyQwen": {
+      "message": "Данных пока нет. Откройте qwencloud.com под своим аккаунтом и обновите."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Скрыть лимиты"
+   },
+   "loadingSnapshot": {
+      "message": "загрузка данных"
+   },
+   "manualRefreshHint": {
+      "message": "Автоматическое обновление выключено. Нажмите «Обновить», чтобы загрузить данные."
+   },
+   "nextResetLabel": {
+      "message": "сброс $1"
+   },
+   "notConnected": {
+      "message": "нет подключения"
+   },
+   "optionsBadgeDescription": {
+      "message": "Иконка расширения меняется шагами по 10% на основе этого источника."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Этот провайдер скрыт в попапе, но его диапазон значка остаётся активным."
+   },
+   "optionsBadgeHighest": {
+      "message": "Максимум среди видимых провайдеров"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Использовать наибольший текущий процент среди показанных карточек."
+   },
+   "optionsBadgeProvider": {
+      "message": "Провайдер"
+   },
+   "optionsBadgeSelected": {
+      "message": "Выбранный провайдер"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Использовать одного провайдера независимо от видимости других карточек."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Источник значка"
+   },
+   "optionsBadgeSteps": {
+      "message": "Шаги иконки на панели"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "округление вниз до 10%"
+   },
+   "optionsBadgeTitle": {
+      "message": "Диапазон значка"
+   },
+   "optionsBadgeWindow": {
+      "message": "Окно расхода"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Сессия"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Неделя"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Необязательно. Используйте, если в этом браузере нет входа в z.ai, или для аккаунтов BigModel."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "API-ключ GLM"
+   },
+   "optionsLanguageAuto": {
+      "message": "Язык браузера"
+   },
+   "optionsLanguageDescription": {
+      "message": "Выберите язык попапа, этой страницы и оверлеев на сайтах."
+   },
+   "optionsLanguageHint": {
+      "message": "При смене языка страница перезагрузится."
+   },
+   "optionsLanguageTitle": {
+      "message": "Язык"
+   },
+   "optionsLayoutDescription": {
+      "message": "Выберите, как располагать карточки провайдеров в попапе."
+   },
+   "optionsLayoutGrid": {
+      "message": "Две колонки"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Компактный обзор: по две карточки в ряд."
+   },
+   "optionsLayoutSingle": {
+      "message": "Одна колонка"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Карточка каждого провайдера во всю ширину."
+   },
+   "optionsLayoutTitle": {
+      "message": "Раскладка попапа"
+   },
+   "optionsLoading": {
+      "message": "Загрузка настроек…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Доступные сбросы"
+   },
+   "optionsMetricBalance": {
+      "message": "Баланс"
+   },
+   "optionsMetricModels": {
+      "message": "Разбивка по моделям"
+   },
+   "optionsMetricPlan": {
+      "message": "Тариф"
+   },
+   "optionsMetricReset": {
+      "message": "Время сброса"
+   },
+   "optionsMetricSession": {
+      "message": "Расход за сессию"
+   },
+   "optionsMetricSummary": {
+      "message": "Баланс / сводка"
+   },
+   "optionsMetricWeekly": {
+      "message": "Расход за неделю"
+   },
+   "optionsNavBadge": {
+      "message": "Значок на панели"
+   },
+   "optionsNavLabel": {
+      "message": "Разделы настроек"
+   },
+   "optionsNavLayout": {
+      "message": "Раскладка"
+   },
+   "optionsNavOverlays": {
+      "message": "Оверлеи на страницах"
+   },
+   "optionsNavProviders": {
+      "message": "Провайдеры"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Включить оверлей $1 на странице"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Показывать сворачиваемую капсулу с расходом рядом с полем ввода."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Оверлеи на страницах"
+   },
+   "optionsPercentageDescription": {
+      "message": "Показывать, сколько каждого лимита использовано или осталось."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Осталось"
+   },
+   "optionsPercentageTitle": {
+      "message": "Отображение лимитов"
+   },
+   "optionsPercentageUsed": {
+      "message": "Использовано"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 из $2 деталей"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Данные $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Скрыт в попапе"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Показывать $1 в попапе"
+   },
+   "optionsProvidersDescription": {
+      "message": "Скройте карточку или выберите, какие данные она может показывать. Недоступные данные скрываются автоматически."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 из $2 показано"
+   },
+   "optionsProvidersTitle": {
+      "message": "Провайдеры"
+   },
+   "optionsRefreshAuto": {
+      "message": "Автоматически"
+   },
+   "optionsRefreshDescription": {
+      "message": "Выберите автоматическое или ручное обновление."
+   },
+   "optionsRefreshInterval": {
+      "message": "Интервал (минуты, минимум 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Только по кнопке «Обновить»"
+   },
+   "optionsRefreshTitle": {
+      "message": "Обновление данных"
+   },
+   "optionsResetAction": {
+      "message": "Сбросить настройки"
+   },
+   "optionsResetConfirm": {
+      "message": "Нажмите ещё раз для подтверждения"
+   },
+   "optionsResetDescription": {
+      "message": "Восстанавливает все настройки на этой странице. Действие необратимо."
+   },
+   "optionsResetTitle": {
+      "message": "Сброс настроек"
+   },
+   "optionsSaveError": {
+      "message": "Не удалось сохранить"
+   },
+   "optionsSaved": {
+      "message": "Все изменения сохранены"
+   },
+   "optionsSaving": {
+      "message": "Сохранение…"
+   },
+   "optionsSkip": {
+      "message": "Перейти к настройкам"
+   },
+   "optionsTitle": {
+      "message": "Настройки AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "Осталось $1%"
+   },
+   "planLabel": {
+      "message": "План · $1"
+   },
+   "planUsage": {
+      "message": "Расход тарифа"
+   },
+   "popupTitle": {
+      "message": "Использование"
+   },
+   "refreshErrorPrefix": {
+      "message": "Не удалось обновить"
+   },
+   "refreshFailed": {
+      "message": "Ошибка обновления"
+   },
+   "refreshUsage": {
+      "message": "Обновить данные"
+   },
+   "refreshUsageLimits": {
+      "message": "Обновить лимиты"
+   },
+   "refreshing": {
+      "message": "обновление..."
+   },
+   "reportCancel": {
+      "message": "Отмена"
+   },
+   "reportDescription": {
+      "message": "Опишите, что пошло не так. Сообщение придёт напрямую разработчикам."
+   },
+   "reportFailed": {
+      "message": "Не удалось отправить сообщение."
+   },
+   "reportOnGithub": {
+      "message": "Открыть issue на GitHub"
+   },
+   "reportPlaceholder": {
+      "message": "Что случилось? Какой провайдер затронут?"
+   },
+   "reportPrivacy": {
+      "message": "Отправляет ваше сообщение вместе с версией расширения, языком и списком включённых карточек провайдеров."
+   },
+   "reportProblem": {
+      "message": "Сообщить о проблеме"
+   },
+   "reportSend": {
+      "message": "Отправить"
+   },
+   "reportSending": {
+      "message": "Отправляем…"
+   },
+   "reportSent": {
+      "message": "Спасибо! Сообщение отправлено."
+   },
+   "reportTitle": {
+      "message": "Сообщить о проблеме"
+   },
+   "resetsLabel": {
+      "message": "сброс $1"
+   },
+   "sessionExpired": {
+      "message": "сессия истекла"
+   },
+   "sessionLimit": {
+      "message": "Сессия · 5 ч"
+   },
+   "showLimits": {
+      "message": "Показать лимиты"
+   },
+   "sourceCode": {
+      "message": "Исходный код"
+   },
+   "timeAgo": {
+      "message": "$1 назад"
+   },
+   "timeDayShort": {
+      "message": "д"
+   },
+   "timeHourShort": {
+      "message": "ч"
+   },
+   "timeJustNow": {
+      "message": "только что"
+   },
+   "timeMinuteShort": {
+      "message": "м"
+   },
+   "timeNow": {
+      "message": "сейчас"
+   },
+   "timeUnknown": {
+      "message": "неизвестно"
+   },
+   "tokenPlan": {
+      "message": "Токен-план"
+   },
+   "updated": {
+      "message": "обновлено $1"
+   },
+   "waitingForSnapshot": {
+      "message": "ожидание данных"
+   },
+   "weeklyLimit": {
+      "message": "Неделя · 7 д"
+   },
+   "welcomeCta": {
+      "message": "Начать"
+   },
+   "welcomeCtaHint": {
+      "message": "Открепить можно позже в Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Нажмите на закреплённый значок, чтобы увидеть расход"
+   },
+   "welcomeStepPin": {
+      "message": "Нажмите на значок расширений {icon} на панели и закрепите AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Держите лимиты в одном клике — попап открывается прямо с панели браузера."
+   },
+   "welcomeTitle": {
+      "message": "Закрепите AI Usage Tracker"
+   }
+}

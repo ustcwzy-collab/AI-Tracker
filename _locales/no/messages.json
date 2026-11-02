@@ -1,0 +1,389 @@
+{
+   "appDescription": {
+      "message": "Følg økt- og ukegrenser for Claude og ChatGPT (Codex) i en popup og som overlegg på siden. Uten oppsett."
+   },
+   "appName": {
+      "message": "AI Usage Tracker: grenser for Claude og Codex"
+   },
+   "appShortName": {
+      "message": "AI Usage Tracker"
+   },
+   "availableResetsLabel": {
+      "message": "Tilgjengelige nullstillinger · $1"
+   },
+   "emptyClaude": {
+      "message": "Ingen data ennå. Åpne claude.ai mens du er innlogget, og oppdater."
+   },
+   "emptyCodex": {
+      "message": "Ingen data ennå. Åpne chatgpt.com mens du er innlogget, og oppdater."
+   },
+   "emptyCursor": {
+      "message": "Ingen data ennå. Åpne cursor.com mens du er innlogget, og oppdater."
+   },
+   "emptyGlm": {
+      "message": "Ingen data ennå. Åpne z.ai mens du er innlogget, og oppdater."
+   },
+   "emptyKimi": {
+      "message": "Ingen data ennå. Åpne kimi.com/code mens du er innlogget, og oppdater."
+   },
+   "emptyMiMo": {
+      "message": "Ingen data ennå. Åpne platform.xiaomimimo.com mens du er innlogget, og oppdater."
+   },
+   "emptyMiniMax": {
+      "message": "Ingen data ennå. Åpne platform.minimax.io mens du er innlogget, og oppdater."
+   },
+   "emptyOverlay": {
+      "message": "Ingen data ennå. Åpne popupen og oppdater."
+   },
+   "emptyQwen": {
+      "message": "Ingen data ennå. Åpne qwencloud.com mens du er innlogget, og oppdater."
+   },
+   "github": {
+      "message": "GitHub"
+   },
+   "hideLimits": {
+      "message": "Skjul grenser"
+   },
+   "loadingSnapshot": {
+      "message": "laster"
+   },
+   "manualRefreshHint": {
+      "message": "Automatisk oppdatering er av. Trykk på Oppdater for å laste inn bruken."
+   },
+   "nextResetLabel": {
+      "message": "nullstilles om $1"
+   },
+   "notConnected": {
+      "message": "ikke tilkoblet"
+   },
+   "optionsBadgeDescription": {
+      "message": "Utvidelsens ikon endres i trinn på 10 % basert på denne kilden."
+   },
+   "optionsBadgeHiddenWarning": {
+      "message": "Leverandøren er skjult i popupen, men ikonintervallet er fortsatt aktivt."
+   },
+   "optionsBadgeHighest": {
+      "message": "Høyeste av synlige leverandører"
+   },
+   "optionsBadgeHighestDescription": {
+      "message": "Bruk den høyeste gjeldende prosenten blant viste kort."
+   },
+   "optionsBadgeProvider": {
+      "message": "Leverandør"
+   },
+   "optionsBadgeSelected": {
+      "message": "Valgt leverandør"
+   },
+   "optionsBadgeSelectedDescription": {
+      "message": "Bruk én leverandør uavhengig av om andre kort vises."
+   },
+   "optionsBadgeSourceLabel": {
+      "message": "Ikonkilde"
+   },
+   "optionsBadgeSteps": {
+      "message": "Ikonets trinn"
+   },
+   "optionsBadgeStepsHint": {
+      "message": "rundet ned til 10 %"
+   },
+   "optionsBadgeTitle": {
+      "message": "Ikonintervall"
+   },
+   "optionsBadgeWindow": {
+      "message": "Forbruksvindu"
+   },
+   "optionsBadgeWindowSession": {
+      "message": "Økt"
+   },
+   "optionsBadgeWindowWeekly": {
+      "message": "Uke"
+   },
+   "optionsGlmKeyHint": {
+      "message": "Valgfritt. Bruk den hvis denne nettleseren ikke er logget på z.ai, eller for BigModel-kontoer."
+   },
+   "optionsGlmKeyLabel": {
+      "message": "GLM API-nøkkel"
+   },
+   "optionsLanguageAuto": {
+      "message": "Nettleserens språk"
+   },
+   "optionsLanguageDescription": {
+      "message": "Velg språk for popupen, denne siden og overleggene."
+   },
+   "optionsLanguageHint": {
+      "message": "Bytte av språk laster siden på nytt."
+   },
+   "optionsLanguageTitle": {
+      "message": "Språk"
+   },
+   "optionsLayoutDescription": {
+      "message": "Velg hvordan synlige leverandørkort ordnes i popupen."
+   },
+   "optionsLayoutGrid": {
+      "message": "To kolonner"
+   },
+   "optionsLayoutGridDescription": {
+      "message": "Kompakt oversikt med to kort per rad."
+   },
+   "optionsLayoutSingle": {
+      "message": "Én kolonne"
+   },
+   "optionsLayoutSingleDescription": {
+      "message": "Ett kort i full bredde per leverandør."
+   },
+   "optionsLayoutTitle": {
+      "message": "Popup-oppsett"
+   },
+   "optionsLoading": {
+      "message": "Laster innstillinger…"
+   },
+   "optionsMetricAvailableResets": {
+      "message": "Tilgjengelige nullstillinger"
+   },
+   "optionsMetricBalance": {
+      "message": "Saldo"
+   },
+   "optionsMetricModels": {
+      "message": "Fordeling per modell"
+   },
+   "optionsMetricPlan": {
+      "message": "Plan"
+   },
+   "optionsMetricReset": {
+      "message": "Nullstillingstid"
+   },
+   "optionsMetricSession": {
+      "message": "Øktforbruk"
+   },
+   "optionsMetricSummary": {
+      "message": "Saldo / sammendrag"
+   },
+   "optionsMetricWeekly": {
+      "message": "Ukesforbruk"
+   },
+   "optionsNavBadge": {
+      "message": "Verktøylinjeikon"
+   },
+   "optionsNavLabel": {
+      "message": "Innstillingsseksjoner"
+   },
+   "optionsNavLayout": {
+      "message": "Oppsett"
+   },
+   "optionsNavOverlays": {
+      "message": "Overlegg på siden"
+   },
+   "optionsNavProviders": {
+      "message": "Leverandører"
+   },
+   "optionsOverlayToggleLabel": {
+      "message": "Slå på $1-overlegg på siden"
+   },
+   "optionsOverlaysDescription": {
+      "message": "Vis den sammenleggbare forbrukskapselen ved siden av meldingsfeltet."
+   },
+   "optionsOverlaysTitle": {
+      "message": "Overlegg på siden"
+   },
+   "optionsPercentageDescription": {
+      "message": "Vis hvor mye av hver grense som er brukt eller gjenstår."
+   },
+   "optionsPercentageRemaining": {
+      "message": "Gjenstående"
+   },
+   "optionsPercentageTitle": {
+      "message": "Visning av grenser"
+   },
+   "optionsPercentageUsed": {
+      "message": "Brukt"
+   },
+   "optionsProviderDetails": {
+      "message": "$1 av $2 detaljer"
+   },
+   "optionsProviderDetailsLegend": {
+      "message": "Forbruksdetaljer for $1"
+   },
+   "optionsProviderHidden": {
+      "message": "Skjult i popupen"
+   },
+   "optionsProviderToggleLabel": {
+      "message": "Vis $1 i popupen"
+   },
+   "optionsProvidersDescription": {
+      "message": "Skjul et kort, eller velg hvilke data det viser. Utilgjengelige data skjules automatisk."
+   },
+   "optionsProvidersShown": {
+      "message": "$1 av $2 vises"
+   },
+   "optionsProvidersTitle": {
+      "message": "Leverandører"
+   },
+   "optionsRefreshAuto": {
+      "message": "Automatisk"
+   },
+   "optionsRefreshDescription": {
+      "message": "Velg automatisk eller manuell oppdatering."
+   },
+   "optionsRefreshInterval": {
+      "message": "Intervall (minutter, minst 1)"
+   },
+   "optionsRefreshManual": {
+      "message": "Bare via Oppdater"
+   },
+   "optionsRefreshTitle": {
+      "message": "Oppdatering av bruk"
+   },
+   "optionsResetAction": {
+      "message": "Tilbakestill"
+   },
+   "optionsResetConfirm": {
+      "message": "Klikk igjen for å bekrefte"
+   },
+   "optionsResetDescription": {
+      "message": "Gjenoppretter alle innstillinger på denne siden. Dette kan ikke angres."
+   },
+   "optionsResetTitle": {
+      "message": "Tilbakestill til standard"
+   },
+   "optionsSaveError": {
+      "message": "Kunne ikke lagre"
+   },
+   "optionsSaved": {
+      "message": "Alle endringer lagret"
+   },
+   "optionsSaving": {
+      "message": "Lagrer…"
+   },
+   "optionsSkip": {
+      "message": "Gå til innstillinger"
+   },
+   "optionsTitle": {
+      "message": "Innstillinger for AI Usage Tracker"
+   },
+   "percentageRemaining": {
+      "message": "$1% igjen"
+   },
+   "planLabel": {
+      "message": "Plan · $1"
+   },
+   "planUsage": {
+      "message": "Planforbruk"
+   },
+   "popupTitle": {
+      "message": "Forbruk"
+   },
+   "refreshErrorPrefix": {
+      "message": "Kunne ikke oppdatere"
+   },
+   "refreshFailed": {
+      "message": "Oppdatering mislyktes"
+   },
+   "refreshUsage": {
+      "message": "Oppdater forbruk"
+   },
+   "refreshUsageLimits": {
+      "message": "Oppdater grenser"
+   },
+   "refreshing": {
+      "message": "oppdaterer..."
+   },
+   "reportCancel": {
+      "message": "Avbryt"
+   },
+   "reportDescription": {
+      "message": "Beskriv hva som gikk galt. Rapporten går rett til utviklerne."
+   },
+   "reportFailed": {
+      "message": "Kunne ikke sende rapporten."
+   },
+   "reportOnGithub": {
+      "message": "Åpne et GitHub-issue"
+   },
+   "reportPlaceholder": {
+      "message": "Hva skjedde? Hvilken leverandør er berørt?"
+   },
+   "reportPrivacy": {
+      "message": "Sender meldingen din med utvidelsens versjon, språk og hvilke leverandørkort som er på."
+   },
+   "reportProblem": {
+      "message": "Rapporter et problem"
+   },
+   "reportSend": {
+      "message": "Send"
+   },
+   "reportSending": {
+      "message": "Sender…"
+   },
+   "reportSent": {
+      "message": "Takk! Rapporten ble sendt."
+   },
+   "reportTitle": {
+      "message": "Rapporter et problem"
+   },
+   "resetsLabel": {
+      "message": "nullstilles om $1"
+   },
+   "sessionExpired": {
+      "message": "økten er utløpt"
+   },
+   "sessionLimit": {
+      "message": "Økt · 5 t"
+   },
+   "showLimits": {
+      "message": "Vis grenser"
+   },
+   "sourceCode": {
+      "message": "Kildekode"
+   },
+   "timeAgo": {
+      "message": "for $1 siden"
+   },
+   "timeDayShort": {
+      "message": "d"
+   },
+   "timeHourShort": {
+      "message": "t"
+   },
+   "timeJustNow": {
+      "message": "nettopp"
+   },
+   "timeMinuteShort": {
+      "message": "m"
+   },
+   "timeNow": {
+      "message": "nå"
+   },
+   "timeUnknown": {
+      "message": "ukjent"
+   },
+   "tokenPlan": {
+      "message": "Tokenplan"
+   },
+   "updated": {
+      "message": "oppdatert $1"
+   },
+   "waitingForSnapshot": {
+      "message": "venter på data"
+   },
+   "weeklyLimit": {
+      "message": "Uke · 7 d"
+   },
+   "welcomeCta": {
+      "message": "Kom i gang"
+   },
+   "welcomeCtaHint": {
+      "message": "Du kan løsne det senere i Chrome."
+   },
+   "welcomeStepOpen": {
+      "message": "Klikk på det festede ikonet for å se forbruket ditt"
+   },
+   "welcomeStepPin": {
+      "message": "Klikk på utvidelsesikonet {icon} i verktøylinjen og fest AI Usage Tracker"
+   },
+   "welcomeSubtitle": {
+      "message": "Ha grensene dine ett klikk unna — vinduet åpnes rett fra verktøylinjen."
+   },
+   "welcomeTitle": {
+      "message": "Fest AI Usage Tracker"
+   }
+}
